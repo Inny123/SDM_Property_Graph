@@ -3,7 +3,7 @@ import json
 
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "password"
+NEO4J_PASSWORD = "inserthere"
 
 class PartBQueries:
     def __init__(self, uri, user, password):
@@ -13,27 +13,28 @@ class PartBQueries:
         self.driver.close()
     
     def query_b1_top_cited_papers(self):
+        """Top 3 most cited papers for each edition of conferences/workshops"""
         query = """
-        MATCH (venue)-[:HAS_EDITION]->(proceeding:Proceeding)
+        MATCH (venue)-[:HAS_EDITION]->(edition:Edition)
         WHERE venue:Conference OR venue:Workshop
         
-        MATCH (proceeding)<-[:PUBLISHED_IN]-(paper:Paper)
+        CALL {
+            WITH venue, edition
+            MATCH (edition)-[:PUBLISHES]->(proceeding:Proceeding)<-[:PUBLISHED_IN]-(p:Paper)
+            WITH p, COUNT { (p)<-[:CITES]-() } AS citation_count
+            ORDER BY citation_count DESC
+            LIMIT 3
+            RETURN {
+                title: p.title,
+                year: p.year,
+                citations: citation_count
+            } AS top_paper_data
+        }
         
-        OPTIONAL MATCH (paper)<-[:CITES]-(citing:Paper)
-        
-        WITH venue, proceeding, paper, count(citing) as citationCount
-        ORDER BY venue.name, proceeding.year, citationCount DESC
-        
-        WITH venue, proceeding, collect({
-            title: paper.title,
-            year: paper.year,
-            citations: citationCount
-        })[0..3] as topPapers
-        
-        RETURN venue.name as Venue,
-               proceeding.year as Year,
-               proceeding.city as City,
-               topPapers as Top3Papers
+        RETURN venue.name AS Venue,
+               edition.year AS Year,
+               edition.city AS City,
+               collect(top_paper_data) AS Top3Papers
         ORDER BY Venue, Year
         """
         
@@ -42,18 +43,25 @@ class PartBQueries:
             return [dict(record) for record in result]
     
     def query_b2_community_authors(self):
+        """Authors who published in 4+ different editions of the same conference/workshop"""
         query = """
-        MATCH (author:Author)-[:WRITES]->(paper:Paper)-[:PUBLISHED_IN]->(proceeding:Proceeding)
-        MATCH (venue)-[:HAS_EDITION]->(proceeding)
+        MATCH (venue)
         WHERE venue:Conference OR venue:Workshop
         
-        WITH author, venue, collect(DISTINCT proceeding.year) as years
-        WHERE size(years) >= 4
+        CALL {
+            WITH venue
+            MATCH (venue)-[:HAS_EDITION]->(edition:Edition)-[:PUBLISHES]->(proceeding:Proceeding)<-[:PUBLISHED_IN]-(paper:Paper)<-[:WRITES]-(author:Author)
+            WITH author, collect(DISTINCT edition.year) AS years
+            WHERE size(years) >= 4
+            RETURN author.name AS author_name,
+                   size(years) AS edition_count,
+                   years AS years_published
+        }
         
-        RETURN author.name as Author,
-               venue.name as Venue,
-               size(years) as EditionCount,
-               years as Years
+        RETURN author_name AS Author,
+               venue.name AS Venue,
+               edition_count AS EditionCount,
+               years_published AS Years
         ORDER BY EditionCount DESC, Author
         """
         
@@ -62,25 +70,33 @@ class PartBQueries:
             return [dict(record) for record in result]
     
     def query_b3_journal_impact_factor(self):
+        """Journal impact factors based on 2018-2019 papers cited in 2020"""
         query = """
-        WITH 2020 as targetYear
-        MATCH (journal:Journal)-[:HAS_VOLUME]->(volume:Volume)
-        WHERE volume.year IN [targetYear - 1, targetYear - 2]
+        MATCH (journal:Journal)
         
-        MATCH (volume)<-[:PUBLISHED_IN]-(paper:Paper)
+        CALL {
+            WITH journal
+            MATCH (journal)-[:HAS_VOLUME]->(volume:Volume)<-[:PUBLISHED_IN]-(paper:Paper)
+            WHERE volume.year IN [2018, 2019]
+            
+            WITH journal, paper
+            OPTIONAL MATCH (paper)<-[:CITES]-(citing:Paper)
+            WHERE citing.year = 2020
+            
+            WITH journal,
+                 count(DISTINCT paper) AS papers_published,
+                 count(citing) AS citations_received
+            WHERE papers_published > 0
+            
+            RETURN papers_published,
+                   citations_received,
+                   round(toFloat(citations_received) / papers_published, 2) AS impact_factor
+        }
         
-        OPTIONAL MATCH (paper)<-[:CITES]-(citing:Paper)
-        WHERE citing.year = targetYear
-        
-        WITH journal, 
-             count(DISTINCT paper) as papersPublished,
-             count(citing) as citationsReceived
-        WHERE papersPublished > 0
-        
-        RETURN journal.name as Journal,
-               papersPublished as Papers_2018_2019,
-               citationsReceived as Citations_2020,
-               round(toFloat(citationsReceived) / papersPublished, 2) as ImpactFactor
+        RETURN journal.name AS Journal,
+               papers_published AS Papers_2018_2019,
+               citations_received AS Citations_2020,
+               impact_factor AS ImpactFactor
         ORDER BY ImpactFactor DESC
         LIMIT 10
         """
@@ -90,21 +106,24 @@ class PartBQueries:
             return [dict(record) for record in result]
     
     def query_b4_author_h_index(self):
+        """Calculate h-index for top 20 authors"""
         query = """
-        MATCH (author:Author)-[:WRITES]->(paper:Paper)
-        OPTIONAL MATCH (paper)<-[:CITES]-(citing:Paper)
+        MATCH (author:Author)
         
-        WITH author, paper, count(citing) as citations
-        ORDER BY author.name, citations DESC
+        CALL {
+            WITH author
+            MATCH (author)-[:WRITES]->(paper:Paper)
+            WITH author, paper, COUNT { (paper)<-[:CITES]-() } AS citations
+            ORDER BY citations DESC
+            
+            WITH author, collect(citations) AS citation_list
+            
+            RETURN reduce(s = 0, i IN range(0, size(citation_list)-1) | 
+                          s + CASE WHEN citation_list[i] >= i+1 THEN 1 ELSE 0 END) AS h_index
+        }
         
-        WITH author, collect(citations) as citationList
-        
-        WITH author, citationList,
-             [i IN range(0, size(citationList)-1) | 
-              CASE WHEN citationList[i] >= i+1 THEN 1 ELSE 0 END] as hList
-        
-        RETURN author.name as Author,
-               reduce(s = 0, x IN hList | s + x) as hIndex
+        RETURN author.name AS Author,
+               h_index AS hIndex
         ORDER BY hIndex DESC
         LIMIT 20
         """
