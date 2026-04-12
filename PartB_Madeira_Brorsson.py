@@ -1,9 +1,11 @@
+import os
+
 from neo4j import GraphDatabase
 import json
 
-NEO4J_URI = "bolt://localhost:7687"
+NEO4J_URI = "neo4j://127.0.0.1:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "inserthere"
+NEO4J_PASSWORD = os.environ["NEO4J_PASSWORD"]
 
 class PartBQueries:
     def __init__(self, uri, user, password):
@@ -30,7 +32,6 @@ class PartBQueries:
                 citations: citation_count
             } AS top_paper_data
         }
-        
         RETURN venue.name AS Venue,
                edition.year AS Year,
                edition.city AS City,

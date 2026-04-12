@@ -1,184 +1,122 @@
 journalId,name
-journal::nucleic acids research,Nucleic Acids Research
-journal::journal of cheminformatics,Journal of Cheminformatics
-journal::proceedings of the vldb endowment,Proceedings of the VLDB Endowment
 journal::acm computing surveys,ACM Computing Surveys
-journal::lecture notes in computer science,Lecture Notes in Computer Science
+journal::science,Science
+journal::biorxiv,bioRxiv
+journal::advances in materials,Advances in Materials
+journal::acs nano,ACS Nano
+journal::ieee transactions on industrial informatics,IEEE Transactions on Industrial Informatics
+journal::ieee transactions on dependable and secure computing,IEEE Transactions on Dependable and Secure Computing
+journal::foundations and trends in communications and information theory,Foundations and Trends in Communications and Information Theory
+journal::mit case studies in social and ethical responsibilities of computing,MIT Case Studies in Social and Ethical Responsibilities of Computing
+journal::nature communications,Nature Communications
+journal::national science review,National Science Review
+journal::applied sciences,Applied Sciences
+journal::big data and cognitive computing,Big Data and Cognitive Computing
+journal::science advances,Science Advances
+journal::new horizons for a data-driven economy,New Horizons for a Data-Driven Economy
+journal::nucleic acids research,Nucleic Acids Research
+journal::light: science & applications,Light: Science & Applications
+journal::communications materials,Communications Materials
+journal::ieee transactions on services computing,IEEE Transactions on Services Computing
+journal::nano letters (print),Nano letters (Print)
+journal::laser & photonics reviews,Laser & Photonics reviews
+journal::scientific reports,Scientific Reports
+journal::journal of network and computer applications,Journal of Network and Computer Applications
+journal::opto-electronic advances,Opto-Electronic Advances
+journal::small structures,Small Structures
+journal::nature chemical biology,Nature Chemical Biology
+journal::mathematical biosciences and engineering : mbe,Mathematical biosciences and engineering : MBE
+journal::journal of big data,Journal of Big Data
+journal::transactions on emerging telecommunications technologies,Transactions on Emerging Telecommunications Technologies
+journal::nanoscale,Nanoscale
+journal::information sciences,Information Sciences
+journal::ieee communications letters,IEEE Communications Letters
+journal::computer communications,Computer Communications
+journal::ieee transactions on cloud computing,IEEE Transactions on Cloud Computing
+journal::nanomaterials,Nanomaterials
+journal::ieee transactions on big data,IEEE Transactions on Big Data
+journal::materials today,Materials Today
+journal::mobile information systems,Mobile Information Systems
+journal::inf.,Inf.
+journal::future generations computer systems,Future generations computer systems
+journal::optics express,Optics Express
+journal::ieee transactions on information theory,IEEE Transactions on Information Theory
+journal::ieee access,IEEE Access
 journal::ieee transactions on knowledge and data engineering,IEEE Transactions on Knowledge and Data Engineering
-journal::found. trends databases,Found. Trends Databases
-journal::communications of the acm,Communications of the ACM
-journal::the vldb journal,The VLDB journal
-journal::computer science - research and development,Computer Science - Research and Development
+journal::ieee transactions on vehicular technology,IEEE Transactions on Vehicular Technology
+journal::semantic web,Semantic Web
+journal::astronomical journal,Astronomical Journal
+journal::journal of king saud university: computer and information sciences,Journal of King Saud University: Computer and Information Sciences
+journal::journal of biomedical semantics,Journal of Biomedical Semantics
+journal::genome biology,Genome Biology
+journal::biodata mining,BioData Mining
+journal::ieee trans. parallel distributed syst.,IEEE Trans. Parallel Distributed Syst.
+journal::nature methods,Nature Methods
+journal::advanced functional materials,Advanced Functional Materials
+journal::plos one,PLoS ONE
+journal::small methods,Small Methods
+journal::chemical communications,Chemical Communications
+journal::bmc bioinformatics,BMC Bioinformatics
+journal::nature,Nature
+journal::biomolecular detection and quantification,Biomolecular Detection and Quantification
+journal::angewandte chemie,Angewandte Chemie
+"journal::states at war, volume 3","States at War, Volume 3"
+journal::proceedings of the national academy of sciences of the united states of america,Proceedings of the National Academy of Sciences of the United States of America
+journal::molecular ecology resources,Molecular Ecology Resources
+journal::biotechniques,BioTechniques
+journal::journal of biological chemistry,Journal of Biological Chemistry
+journal::bmc biotechnology,BMC Biotechnology
+journal::analytical chemistry,Analytical Chemistry
+journal::ieee transactions on molecular biological and multi-scale communications,IEEE Transactions on Molecular Biological and Multi-Scale Communications
+journal::thescientificworldjournal,TheScientificWorldJournal
+journal::annual meeting of the association for computational linguistics,Annual Meeting of the Association for Computational Linguistics
+journal::north american chapter of the association for computational linguistics,North American Chapter of the Association for Computational Linguistics
+journal::computing in science & engineering (print),Computing in science & engineering (Print)
+journal::bioinform.,Bioinform.
+journal::journal of nanobiotechnology,Journal of Nanobiotechnology
+journal::nature biotechnology,Nature Biotechnology
+journal::transactions of the association for computational linguistics,Transactions of the Association for Computational Linguistics
+journal::blackboxnlp@emnlp,BlackboxNLP@EMNLP
+journal::bmc genomics,BMC Genomics
+journal::genes,Genes
+journal::proceedings of the ieee,Proceedings of the IEEE
+journal::gigascience,GigaScience
 journal::computer vision and pattern recognition,Computer Vision and Pattern Recognition
-journal::nucleic acids res.,Nucleic Acids Res.
-journal::apress,Apress
+journal::genome research,Genome Research
+journal::biomed research international,BioMed Research International
+journal::journal of the american chemical society,Journal of the American Chemical Society
+journal::breast cancer research,Breast Cancer Research
+journal::rep4nlp@acl,Rep4NLP@ACL
+journal::interspeech,Interspeech
+journal::journal of machine learning research,Journal of machine learning research
+journal::journal of combinatorial theory,Journal of Combinatorial Theory
+journal::ssst@emnlp,SSST@EMNLP
+"journal::ieee transactions on audio, speech, and language processing","IEEE Transactions on Audio, Speech, and Language Processing"
+journal::international journal of computer vision,International Journal of Computer Vision
+journal::discrete mathematics,Discrete Mathematics
+journal::annales de l institut henri poincare-probabilites et statistiques,Annales De L Institut Henri Poincare-probabilites Et Statistiques
+journal::the annals of applied probability,The Annals of Applied Probability
+journal::plos biology,PLoS Biology
+journal::cell,Cell
+journal::ieee signal processing magazine,IEEE Signal Processing Magazine
+journal::cognitive sciences,Cognitive Sciences
+journal::acm multimedia,ACM Multimedia
+journal::journal of artificial intelligence research,Journal of Artificial Intelligence Research
+journal::human language technology - the baltic perspectiv,Human Language Technology - The Baltic Perspectiv
+journal::wmt@acl,WMT@ACL
 journal::ieee transactions on pattern analysis and machine intelligence,IEEE Transactions on Pattern Analysis and Machine Intelligence
-journal::speech communication,Speech Communication
+journal::ieee transactions on neural networks and learning systems,IEEE Transactions on Neural Networks and Learning Systems
+journal::scholarpedia,Scholarpedia
+journal::journal of molecular biology,Journal of Molecular Biology
+journal::ieee transactions on neural networks,IEEE Transactions on Neural Networks
+journal::neural computation,Neural Computation
+journal::wmt@emnlp,WMT@EMNLP
+journal::acl-pascal@acl,ACL-PASCAL@ACL
 journal::cacm,CACM
 journal::vision,Vision
-journal::international journal of systematic and evolutionary microbiology,International Journal of Systematic and Evolutionary Microbiology
-journal::database j. biol. databases curation,Database J. Biol. Databases Curation
-journal::nature food,Nature Food
-journal::trans. large scale data knowl. centered syst.,Trans. Large Scale Data Knowl. Centered Syst.
-journal::csur,CSUR
-journal::encyclopedia of database systems,Encyclopedia of Database Systems
-journal::tods,TODS
-journal::principles of computer science series,Principles of computer science series
-journal::topics in information systems,Topics in Information Systems
-journal::advances in intelligent information and database systems,Advances in Intelligent Information and Database Systems
-journal::sgmd,SGMD
-journal::genome research,Genome Research
-journal::scientific data,Scientific Data
-journal::wiley encyclopedia of computer science and engineering,Wiley Encyclopedia of Computer Science and Engineering
-journal::annual meeting of the association for computational linguistics,Annual Meeting of the Association for Computational Linguistics
-journal::arxiv.org,arXiv.org
-journal::journal of machine learning research,Journal of machine learning research
-journal::acm trans. comput. heal.,ACM Trans. Comput. Heal.
-journal::information retrieval (boston),Information retrieval (Boston)
-journal::nature reviews psychology,Nature Reviews Psychology
-journal::natural language processing,Natural Language Processing
-journal::artificial intelligence review,Artificial Intelligence Review
-journal::ieee computational intelligence magazine,IEEE Computational Intelligence Magazine
-journal::npj computational materials,npj Computational Materials
-journal::science china technological sciences,Science China Technological Sciences
-journal::language resources and evaluation,Language Resources and Evaluation
-journal::ieee transactions on neural networks and learning systems,IEEE Transactions on Neural Networks and Learning Systems
-journal::artificial intelligence,Artificial Intelligence
-journal::journal of big data,Journal of Big Data
-journal::safety,Safety
-journal::automation in construction,Automation in Construction
-journal::socialnlp@eacl,SocialNLP@EACL
-journal::bionlp@acl,BioNLP@ACL
-journal::frontiers artif. intell.,Frontiers Artif. Intell.
-journal::comput. biol. medicine,Comput. Biol. Medicine
-journal::transactions of the association for computational linguistics,Transactions of the Association for Computational Linguistics
-journal::multimedia tools and applications,Multimedia tools and applications
-journal::prentice hall series in artificial intelligence,Prentice Hall series in artificial intelligence
-journal::nature communications,Nature Communications
-journal::npj digital medicine,npj Digital Medicine
-journal::nlposs,NLPOSS
-journal::inf.,Inf.
-journal::translational psychiatry,Translational Psychiatry
-journal::natural language processing journal,Natural Language Processing Journal
-journal::findings,Findings
-journal::found. trends mach. learn.,Found. Trends Mach. Learn.
-journal::neurocomputing,Neurocomputing
-journal::ai open,AI Open
-journal::journal of robotics spectrum,Journal of Robotics Spectrum
-journal::frontiers in artificial intelligence,Frontiers in Artificial Intelligence
-journal::language and linguistics compass,Language and Linguistics Compass
-journal::machine-mediated learning,Machine-mediated learning
-journal::north american chapter of the association for computational linguistics,North American Chapter of the Association for Computational Linguistics
-journal::interantional journal of scientific research in engineering and management,INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT
-journal::computational linguistics,Computational Linguistics
-journal::aacl,AACL
-journal::journal of artificial intelligence research,Journal of Artificial Intelligence Research
-journal::communications biology,Communications Biology
-journal::iberlef@sepln,IberLEF@SEPLN
-journal::social science research network,Social Science Research Network
-journal::journal of management analytics,Journal of Management Analytics
-journal::naacl-hlt,NAACL-HLT
-journal::patterns,Patterns
-journal::computer science review,Computer Science Review
-journal::bmc medical informatics and decision making,BMC Medical Informatics and Decision Making
-journal::information processing & management,Information Processing & Management
-journal::journal of medical internet research,Journal of Medical Internet Research
-journal::computers & security,Computers & security
-journal::applied sciences,Applied Sciences
-journal::j. am. medical informatics assoc.,J. Am. Medical Informatics Assoc.
-journal::bmc medical research methodology,BMC Medical Research Methodology
-journal::ieee access,IEEE Access
-journal::trends in anaesthesia and critical care,Trends in Anaesthesia and Critical Care
-journal::ieee reviews in biomedical engineering,IEEE Reviews in Biomedical Engineering
-journal::artif. intell. medicine,Artif. Intell. Medicine
-journal::jacm,JACM
-journal::computer,Computer
-journal::enterprise process management systems,Enterprise Process Management Systems
-journal::lectures on runtime verification,Lectures on Runtime Verification
-journal::cambridge international law journal,Cambridge International Law Journal
-journal::j. parallel distributed comput.,J. Parallel Distributed Comput.
-journal::ieee transactions on industrial electronics (1982. print),IEEE transactions on industrial electronics (1982. Print)
-journal::ieee transactions on parallel and distributed systems,IEEE Transactions on Parallel and Distributed Systems
-journal::ieee transactions on fuzzy systems,IEEE transactions on fuzzy systems
-journal::ieee transactions on smart grid,IEEE Transactions on Smart Grid
-journal::computing,Computing
-journal::ieee transactions on automatic control,IEEE Transactions on Automatic Control
-journal::ieee transactions on industrial informatics,IEEE Transactions on Industrial Informatics
-journal::scientific programming,Scientific Programming
-journal::information sciences,Information Sciences
-journal::proceedings of the ieee,Proceedings of the IEEE
-journal::ieee transactions on cybernetics,IEEE Transactions on Cybernetics
-"journal::ieee transactions on systems, man, and cybernetics: systems","IEEE Transactions on Systems, Man, and Cybernetics: Systems"
-journal::international journal of systems science,International Journal of Systems Science
-journal::at - automatisierungstechnik,at - Automatisierungstechnik
-journal::neural information processing systems,Neural Information Processing Systems
-journal::ieee power & energy society general meeting,IEEE Power & Energy Society General Meeting
-journal::ieee transactions on power systems,IEEE Transactions on Power Systems
-journal::annual reviews in control,Annual Reviews in Control
-journal::knowledge and information systems,Knowledge and Information Systems
-journal::future generations computer systems,Future generations computer systems
-journal::ieee communications surveys and tutorials,IEEE Communications Surveys and Tutorials
-journal::power engineering society summer meeting,Power Engineering Society Summer Meeting
-journal::journal of computer and system sciences (print),Journal of computer and system sciences (Print)
-journal::measurement and modeling of computer systems,Measurement and Modeling of Computer Systems
-journal::neural computation,Neural Computation
-journal::bioinform.,Bioinform.
-journal::blackboxnlp@emnlp,BlackboxNLP@EMNLP
-journal::acm multimedia,ACM Multimedia
-journal::ssst@emnlp,SSST@EMNLP
-journal::program,Program
-journal::journal of biomedical informatics,Journal of Biomedical Informatics
-journal::interspeech,Interspeech
-journal::blackboxnlp@acl,BlackboxNLP@ACL
-journal::cognitive sciences,Cognitive Sciences
-journal::acl-pascal@acl,ACL-PASCAL@ACL
-journal::nature,Nature
-journal::international journal of computer vision,International Journal of Computer Vision
-journal::rep4nlp@acl,Rep4NLP@ACL
-journal::neural networks,Neural Networks
-journal::human language technology - the baltic perspectiv,Human Language Technology - The Baltic Perspectiv
-journal::knowledge discovery and data mining,Knowledge Discovery and Data Mining
-journal::coco@nips,CoCo@NIPS
-journal::emnlp-conll shared task,EMNLP-CoNLL Shared Task
-journal::ieee transactions on signal processing,IEEE Transactions on Signal Processing
-journal::ieee trans. neural networks,IEEE Trans. Neural Networks
-journal::ieee signal processing magazine,IEEE Signal Processing Magazine
-journal::ieee transactions on acoustics speech and signal processing,IEEE Transactions on Acoustics Speech and Signal Processing
-"journal::ieee transactions on audio, speech, and language processing","IEEE Transactions on Audio, Speech, and Language Processing"
-journal::ethnlp@eacl,EthNLP@EACL
-journal::machine translation summit,Machine Translation Summit
-journal::studies in computational intelligence,Studies in Computational Intelligence
-journal::science,Science
-journal::scholarpedia,Scholarpedia
-journal::wmt@acl,WMT@ACL
-journal::ieee transactions on big data,IEEE Transactions on Big Data
-journal::proceedings of the national academy of sciences of the united states of america,Proceedings of the National Academy of Sciences of the United States of America
-journal::tois,TOIS
-journal::wmt@emnlp,WMT@EMNLP
-journal::mturk@hlt-naacl,Mturk@HLT-NAACL
-journal::archives de pédiatrie,Archives de pédiatrie
-journal::repl4nlp@acl,RepL4NLP@ACL
+journal::j. documentation,J. Documentation
 journal::news@acl,NEWS@ACL
-journal::computer speech and language,Computer Speech and Language
-journal::fat,FAT
-journal::nlpba/bionlp,NLPBA/BioNLP
-journal::lifelongnlp,LIFELONGNLP
-journal::international journal of semantic computing,International Journal of Semantic Computing
-journal::ieevaluation@acl,IEEvaluation@ACL
 journal::conll/lll,CoNLL/LLL
-journal::wlm@naacl-hlt,WLM@NAACL-HLT
-journal::ieee transactions on neural networks,IEEE Transactions on Neural Networks
-journal::clicit,CLICIT
-journal::nut@ijcnlp,NUT@IJCNLP
-journal::hlt-naacl 2003,HLT-NAACL 2003
-journal::journal of personality and social psychology,Journal of Personality and Social Psychology
-journal::the ai magazine,The AI Magazine
-journal::information technology convergence and services,Information Technology Convergence and Services
-journal::nmt@acl,NMT@ACL
-journal::cognition,Cognition
-journal::cvsm@acl,CVSM@ACL
-journal::quantum interaction,Quantum Interaction
-journal::icml unsupervised and transfer learning,ICML Unsupervised and Transfer Learning
-journal::behavior research methods,Behavior Research Methods
-journal::biochimica et biophysica acta,Biochimica et Biophysica Acta
-journal::vlc@acl,VLC@ACL
+journal::coco@nips,CoCo@NIPS
+journal::ecml/pkdd,ECML/PKDD
+journal::computational linguistics,Computational Linguistics

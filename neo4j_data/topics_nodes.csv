@@ -1,24 +1,19 @@
 topicId,name
-topic::medicine,Medicine
-topic::biology,Biology
 topic::computer science,Computer Science
-topic::engineering,Engineering
 topic::business,Business
-topic::chemistry,Chemistry
-topic::linguistics,Linguistics
-topic::environmental science,Environmental Science
-topic::agricultural and food sciences,Agricultural and Food Sciences
-topic::mathematics,Mathematics
-topic::geography,Geography
-topic::geology,Geology
-topic::philosophy,Philosophy
-topic::psychology,Psychology
+topic::medicine,Medicine
+topic::engineering,Engineering
+topic::biology,Biology
 topic::materials science,Materials Science
-topic::law,Law
-topic::sociology,Sociology
-topic::physics,Physics
+topic::environmental science,Environmental Science
+topic::mathematics,Mathematics
+topic::chemistry,Chemistry
 topic::economics,Economics
-topic::education,Education
-topic::political science,Political Science
-topic::history,History
+topic::physics,Physics
+topic::geography,Geography
+topic::law,Law
+topic::linguistics,Linguistics
 topic::art,Art
+topic::education,Education
+topic::psychology,Psychology
+topic::philosophy,Philosophy

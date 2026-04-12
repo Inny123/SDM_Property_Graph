@@ -2,10 +2,11 @@ from neo4j import GraphDatabase
 import csv
 from pathlib import Path
 import random
+import os
 
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "Fuckth1ssh1t"
+NEO4J_PASSWORD = os.environ.get("NEO4J_PASSWORD")
 DATA_DIR = Path("neo4j_data")
 
 CITIES = [
@@ -116,7 +117,6 @@ class Neo4jDataLoader:
             title: row.title,
             year: toInteger(row.year),
             abstract: row.abstract,
-            citationCount: toInteger(row.citationCount),
             doi: row.doi
         })
         """
@@ -364,7 +364,7 @@ class Neo4jDataLoader:
         UNWIND $batch AS row
         MATCH (a:Author {authorId: row.from})
         MATCH (p:Paper {paperId: row.to})
-        CREATE (a)-[:WRITES {corresponding: row.corresponding = 'true'}]->(p)
+        MERGE (a)-[:WRITES {corresponding: row.corresponding = 'true'}]->(p)
         """
         tx.run(query, batch=batch)
     
@@ -392,7 +392,7 @@ class Neo4jDataLoader:
         UNWIND $batch AS row
         MATCH (p1:Paper {paperId: row.from})
         MATCH (p2:Paper {paperId: row.to})
-        CREATE (p1)-[:CITES]->(p2)
+        MERGE (p1)-[:CITES]->(p2)
         """
         tx.run(query, batch=batch)
     
@@ -420,7 +420,7 @@ class Neo4jDataLoader:
         UNWIND $batch AS row
         MATCH (p:Paper {paperId: row.from})
         MATCH (t:Topic {topicId: row.to})
-        CREATE (p)-[:ABOUT]->(t)
+        MERGE (p)-[:ABOUT]->(t)
         """
         tx.run(query, batch=batch)
     
@@ -448,7 +448,7 @@ class Neo4jDataLoader:
         UNWIND $batch AS row
         MATCH (p:Paper {paperId: row.from})
         MATCH (pr:Proceeding {proceedingId: row.to})
-        CREATE (p)-[:PUBLISHED_IN]->(pr)
+        MERGE (p)-[:PUBLISHED_IN]->(pr)
         """
         tx.run(query, batch=batch)
     
@@ -476,7 +476,7 @@ class Neo4jDataLoader:
         UNWIND $batch AS row
         MATCH (p:Paper {paperId: row.from})
         MATCH (v:Volume {volumeId: row.to})
-        CREATE (p)-[:PUBLISHED_IN]->(v)
+        MERGE (p)-[:PUBLISHED_IN]->(v)
         """
         tx.run(query, batch=batch)
     
@@ -506,10 +506,10 @@ class Neo4jDataLoader:
         OPTIONAL MATCH (w:Workshop {workshopId: row.from})
         MATCH (e:Edition {editionId: row.to})
         FOREACH (ignoreMe IN CASE WHEN c IS NOT NULL THEN [1] ELSE [] END |
-            CREATE (c)-[:HAS_EDITION]->(e)
+            MERGE (c)-[:HAS_EDITION]->(e)
         )
         FOREACH (ignoreMe IN CASE WHEN w IS NOT NULL THEN [1] ELSE [] END |
-            CREATE (w)-[:HAS_EDITION]->(e)
+            MERGE (w)-[:HAS_EDITION]->(e)
         )
         """
         tx.run(query, batch=batch)
@@ -538,7 +538,7 @@ class Neo4jDataLoader:
         UNWIND $batch AS row
         MATCH (e:Edition {editionId: row.from})
         MATCH (pr:Proceeding {proceedingId: row.to})
-        CREATE (e)-[:PUBLISHES]->(pr)
+        MERGE (e)-[:PUBLISHES]->(pr)
         """
         tx.run(query, batch=batch)
     
@@ -561,7 +561,7 @@ class Neo4jDataLoader:
         WITH p, collect(potentialReviewer)[0..3] AS reviewers
         
         UNWIND reviewers AS reviewer
-        CREATE (reviewer)-[:REVIEWS]->(p)
+        MERGE (reviewer)-[:REVIEWS]->(p)
         """
         tx.run(query)
     
@@ -589,7 +589,7 @@ class Neo4jDataLoader:
         UNWIND $batch AS row
         MATCH (j:Journal {journalId: row.from})
         MATCH (v:Volume {volumeId: row.to})
-        CREATE (j)-[:HAS_VOLUME]->(v)
+        MERGE (j)-[:HAS_VOLUME]->(v)
         """
         tx.run(query, batch=batch)
  

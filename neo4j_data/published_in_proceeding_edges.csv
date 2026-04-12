@@ -1,418 +1,145 @@
 from,to
-c8a717f1ec7cfc38a98a1950b4df2f63eb7f8447,proceeding::sigmod conference::2019
-8e051d8957573ddd91b8a2cd9fe5362c94750258,proceeding::sigmod conference::2018
-42de705792690350e6bd4eb9d9bb6bfcecebc34b,proceeding::international conference on field-programmable logic and applications::2018
-2e50af2320dab632d8046b6d4c130ae6cce8903f,proceeding::sigmod conference::2015
-67eb4c1794be54919266f70b5bf8ba7a6824f091,proceeding::sigmod conference::2015
-d87ceda3042f781c341ac17109d1e94a717f5f60,proceeding::international conference on computational logic::1999
-20f4ebe5ac1af3b22f28595d7878ce7b050297aa,proceeding::conference on innovative data systems research::2017
-f7279b6f6e88eda849cd3d75d3389c258bf62b7c,proceeding::sigmod conference::2014
-9748241beb02ef1e2d0e6dc877c04b354033a838,proceeding::sigmod conference::2012
-5bfae15ad73d4bfbc25b90c731a3d3dd44f2774c,proceeding::international workshop on graph data management experiences and systems::2013
-83a500fcc7cd98db063b73461277ac885c8fe7c3,proceeding::international conference on mobile data management::2001
-ef47742e72bd64fb1ae5359cd6d5dd6dfad34dc8,proceeding::acm sigmod conference::1984
-e54414dca2e8bc0da410db0b7d08fee4651d2357,proceeding::conference on innovative data systems research::2019
-e2a5593f587970018b9e826e5d876125b374b801,proceeding::sigmod conference::2006
-a4d965361223e4a9aaf010eb5a3d8e1673d11c19,proceeding::ieee international conference on data engineering::2011
-26ca95a72994fdba1c1855eb6b699f98c992b5f4,proceeding::usenix symposium on operating systems design and implementation::2020
-5160fb34a6719bbf8d60743d0d27db0ed5df3d2a,proceeding::very large data bases conference::2002
-71809d928768af9995271feb8ba6135b311db83b,proceeding::ieee international conference on data engineering::2010
-6dc7b1da99e30592b54f2148c85e8725563011f7,proceeding::acm sigmod conference::2002
-91d6e8ba5dd90b02fe3bd870b19da13a6167af53,proceeding::alberto mendelzon workshop on foundations of data management::2018
-f86cefe05621180a48856c9f23a55bf587d7476b,proceeding::acm sigact-sigmod-sigart symposium on principles of database systems::2004
-1b2457906994b5942b0ecc6e0ca38e2e3b2450c7,proceeding::very large data bases conference::2007
-92eb47aa10d5fa3d09b1f8d91a398ae29ce5bc1e,proceeding::very large data bases conference::1995
-9a367afec7ade7e7d722f49f8336fc3bebf9c397,proceeding::acm sigmod conference::2007
-084c55d6432265785e3ff86a2e900a49d501c00a,proceeding::international conference on computational logic::1999
-57458bc1cffe5caa45a885af986d70f723f406b4,proceeding::international conference on machine learning::2008
-873a581320d928249609d3c07229d5af182a379c,proceeding::conference on empirical methods in natural language processing::2023
-fb486e03369a64de2d5b0df86ec0a7b55d3907db,proceeding::international conference on computational logic::1996
-1254c99a381d1f9d6abb23c74be060e4e7876985,proceeding::international conference on computational logic::2000
-f04df4e20a18358ea2f689b4c129781628ef7fc1,proceeding::conference on empirical methods in natural language processing::2015
-cddf40e579a596d0110b260313adf43470617c4c,proceeding::conference on empirical methods in natural language processing::2021
-452059171226626718eb677358836328f884298e,proceeding::international conference on machine learning::2015
-4e0526421da87d88627fef66e9e84ed559fff249,proceeding::conference on empirical methods in natural language processing::2022
-b53c386b7c65af80905dc05a9b27e98e03324739,proceeding::conference of the european chapter of the association for computational linguistics::2021
-3cd98a010b36832fc2bd8368cd4f34c72cd0ac6f,proceeding::conference on empirical methods in natural language processing::2022
-9f840be023309cc957dc741dce85dfc6b1a3b486,proceeding::symposium on field programmable gate arrays::2021
-995ec006ac98a697ea38bd4eea8c1f3170a8adb4,proceeding::international conference on language resources and evaluation::2020
-a1b751e594bcffd85cc15788d603b700a7f56e2c,proceeding::usenix symposium on operating systems design and implementation::2022
-1b4c39ba447e8098291e47fd5da32ca650f41181,proceeding::european conference on computer systems::2018
-c357417fe91835dc1a5b0e1013c17ed37116d532,proceeding::international middleware conference::2017
-2817df10c4ffe29482928cb97b8ee89d8560b4cd,proceeding::european conference on computer systems::2017
-91ec7ef1b6ffeba0a2b19f00501f2f7e52a76077,proceeding::international conference on architectural support for programming languages and operating systems::2016
-3d3959f6b491ffb1ff799a7636ec93cc68927e1e,proceeding::ieee infocom 2007 - 26th ieee international conference on computer communications::2007
-e950b6cec7d5a1375c9a69ddd58bb4022060e5e4,proceeding::international conference for internet technology and secured transactions::2016
-293259880f015cb01a6aadd60c21e90c82eebcc0,proceeding::usenix workshop on hot topics in cloud computing::2016
-601c1a7f31596a500e1766373cb3e94789ae0327,proceeding::symposium on networked systems design and implementation::2016
-1cd0367b79a84e9b79883cb71c6e2d931d661080,proceeding::symposium on operating systems principles::2015
-5a8aafae38aeabd5533a271ab02396529b7b41c9,proceeding::acm-sigplan symposium on programming language design and implementation::2015
-5e707621ae530a372e82c9439ab6495d84fb934e,proceeding::symposium on networked systems design and implementation::2015
-23ddae93514a47b56dcbeed80e67fab62e8b5ec9,proceeding::symposium on networked systems design and implementation::2015
-85a31f4a8be9cb8c6f21464616b5588d5d2b8b07,proceeding::symposium on operating systems principles::2015
-9d7a75601e0e50dd68d40cfb8ef0e891dad797a6,proceeding::usenix symposium on operating systems design and implementation::2022
-528838ae47c950720a8850792c09d4f82855bff4,proceeding::symposium on networked systems design and implementation::2012
-0800357049444fb80588f264d68e0c23f9b12a19,proceeding::international conference on computer graphics and interactive techniques::1987
-8ce4c0ee315d86f32ec7354ccdf8d8996e8ee270,proceeding::ieee conference on mass storage systems and technologies::2010
-18a5f443299784479e78d9e77f175af57cb2fa2b,proceeding::usenix symposium on operating systems design and implementation::2006
-caddad79846f779621d42e3088a3c0f0144d42ce,proceeding::usenix symposium on operating systems design and implementation::2014
-069103feb2d2d3f1b0115b484d5c2f978a983df0,"proceeding::conference on applications, technologies, architectures, and protocols for computer communication::2014"
-f83a207712fd4cf41aded79e9e6c4345ba879128,proceeding::usenix symposium on operating systems design and implementation::2017
-772f1aeba480257d5b532d1f4551e910860c78bd,proceeding::international web rule symposium::2002
-f470be358519a8b3ed3bb837d20602362ba892f4,proceeding::usenix symposium on operating systems design and implementation::2006
-da773af7e4f1248f47e6057eabcb595b3997eac9,proceeding::ieee international conference on distributed computing systems::2017
-ec690fad685ca160ad2745315a69da6ffb75b95c,proceeding::ieee international parallel and distributed processing symposium::2019
-ab19509a0eba2942b9d611bf05f1b0e44859c062,proceeding::proceeding of the 2001 winter simulation conference (cat. no.01ch37304)::2001
-f37e1b62a767a307c046404ca96bc140b3e68cb5,proceeding::conference on empirical methods in natural language processing::2014
-f6b51c8753a871dc94ff32152c00c01e94f90f09,proceeding::international conference on learning representations::2013
-687bac2d3320083eb4530bf18bb8f8f721477600,proceeding::conference on empirical methods in natural language processing::2013
-156d217b0a911af97fa1b5a71dc909ccef7a8028,proceeding::conference on empirical methods in natural language processing::2019
+c84389369720dcd2f004c48e58fbac2c45c8f092,proceeding::acm sigplan symposium on principles & practice of parallel programming::2020
+90e4330fed2da147dd41490e8ad638b618112b3d,proceeding::usenix conference on file and storage technologies::2020
+50357836e1519b36d1efcd06728998562367c17d,"proceeding::2018 17th ieee international conference on trust, security and privacy in computing and communications/ 12th ieee international conference on big data science and engineering (trustcom/bigdatase)::2018"
+712bbfed1aacf8fad8276866f79880127c4fca76,proceeding::international conference on data science in cyberspace::2018
+d77ea9a5082081ab0e69f1dfda40546ea332ec3d,proceeding::international conference on conceptual structures::2016
+043a6bcc7654dcee1315cb62fc311c7fc3ab6fd0,proceeding::ieee international conference on data engineering::2012
+36ad838217cb99fd9acd8cd065052e27df5ec316,proceeding::proceedings / international conference on data engineering::1999
+cf0d56fc56021a46bbea4fefcb4fbdc27bfc0baf,proceeding::international symposium on information theory::2017
+1531af9f9841044ca53586b756511846aae8da46,proceeding::international symposium on information theory::2020
+20f3b3037307b939960352ba179f02c2a9fd0fc0,proceeding::information theory workshop::2019
+0b1571087cc40ea1877585b80d12f8dc56763804,proceeding::international symposium on information theory::2021
+cbe680947331cad2ecefeeb0e612b68d04eb84ef,proceeding::international symposium on information theory::2015
 05dd7254b632376973f3a1b4d39485da17814df5,proceeding::conference on empirical methods in natural language processing::2016
-7a064df1aeada7e69e5173f7d4c8606f4470365b,proceeding::international conference on learning representations::2019
-fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5,proceeding::international conference on learning representations::2014
-1f6ba0782862ec12a5ec6d7fb608523d55b0c6ba,proceeding::conference on empirical methods in natural language processing::2014
-a6cb366736791bcccc5c8639de5a8f9636bf87e8,proceeding::international conference on learning representations::2014
-2a567ebd78939d0861d788f0fedff8d40ae62bf2,proceeding::proceedings of the 2nd clinical natural language processing workshop::2019
-0b544dfe355a5070b60986319a3f51fb45d1348e,proceeding::conference on empirical methods in natural language processing::2014
-f3de86aeb442216a8391befcacb49e58b478f512,proceeding::international conference on machine learning::2014
-d0086b86103a620a86bc918746df0aa642e2a8a3,proceeding::conference on empirical methods in natural language processing::2019
-421fc2556836a6b441de806d7b393a35b6eaea58,proceeding::international conference on computational linguistics::2018
-ffdbd7f0b03b85747b001b4734d5ee31b5229aa4,proceeding::conference on empirical methods in natural language processing::2021
-8ae9a17c87a4518b513e860683a0ef7824be994d,proceeding::conference of the european chapter of the association for computational linguistics::2020
-10f97f1fb4f5c2c8e6c44d4a33da46d331dd4aeb,proceeding::conference on computational natural language learning::2003
-f4ba954b0412773d047dc41231c733de0c1f4926,proceeding::international conference on machine learning::2001
-0b44fcbeea9415d400c5f5789d6b892b6f98daff,proceeding::international conference on computational logic::1993
-4d8f2d14af5991d4f0d050d22216825cac3157bd,proceeding::international conference on machine learning::2015
-29ddc1f43f28af7c846515e32cc167bc66886d0c,proceeding::international conference on machine learning::2019
-93d63ec754f29fa22572615320afe0521f7ec66d,proceeding::conference on empirical methods in natural language processing::2019
-135bafc83e9a73c88e759f98a28edfdb5c02f81d,proceeding::conference on empirical methods in natural language processing::2017
-3caf34532597683c980134579b156cd0d7db2f40,proceeding::conference on empirical methods in natural language processing::2019
-8ae1af4a424f5e464d46903bc3d18fe1cf1434ff,proceeding::conference on empirical methods in natural language processing::2017
-069e0d896da7c79faeee4cf057548d5da7ce885e,proceeding::international conference on language resources and evaluation::2019
-b5246fa284f86b544a7c31f050b3bd0defd053fd,proceeding::conference on empirical methods in natural language processing::2018
-43428880d75b3a14257c3ee9bda054e61eb869c0,proceeding::international conference on machine learning::2017
-e808f28d411a958c5db81ceb111beb2638698f47,proceeding::machine learning challenges workshop::2005
-475354f10798f110d34792b6d88f31d6d5cb099e,proceeding::international joint conference on natural language processing::2005
-128cb6b891aee1b5df099acb48e2efecfcff689f,proceeding::aaai spring symposium: logical formalizations of commonsense reasoning::2011
+687bac2d3320083eb4530bf18bb8f8f721477600,proceeding::conference on empirical methods in natural language processing::2013
+f0901a8053216bfe61e1688ef8fe9e8ac4a46051,proceeding::symposium on the theory of computing::2016
 0e6824e137847be0599bb0032e37042ed2ef5045,proceeding::ieee international conference on computer vision::2015
-a23fa96e7217ba0e9405d9e1fe3cdedd57b6e096,proceeding::international workshop on semantic evaluation::2017
-db8885a0037fe47d973ade79d696586453710233,proceeding::text analysis conference::2009
-0f8468de03ee9f12d693237bec87916311bf1c24,proceeding::text analysis conference::2011
-145b8b5d99a2beba6029418ca043585b90138d12,proceeding::international conference on machine learning::2019
-636a79420d838eabe4af7fb25d6437de45ab64e8,proceeding::conference on empirical methods in natural language processing::2017
-351ec42df2b60c6042addf96e6b98673bbaf4dfd,proceeding::text analysis conference::2008
-d2c733e34d48784a37d717fe43d9e93277a8c53e,proceeding::2009 ieee conference on computer vision and pattern recognition::2009
-5cfbbf3cdff0f905874589bcd21b2646340a5447,proceeding::aaai spring symposium: logical formalizations of commonsense reasoning::2011
-944a1cfd79dbfb6fef460360a0765ba790f4027a,proceeding::conference on empirical methods in natural language processing::2013
+ea6a20d65c4cde80c0e924e3a96bb04796ab8ed1,proceeding::information theory workshop::2020
+83e873f6e6d3b2c762f78819ca62a263555acaac,"proceeding::ieee international conference on acoustics, speech, and signal processing::2020"
+90c7f61fa9977897901a1e19a5910224bb7b9738,proceeding::international symposium on information theory::2019
+4fc2fcae905417ad68846434d366eed672f38beb,proceeding::international symposium on information theory::2019
+22e7cfd88f720c0ccd860558790cfc6d6eeb39e4,proceeding::international symposium on information theory::2018
+fa963304f631a70d85db47b0cf57451c1b33d0e3,proceeding::international symposium on information theory::2018
+8213418f43798a9be0e5f284b0a94596fd3c2f26,proceeding::international symposium on information theory::2017
+f4a424bca6c66e4449642b7e14ff7bdd93c396a4,proceeding::international symposium on information theory::2019
+f37e1b62a767a307c046404ca96bc140b3e68cb5,proceeding::conference on empirical methods in natural language processing::2014
+f04df4e20a18358ea2f689b4c129781628ef7fc1,proceeding::conference on empirical methods in natural language processing::2015
 ee7b883e35d754ae4f71c21bb71f9f03e4ffbb2c,proceeding::conference on empirical methods in natural language processing::2017
-eb42cf88027de515750f230b23b1a057dc782108,proceeding::international conference on learning representations::2014
-1c3112ef8a346b9817382ed34a8c146c53d5bcf5,proceeding::conference on empirical methods in natural language processing::2018
-3a7b63b50c64f4ec3358477790e84cbd6be2a0b4,proceeding::international conference on learning representations::2016
-f98e135986414cccf29aec593d547c0656e4d82c,proceeding::conference on empirical methods in natural language processing::2019
-4177ec52d1b80ed57f2e72b0f9a42365f1a8598d,"proceeding::ieee international conference on acoustics, speech, and signal processing::2013"
-d07284a6811f1b2745d91bdb06b040b57f226882,proceeding::international conference on learning representations::2017
-85f94d8098322f8130512b4c6c4627548ce4a6cc,proceeding::conference on empirical methods in natural language processing::2016
-510e26733aaff585d65701b9f1be7ca9d5afc586,proceeding::international conference on learning representations::2017
-93499a7c7f699b6630a86fad964536f9423bb6d0,proceeding::conference on empirical methods in natural language processing::2015
-af5c4b80fbf847f69a202ba5a780a3dd18c1a027,proceeding::conference on empirical methods in natural language processing::2018
-37e433d159daa0ab561cbff6bd02612207c7eece,proceeding::international conference on principles of knowledge representation and reasoning::2012
-032274e57f7d8b456bd255fe76b909b2c1d7458e,proceeding::international conference on learning representations::2017
-88caa4a0253a8b0076176745ebc072864eab66e1,proceeding::international conference on machine learning::2016
-71ae756c75ac89e2d731c9c79649562b5768ff39,proceeding::international conference on learning representations::2014
-8cbef23c9ee2ae7c35cc691a0c1d713a6377c9f2,proceeding::international conference on learning representations::2016
-ce106590145e89ea4b621c99665862967ccf5dac,proceeding::2019 fifth workshop on energy efficient machine learning and cognitive computing - neurips edition (emc2-nips)::2019
-e2587eddd57bc4ba286d91b27c185083f16f40ee,proceeding::international conference on learning representations::2019
-59761abc736397539bdd01ad7f9d91c8607c0457,proceeding::conference on computational natural language learning::2016
-2cd8e8f510c89c7c18268e8ad51c061e459ad321,proceeding::conference on empirical methods in natural language processing::2016
-b4bfadfca9742bb3ee98a0cd322d5ce4e59a3ceb,proceeding::conference on machine translation::2018
-84069287da0a6b488b8c933f3cb5be759cb6237e,proceeding::international conference on machine learning::2012
-ac11062f1f368d97f4c826c317bf50dcc13fdb59,proceeding::conference on empirical methods in natural language processing::2018
-ade0c116120b54b57a91da51235108b75c28375a,proceeding::conference on empirical methods in natural language processing::2016
-2f4df08d9072fc2ac181b7fced6a245315ce05c8,proceeding::2014 ieee conference on computer vision and pattern recognition::2013
-71b7178df5d2b112d07e45038cb5637208659ff7,proceeding::european conference on computer vision::2014
-d76c07211479e233f7c6a6f32d5346c983c5598f,proceeding::international conference on learning representations::2015
-891ce1687e2befddd19f54e4eef1d3f39c8dbaf7,proceeding::aaai conference on artificial intelligence::2015
-7113bd87c3e6f727efae24ee52f20c81358da761,proceeding::international conference on language resources and evaluation::2018
-995c5f5e62614fcb4d2796ad2faab969da51713e,proceeding::international conference on machine learning::2015
-8c1b00128e74f1cd92aede3959690615695d5101,proceeding::international conference on learning representations::2018
-c333778104f648c385b4631f7b4a859787e9d3d3,proceeding::international conference on language resources and evaluation::2014
-8c6427cc1f4e1bbe5d6da34a4511842361f4fbb6,proceeding::international workshop on semantic evaluation::2018
-b8de958fead0d8a9619b55c7299df3257c624a96,proceeding::international conference on machine learning::2013
-f37076f426023241f19cdc2fb0a0fd733a6fa7fa,proceeding::conference on computational natural language learning::2016
-564257469fa44cdb57e4272f85253efb9acfd69d,proceeding::conference on empirical methods in natural language processing::2013
-ffb949d3493c3b2f3c9acf9c75cb03938933ddf0,proceeding::conference on empirical methods in natural language processing::2017
-a538b05ebb01a40323997629e171c91aa28b8e2f,proceeding::international conference on machine learning::2010
-1ac30af5522c7a50ec4d1ee43fd2bd8652a9bd52,proceeding::conference on empirical methods in natural language processing::2015
-abb33d75dc297993fcc3fb75e0f4498f413eb4f6,proceeding::international conference on learning representations::2015
-27e38351e48fe4b7da2775bf94341738bc4da07e,proceeding::conference on empirical methods in natural language processing::2012
-93c20e38c85b69fc2d2eb314b3c1217913f7db11,proceeding::international conference on machine learning::2011
-22655979df781d222eaf812b0d325fa9adf11594,proceeding::conference on empirical methods in natural language processing::2018
-13fe71da009484f240c46f14d9330e932f8de210,proceeding::conference on empirical methods in natural language processing::2016
-1109b663453e78a59e4f66446d71720ac58cec25,proceeding::international conference on learning representations::2013
-35b91b365ceb016fb3e022577cec96fb9b445dc5,proceeding::international conference on learning representations::2015
-3de5d40b60742e3dfa86b19e7f660962298492af,proceeding::international conference on computational logic::1992
-cfa2646776405d50533055ceb1b7f050e9014dcb,proceeding::conference on empirical methods in natural language processing::2011
-07ca885cb5cc4328895bfaec9ab752d5801b14cd,"proceeding::ieee international conference on acoustics, speech, and signal processing::2011"
-d1275b2a2ab53013310e759e5c6878b96df643d4,proceeding::spoken language technology workshop::2012
-ea9d2a2b4ce11aaf85136840c65f3bc9c03ab649,proceeding::international conference on artificial intelligence and statistics::2010
-892e53fe5cd39f037cb2a961499f42f3002595dd,proceeding::conference of the european chapter of the association for computational linguistics::2016
-c2a7afbb5609a723f8eea91bfde4b02579b048d6,proceeding::international conference on learning representations::2017
-6dab1c6491929d396e9e5463bc2e87af88602aa2,proceeding::conference on empirical methods in natural language processing::2015
-d821ce08da6c0084d5eacbdf65e25556bc1b9bc3,proceeding::conference on empirical methods in natural language processing::2016
-58c6f890a1ae372958b7decf56132fe258152722,proceeding::international conference on learning representations::2017
-c19fbefdeead6a4154a22a9c8551a18b1530033a,proceeding::international conference on artificial intelligence and statistics::2005
-efbd381493bb9636f489b965a2034d529cd56bcd,proceeding::international conference on learning representations::2016
-99c970348b8f70ce23d6641e201904ea49266b6e,proceeding::international conference on learning representations::2013
-4d00097433a538002b36cfd7a621daddde3e4c0d,proceeding::conference on empirical methods in natural language processing::2018
-9c0ddf74f87d154db88d79c640578c1610451eec,proceeding::international conference on machine learning::2011
-48925fef94500cf19ee220ed74217816f1ab5e60,proceeding::conference on empirical methods in natural language processing::2018
-f53e2ae46470b89cd1ce6e3bf1d60d9c59722ce1,proceeding::conference on empirical methods in natural language processing::2015
-9fa8d73e572c3ca824a04a5f551b602a17831bc5,proceeding::conference on empirical methods in natural language processing::2006
-39e734da43eb8c72e9549b42e96760545036f8e5,proceeding::conference on empirical methods in natural language processing::2018
-afc2850945a871e72c245818f9bc141bd659b453,proceeding::international conference on learning representations::2018
-843959ffdccf31c6694d135fad07425924f785b1,proceeding::international conference on machine learning::2008
-e44da7d8c71edcc6e575fa7faadd5e75785a7901,proceeding::international conference on learning representations::2016
-aa7bfd2304201afbb19971ebde87b17e40242e91,proceeding::international conference on machine learning::2013
-b29447ba499507a259ae9d8f685d60cc1597d7d3,proceeding::conference on empirical methods in natural language processing::2013
-f529dc492b7f3d1b22db64bc7ad36b1f13641a84,proceeding::international workshop on semantic evaluation::2014
-2846e83d405cbe3bf2f0f3b5f635dd8b3c680c45,proceeding::international conference on learning representations::2015
-63e39cdf1ad884da6bc69096bb3413b5b1100559,proceeding::conference of the european chapter of the association for computational linguistics::2016
-e978d832a4d86571e1b52aa1685dc32ccb250f50,proceeding::international conference on learning representations::2016
-ff1861b71eaedba46cb679bbe2c585dbe18f9b19,proceeding::international conference on learning representations::2016
-0d2336389dff3031910bd21dd1c44d1b4cd51725,proceeding::international conference on artificial intelligence and statistics::2010
-4954fa180728932959997a4768411ff9136aac81,proceeding::usenix symposium on operating systems design and implementation::2016
-921da70f380e9f9082e5594b128369cfd0fdf120,proceeding::conference on empirical methods in natural language processing::2014
-395044a2e3f5624b2471fb28826e7dbb1009356e,proceeding::international conference on learning representations::2015
-e3d772986d176057aca2f5e3eb783da53b559134,proceeding::international conference on learning representations::2017
-d6f2f611da110b5b5061731be3fc4c7f45d8ee23,proceeding::ieee international conference on computer vision::2015
-72e93aa6767ee683de7f001fa72f1314e40a8f35,"proceeding::ieee international conference on acoustics, speech, and signal processing::2011"
-786f95cada23d4639aa1a8b922cdb9fb9a9c03fa,proceeding::international conference on computational linguistics::2016
-2397ce306e5d7f3d0492276e357fb1833536b5d8,proceeding::international conference on learning representations::2017
-12e9d005c77f76e344361f79c4b008034ae547eb,proceeding::conference on empirical methods in natural language processing::2016
-16084914bc3729f86f46ac6267ea7a42e7951d41,proceeding::international workshop on semantic evaluation::2014
-1a2a770d23b4a171fa81de62a78a3deb0588f238,proceeding::european conference on computer vision::2013
-f96898d15a1bf1fa8925b1280d0e07a7a8e72194,proceeding::international conference on machine learning::2016
-f70391f9a6aeec75bc52b9fe38588b9d0b4d40c6,proceeding::international conference on machine learning::2014
-6270baedeba28001cd1b563a199335720d6e0fe0,proceeding::2014 ieee conference on computer vision and pattern recognition workshops::2014
-a14045a751f5d8ed387c8630a86a3a2861b90643,proceeding::conference on empirical methods in natural language processing::2014
-5d4af8c9321168f9ba7a501f33fb019fa2deaa22,proceeding::international workshop on semantic evaluation::2018
-198ac64703e83d00eb0f51a4c4a7c77cb08a7e5c,proceeding::conference on empirical methods in natural language processing::2016
-f21b36a5cfba94bbc6ed5c3642e1e46057deccaf,proceeding::conference on empirical methods in natural language processing::2016
-e7fd6848cb29ca221a7e17d823e06fb566f1f135,proceeding::international conference on learning representations::2017
-9ec499af9b85f30bdbdd6cdfbb07d484808c526a,proceeding::international conference on machine learning::2016
-8e4fb17fff38a7834af5b4eaafcbbde02bf00975,proceeding::international conference on language resources and evaluation::2014
-533ee188324b833e059cb59b654e6160776d5812,proceeding::international conference on learning representations::2013
-5f08df805f14baa826dbddcb002277b15d3f1556,proceeding::international conference on computational linguistics::2012
-2cd55ded95d5d13430edfa223ba591b514ebe8a5,proceeding::international conference on learning representations::2016
-2c8ac3e1f0edeed1fbd76813e61efdc384c319c7,proceeding::international conference on computational linguistics::2002
-528fa9bb03644ba752fb9491be49b9dd1bce1d52,proceeding::international workshop on semantic evaluation::2012
-46a7afc2b23bb3406fb64c36b6f2696145b54f24,proceeding::conference on computational natural language learning::2017
-46b8cbcdff87b842c2c1d4a003c831f845096ba7,proceeding::international conference on learning representations::2015
-a9c3a009d754a110379574b069b48c0b4c75db40,proceeding::aaai conference on artificial intelligence::2019
-12d0353ce8b41b7e5409e5a4a611110aee33c7bc,proceeding::conference on empirical methods in natural language processing::2002
-055fd6a9f7293269f1b22c1470e63bd02d8d9500,proceeding::international conference on learning representations::2020
-cf4aa38ae31b43fd07abe13b4ffdb265babb7be1,proceeding::international conference on learning representations::2019
-11ec56898a9e7f401a2affe776b5297bd4e25025,proceeding::international workshop on semantic evaluation::2014
-b7b915d508987b73b61eccd2b237e7ed099a2d29,proceeding::international conference on machine learning::2013
-d41cfe9b2ada4e09d53262bc75c473d8043936fc,proceeding::international joint conference on artificial intelligence::2015
-eaaed23a2d94feb2f1c3ff22a25777c7a78f3141,proceeding::european conference on computer vision::2010
-67107f78a84bdb2411053cb54e94fa226eea6d8e,proceeding::international conference on artificial intelligence and statistics::2011
+a23fa96e7217ba0e9405d9e1fe3cdedd57b6e096,proceeding::international workshop on semantic evaluation::2017
+0b544dfe355a5070b60986319a3f51fb45d1348e,proceeding::conference on empirical methods in natural language processing::2014
+a3e17a7b13e787c474495c59d6dd6ffd54f81da6,proceeding::international symposium on information theory::2019
+e4611fa98eda7c3152673368917610f7260307e4,proceeding::symposium on the theory of computing::2016
 b9de9599d7241459db9213b5cdd7059696f5ef8d,proceeding::aaai conference on artificial intelligence::2018
-53ab89807caead278d3deb7b6a4180b277d3cb77,proceeding::conference on computational natural language learning::2013
-398c296d0cc7f9d180f84969f8937e6d3a413796,proceeding::2012 ieee conference on computer vision and pattern recognition::2012
-396aabd694da04cdb846cb724ca9f866f345cbd5,proceeding::conference on empirical methods in natural language processing::2011
-67d968c7450878190e45ac7886746de867bf673d,proceeding::international conference on learning representations::2016
-c7330852a07170cd0e6990f5fbde5fca12b6ccd6,"proceeding::aaai/acm conference on ai, ethics, and society::2018"
-cb45e9217fe323fbc199d820e7735488fca2a9b3,proceeding::2011 ieee workshop on automatic speech recognition & understanding::2011
-424aef7340ee618132cc3314669400e23ad910ba,proceeding::international conference on learning representations::2016
-ff5cbefc6766df788919db4c060daedb303ed3e3,proceeding::international workshop on semantic evaluation::2013
-355de7460120ddc1150d9ce3756f9848983f7ff4,proceeding::conference of the european chapter of the association for computational linguistics::2012
-fbdbe747c6aa8b35b981d21e475ff1506a1bae66,proceeding::conference on computational natural language learning::2011
-9548ac30c113562a51e603dbbc8e9fa651cfd3ab,"proceeding::ieee international conference on acoustics, speech, and signal processing::1995"
-1f88427d7aa8225e47f946ac41a0667d7b69ac52,proceeding::ieee international conference on computer vision::2009
-bd7d93193aad6c4b71cc8942e808753019e87706,proceeding::international conference on machine learning::2007
-9d3aaa919c78c06f24588d97ed1028d51860b321,proceeding::conference of the european chapter of the association for computational linguistics::2014
-5b8364c21155d3d2cd38ea4c8b8580beba9a3250,proceeding::international conference on machine learning::2015
-c08f5fa876181fc040d76c75fe2433eee3c9b001,proceeding::2014 ieee conference on computer vision and pattern recognition::2014
-562c09c112df56c5696c010d90a815d6018a86c8,proceeding::international conference on learning representations::2017
-96526726f87233fb017f6ea9483090f04e0f0530,proceeding::conference on empirical methods in natural language processing::2015
-f35de4f9b1a7c4d3fa96a0d2ab1bf8937671f6b6,proceeding::international conference on machine learning::2015
-46f418bf6fab132f193661226c5c27d67f870ea5,proceeding::international conference on machine learning::2014
-71480da09af638260801af1db8eff6acb4e1122f,proceeding::conference on empirical methods in natural language processing::2013
-54a13bcc9613dcaa76fb25fbe96572f376cfcca9,proceeding::international conference on machine learning::2018
-6396ab37641d36be4c26420e58adeb8665914c3b,proceeding::conference on empirical methods in natural language processing::2014
-d2161251488dbba08616a9cdd4223a0ac1190cef,proceeding::annual international acm sigir conference on research and development in information retrieval::2000
-e3ce71a26872c7755e6d8b8fc45bf00c8be64193,proceeding::conference on machine translation::2016
-7a96765c147c9c814803c8c9de28a1dd069271da,proceeding::international conference on computational logic::2014
-cff79255a94b9b05a4ce893eb403a522e0923f04,proceeding::conference of the european chapter of the association for computational linguistics::2016
-5e83ab70d0cbc003471e87ec306d27d9c80ecb16,proceeding::international conference on learning representations::2013
-6346f4fb03a25ff3a4bd887ba45d627a01983ea4,proceeding::international workshop on semantic evaluation::2015
-54b2b6f35f1b5704dddfaa3a137a2f4ad3dfe745,proceeding::international conference on learning representations::2014
-76a1dca3a9c2b0229c1b12c95752dcf40dc95a11,proceeding::conference on empirical methods in natural language processing::2011
-7acfdc905f734abf966aed58abb983bc015ff7fe,proceeding::international conference on computational linguistics::2004
-fdb813d8b927bdd21ae1858cafa6c34b66a36268,proceeding::international conference on information and knowledge management::2013
-38f35dd624cd1cf827416e31ac5e0e0454028eca,proceeding::international conference on machine learning::2013
-7dba53e72c182e25e98e8f73a99d75ff69dda0c2,proceeding::international conference on machine learning::2016
-ab7b5917515c460b90451e67852171a531671ab8,proceeding::international conference on computational logic::1993
-5b0d644f5c4b9880cbaf79932c0a4fa98996f068,proceeding::international conference on machine learning::2012
-5f5dc5b9a2ba710937e2c413b37b053cd673df02,proceeding::international conference on learning representations::2013
-8d4e1568fd7a201e298b3ab6f2d8ebb3510a59d4,proceeding::international conference on machine learning::2014
-75fa915984f1903cd8d0e1ea54b9d008d5a87fe5,proceeding::conference on empirical methods in natural language processing::2016
-3cc228402f31ca749112197720b9ef6af0c16790,proceeding::international conference on language resources and evaluation::2006
-8de174ab5419b9d3127695405efd079808e956e8,proceeding::international conference on machine learning::2009
-99d2dcdcf4cf05facaa101a48c7e31d140b4736d,proceeding::international conference on computational logic::2005
-d78aed1dac6656affa4a04cbf225ced11a83d103,proceeding::conference on empirical methods in natural language processing::2019
-80cf2a6af4200ecfca1c18fc89de16148f1cd4bf,proceeding::conference on empirical methods in natural language processing::2019
-e3ce36b9deb47aa6bb2aa19c4bfa71283b505025,proceeding::international conference on artificial intelligence and statistics::2010
-6d4c9c923e9f145d1c01a2de2afc38ec23c44253,proceeding::2014 ieee conference on computer vision and pattern recognition::2014
-02e45b3472fa4c879f8e9ca0dbb283c774a338cb,proceeding::international conference on learning representations::2017
-d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad,proceeding::international conference on learning representations::2013
-25ca4a36df2955b345634b5f8a6b6bb66a774b3c,proceeding::international conference on language resources and evaluation::2012
-8691706ad0cf5e83969658b2e6bfffdc379440c9,proceeding::international conference on learning representations::2018
-2d7782c225e0fc123d6e227f2cb253e58279ac73,proceeding::international conference on learning representations::2016
-0d3233d858660aff451a6c2561a05378ed09725a,proceeding::conference on empirical methods in natural language processing::2013
-fb91db6aa4f710814f8aec28a7f3ecbc4e5ad4fd,proceeding::international conference on artificial intelligence and statistics::2014
-c0b624c46b51920dfec5aa02cc86323c0beb0df5,proceeding::international conference on frontiers in handwriting recognition::2013
-14b65a86c82e38fce0eb3506e0d4084ad5cdb583,proceeding::international conference on learning representations::2020
-832fff14d2ed50eb7969c4c4b976c35776548f56,proceeding::international conference on machine learning::2020
-d1ba322f795adbdc706651dbc76ad53b9c5f9468,proceeding::conference on computational natural language learning::2003
-a574e320d899e7e82e341eb64baef7dfe8a24642,proceeding::conference on empirical methods in natural language processing::1996
-1e662c87a36779dbe9f56f7ffd3ade756059d094,proceeding::international joint conference on artificial intelligence::2015
-7e8d5a108c28cdfb92f419ce919fbf7993dfebfc,proceeding::international conference on information and knowledge management::2014
-d53d878cf1a3f0bed5d9c68c925994cb72f47304,proceeding::conference on computational natural language learning::2014
-167ad306d84cca2455bc50eb833454de9f2dcd02,proceeding::conference on empirical methods in natural language processing::2013
-6f4065f0cc99a0839b0248ffb4457e5f0277b30d,proceeding::international conference on machine learning::2011
-502858989368adae91e0f4a643ebc2aa6efd5738,proceeding::conference on computational natural language learning::2002
-ca2f1088d3e581b2c6c75cf0ebc96506d620f64d,"proceeding::conference on fairness, accountability and transparency::2021"
-63748e59f4e106cbda6b65939b77589f40e48fcb,proceeding::conference on empirical methods in natural language processing::2019
-a022bda79947d1f656a1164003c1b3ae9a843df9,proceeding::china national conference on chinese computational linguistics::2019
-fa025e5d117929361bcf798437957762eb5bb6d4,proceeding::conference on computational natural language learning::2017
-d9b824dbecbe3a1f0b1489f9e4521a532a63818d,proceeding::workshop on representation learning for nlp::2020
-f67fcbb1aec92ae293998ddfd904f61a31bef334,proceeding::aaai conference on artificial intelligence::2019
-745e4b36a1759177871288cae51fbae0b873b5e5,proceeding::aaai conference on artificial intelligence::2019
-65f788fb964901e3f1149a0a53317535ca85ed7d,proceeding::conference on empirical methods in natural language processing::2019
-d56c1fc337fb07ec004dc846f80582c327af717c,proceeding::international conference on learning representations::2019
-ad31866da7f14ae21bd38df0a3b1ffd1a1438122,proceeding::international conference on learning representations::2018
-76d5e3fa888bee872b7adb7fa810089aa8ab1d58,proceeding::applied natural language processing conference::2000
-642d0f49b7826adcf986616f4af77e736229990f,proceeding::international conference on learning representations::2015
-07c43a3ff15f2104022f2b1ca8ec4128a930b414,proceeding::international conference on machine learning::2012
-0ba87571341beaf6a5c9a30e049be7b1fc9a4c60,proceeding::aaai conference on artificial intelligence::2012
-aa9efc8b2737eac0675ba5abb5feab8305482c12,proceeding::conference on computational natural language learning::2009
-5b6f048840ded1a27b9830f78f4d48b3ededb3ea,proceeding::conference on empirical methods in natural language processing::2011
-ac4dafdef1d2b685b7f28a11837414573d39ff4e,proceeding::international conference on learning representations::2018
-e28ab7c3b994dd4e30baac1eb67c7f87e40c2b7b,proceeding::international joint conference on artificial intelligence::2016
-1f600f213dbbd70f06093438855f39022957b4bf,proceeding::international conference on machine learning::2015
-7be8c119dbe065c52125ee7716601751f3116844,proceeding::international conference on learning representations::2019
-3054726d298d3c5f7b95b224e4e5b17d88068c3f,proceeding::conference on empirical methods in natural language processing::2013
-fc303b3b0be5b476ae5f3d8414b685e91d0378c6,proceeding::international conference on machine learning::2014
-ddf0f2226cc837750eb1eb57c43d8192ef0fc2b3,proceeding::aaai conference on artificial intelligence::2010
-dc6ac3437f0a6e64e4404b1b9d188394f8a3bf71,proceeding::international conference on learning representations::2013
-2fa3f7ce620a1c7155daef6620dd6bb0e01934f3,proceeding::conference on empirical methods in natural language processing::2019
-57a10537978600fd33dcdd48922c791609a4851a,proceeding::conference on empirical methods in natural language processing::2016
-fea820b7d953d32069e189af2961c28fd213470b,proceeding::international conference on learning representations::2019
-c92970286c535992a86539b761357761e97a37ee,proceeding::conference on computational natural language learning::2013
-41f1d50c85d3180476c4c7b3eea121278b0d8474,proceeding::international conference on machine learning::2016
-261a056f8b21918e8616a429b2df6e1d5d33be41,proceeding::international conference on machine learning::2006
-8604f376633af8b347e31d84c6150a93b11e34c2,proceeding::international conference on learning representations::2014
-bd32ebb9fac53a14202fb1a4f76ef96d1ff68c6c,proceeding::conference on empirical methods in natural language processing::2015
-46be284f1e1ece64465af6fe3a69ce544e0c7e33,proceeding::text retrieval conference::2000
-b8ef1230a5cc9ea7cd8358f1ae7d1af97813ba14,proceeding::international conference on artificial intelligence and statistics::2012
-3f6a4556769e819242d669d073b895f1e45a706f,proceeding::conference on empirical methods in natural language processing::2013
-3276b9487b2336f662488f2a180622f3bcac6e82,proceeding::international workshop on semantic evaluation::2014
-5b791cd374c7109693aaddee2c12d659ae4e3ec0,proceeding::international conference on learning representations::2015
-de2df29b0a0312de7270c3f5a0af6af5645cf91a,proceeding::international conference on computational logic::2003
-80f9f109d1564cb8f82aa440a5f6f3fbe220c9ef,proceeding::aaai conference on artificial intelligence::2019
-3fc44ff7f37ec5585310666c183c65e0a0bb2446,proceeding::international conference on computational logic::2003
-997c55547aeca733dfc5dfebd12412612ecba022,proceeding::conference on empirical methods in natural language processing::2018
-bfeb827d06c1a3583b5cc6d25241203a81f6af09,proceeding::conference on empirical methods in natural language processing::2019
+c4f779fdef107a91a8c88502e497a7561c4d9e66,proceeding::annual conference computational learning theory::2018
+2dbcb2a0a029d39feb3c5f346b1866016fa36c50,proceeding::ieee annual symposium on foundations of computer science::2019
 9f1c5777a193b2c3bb2b25e248a156348e5ba56d,proceeding::conference on empirical methods in natural language processing::2019
-188024469a2443f262b3cbb5c5d4a96851949d68,proceeding::international conference on conceptual structures::2018
-5b5cc77898a71a1386734584ceef4070263b8d03,proceeding::conference on empirical methods in natural language processing::2017
-bf8fe437f779f2098f9af82b534aa51dc9edb06f,proceeding::conference on machine translation::2018
-e3ee61f49cd2639c15c8662a45f1d0c2b83a60c1,proceeding::conference on empirical methods in natural language processing::2018
-b022f2a277a4bf5f42382e86e4380b96340b9e86,proceeding::international conference on learning representations::2016
-d170bd486e4c0fe82601e322b0e9e0dde63ab299,proceeding::international conference on learning representations::2018
-d1f37d9cab68eb8cda669cc949394732f33264b4,proceeding::international conference on computational linguistics::2012
-c20ed3a1600122e6cf03b8ed74d3d2920ad0a8c6,proceeding::international conference on learning representations::2013
-9f2efadf66817f1b38f58b3f50c7c8f34c69d89a,proceeding::2014 ieee conference on computer vision and pattern recognition::2014
-d82b55c35c8673774a708353838918346f6c006f,proceeding::conference on computational natural language learning::2015
-d115eceab7153d2a1dc6fbf6b99c3bdf1b0cdd46,proceeding::international conference on language resources and evaluation::2016
-2a8b6f990a5ddf0122aae82a46359b03031f302b,proceeding::conference on empirical methods in natural language processing::2017
-204a4a70428f3938d2c538a4d74c7ae0416306d8,proceeding::international conference on learning representations::2017
-a2785f66c20fbdf30ec26c0931584c6d6a0f4fca,proceeding::international conference on machine learning::2015
-26aa6fe2028b5eefbaa40ab54ef725bbbe7d9810,proceeding::aaai conference on artificial intelligence::2016
-95b3d6b9d50bfd4b0a77a096269762b28e218346,proceeding::international conference on language resources and evaluation::2017
-cceb698cbbb828537f2f195fb70b6fdc586d3327,proceeding::conference on automated knowledge base construction::2013
-11eaa4f1cba9281ecbc1ac44a6b3ba5817bf1a25,proceeding::international conference on language resources and evaluation::2018
-952454718139dba3aafc6b3b67c4f514ac3964af,proceeding::international conference on learning representations::2016
-0d6203718c15f137fda2f295c96269bc2b254644,proceeding::international conference on machine learning::2011
-484ad17c926292fbe0d5211540832a8c8a8e958b,proceeding::international conference on machine learning::2014
-ddc45fad8d15771d9f1f8579331458785b2cdd93,proceeding::international conference on artificial intelligence and statistics::2009
-3f1802d3f4f5f6d66875dac09112f978f12e1e1e,proceeding::international conference on learning representations::2017
-a39ffa57ef8e538b3c6a6c2bbc0b641f7cdc60dc,proceeding::conference on empirical methods in natural language processing::2016
-4af41f4d838daa7ca6995aeb4918b61989d1ed80,"proceeding::2001 ieee international conference on acoustics, speech, and signal processing. proceedings (cat. no.01ch37221)::2001"
-9462eee3e5eff15df5e97c38e24072c65e581cee,proceeding::international conference on computational logic::2016
-7ee368e60d0b826e78f965aad8d6c7d406127104,proceeding::international conference on machine learning::2008
-54c846ee00c6132d70429cc279e8577f63ed05e4,proceeding::conference on empirical methods in natural language processing::1997
-2a215755d7548ffc82079ce734c4ac60b62f6f56,proceeding::international conference on machine learning::2017
-17f5c7411eeeeedf25b0db99a9130aa353aee4ba,proceeding::aaai conference on artificial intelligence::2015
-5e4eb58d5b47ac1c73f4cf189497170e75ae6237,proceeding::international conference on learning representations::2015
-1cd7f2c74bd7ffb3a8b1527bec8795d0876a40b6,proceeding::conference on empirical methods in natural language processing::2016
-77f0a39b8e02686fd85b01971f8feb7f60971f80,proceeding::european conference on computer vision::2016
-7647a06965d868a4f6451bef0818994100a142e8,proceeding::aaai conference on artificial intelligence::2017
-9464d15f4f8d578f93332db4aa1c9c182fd51735,proceeding::international conference on machine learning::1993
-5a7958b418bceb48a315384568091ab1898b1640,proceeding::conference on empirical methods in natural language processing::2002
-844db702be4bc149b06b822b47247e15f5894cc3,proceeding::international conference on computational logic::2000
-73c2a58c936ba2d269491548ef32644c5e982199,proceeding::international work-conference on artificial and natural neural networks::1997
-f4a8480cffa491020bdbb8c4c4e7a7e923b1c2c1,proceeding::international conference on learning representations::2019
-060ff1aad5619a7d6d6cdfaf8be5da29bff3808c,proceeding::conference on empirical methods in natural language processing::2018
-f92272e33b11a0d2f47b5b65446c0f1a913cfd17,proceeding::international conference on computational linguistics::2016
-bb1f496771d5ef641c9baf42f16900c09ecadb55,proceeding::conference of the european chapter of the association for computational linguistics::2006
-25c0e5ad89b77ae9c7ff91765ebd4e1e21abdcb3,proceeding::international conference on language resources and evaluation::2017
-1b97b4623cf2f183340e548e0aa53abf0f2963d8,proceeding::international conference on language resources and evaluation::2012
-64da1980714cfc130632c5b92b9d98c2f6763de6,"proceeding::ieee international conference on acoustics, speech, and signal processing::2013"
-50684b147b752a07c313cb73d864f7b21bd8b703,proceeding::usenix symposium on operating systems design and implementation::2014
-d14c7e5f5cace4c925abc74c88baa474e9f31a28,proceeding::international conference on machine learning::2015
-3c5126da7ce388c64b796c80d15a3c3629d6ad58,proceeding::conference on empirical methods in natural language processing::2011
-ce4d33595e192e0894f857db88af2a847a932c97,proceeding::international conference on computational logic::2010
-37efe2ef1b9d27cc598361a8013ec888a6f7c4d8,proceeding::conference on empirical methods in natural language processing::2010
-dcb028149bb3cf934fbd2e4cbb773ffbb9b0e49d,proceeding::international joint conference on natural language processing::2017
-51db1f3c8dfc7d4077da39c96bb90a6358128111,proceeding::european conference on computer vision::2016
-1976c9eeccc7115d18a04f1e7fb5145db6b96002,proceeding::sigmod conference::2008
-d9674edc47fd41c27c0c6497c0e7d6bf1910d84e,proceeding::international conference on language resources and evaluation::2011
-03c03dec975554cb02aca1e076106178dbe0a8a0,proceeding::conference on computational natural language learning::2003
-ecb5336bf7b54a62109f325e7152bb74c4c7f527,proceeding::conference on empirical methods in natural language processing::2015
-0fa553cfa0cf3cbdf7a913aa2ae789a757dfb32f,proceeding::international conference on machine learning::2014
-0fe73c19513dfd17372d8ef58da0d0149725832c,proceeding::international conference on language resources and evaluation::2018
-705dcc8eadba137834e4b0359e2d696d4b209f5b,proceeding::conference of the european chapter of the association for computational linguistics::2016
-cb9cc883bdd08d58feee5c7da01acff6fdb4ad78,proceeding::conference on empirical methods in natural language processing::2008
-7441116c5b5a745708a9d7c5aa0ecf04e0c76c93,proceeding::international conference on computational logic::2007
-65eee67dee969fdf8b44c87c560d66ad4d78e233,proceeding::international conference on learning representations::2016
-5522764282c85aea422f1c4dc92ff7e0ca6987bc,proceeding::international conference on machine learning::2014
-ed6262b569c0a62c51d941228c54f34e563af022,"proceeding::ieee international conference on acoustics, speech, and signal processing::2012"
-63c4114bd373dd0fcfe0d25a605b353c62be2995,proceeding::conference of the european chapter of the association for computational linguistics::2016
-09cd7876b72d6105c83db59052572433a0a2b36c,proceeding::european association for machine translation conferences/workshops::2012
-f795853dba1b4dc7ead4c4c5d94d4e1666a5df24,proceeding::international workshop on semantic evaluation::2014
+85f94d8098322f8130512b4c6c4627548ce4a6cc,proceeding::conference on empirical methods in natural language processing::2016
+59761abc736397539bdd01ad7f9d91c8607c0457,proceeding::conference on computational natural language learning::2016
+9fa8d73e572c3ca824a04a5f551b602a17831bc5,proceeding::conference on empirical methods in natural language processing::2006
+10f97f1fb4f5c2c8e6c44d4a33da46d331dd4aeb,proceeding::conference on computational natural language learning::2003
+944a1cfd79dbfb6fef460360a0765ba790f4027a,proceeding::conference on empirical methods in natural language processing::2013
+71b7178df5d2b112d07e45038cb5637208659ff7,proceeding::european conference on computer vision::2014
+93499a7c7f699b6630a86fad964536f9423bb6d0,proceeding::conference on empirical methods in natural language processing::2015
+564257469fa44cdb57e4272f85253efb9acfd69d,proceeding::conference on empirical methods in natural language processing::2013
+16084914bc3729f86f46ac6267ea7a42e7951d41,proceeding::international workshop on semantic evaluation::2014
+e6f832f68ae29850e1c61ce9db86f1b6fc0835de,proceeding::ieee annual symposium on foundations of computer science::2017
+f37076f426023241f19cdc2fb0a0fd733a6fa7fa,proceeding::conference on computational natural language learning::2016
+636a79420d838eabe4af7fb25d6437de45ab64e8,proceeding::conference on empirical methods in natural language processing::2017
+63e39cdf1ad884da6bc69096bb3413b5b1100559,proceeding::conference of the european chapter of the association for computational linguistics::2016
 0e5fa90e28fab414c8ef3ac6ca937c6195c2860e,proceeding::conference on empirical methods in natural language processing::2013
-b5c6f0d18fd783536b4e6c2205d75b7c4477c6d2,proceeding::international conference on computational logic::2008
-9f0687bcd0a7d7fc91b8c5d36c003a38b8853105,proceeding::international conference on learning representations::2016
-32c4e19f4a757f6c6984416b97d69e287d1d0ecd,proceeding::aaai conference on artificial intelligence::2016
-bd7bd1d2945a58cdcc1797ba9698b8810fe68f60,proceeding::ieee international conference on computer vision::2015
-b0aca3e7877c3c20958b0fae5cbf2dd602104859,proceeding::international conference on computational linguistics::2014
-ccf415df5a83b343dae261286d29a40e8b80e6c6,proceeding::international conference on artificial intelligence and statistics::2009
-bee044c8e8903fb67523c1f8c105ab4718600cdb,proceeding::international conference on learning representations::2014
-6789e0dbd294cccb3b7dd4e001c9e8ba4813f334,proceeding::conference on empirical methods in natural language processing::2016
-053f1cf10ced2321c1853f307075f0a6a83b6840,proceeding::international conference on computational logic::2008
-1e7cf9047604f39e517951d129b2b3eecf9e1cfb,proceeding::conference on empirical methods in natural language processing::2014
-13497bd108d4412d02050e646235f456568cf822,proceeding::international conference on machine learning::2015
-9ab0de951cc9cdf16887b1f841f8da6affc9c0de,proceeding::the 2011 international joint conference on neural networks::2011
-b0c5f72790cca220541ea4809d1e43b4bdad1124,proceeding::conference on empirical methods in natural language processing::2012
-1778e32c18bd611169e64c1805a51abff341ca53,proceeding::international conference on learning representations::2017
-314ee6b03f8c6c3533d2107fe05f9909b9202cbd,proceeding::conference on empirical methods in natural language processing::2016
-607cca37c1429b7380df35b3f761ae1499aa84ab,proceeding::international conference on computational semantics::2013
-ec92efde21707ddf4b81f301cd58e2051c1a2443,proceeding::international conference on machine learning::2013
-4546b7207e1a87c205bdf45c70f7b06fb3c38e21,proceeding::international joint conference on natural language processing::2017
-3610591ee80d7133033a6fb09e4e324e54007805,proceeding::conference on computational natural language learning::2017
-1b24b7b4ac2427d20ab60c8451563eb8d99caf9c,proceeding::international conference on learning representations::2019
-563783de03452683a9206e85fe6d661714436686,proceeding::international conference on learning representations::2016
-400e746bc8027c4b5f915cae6123cd1775484b4d,proceeding::conference on empirical methods in natural language processing::2017
+7acfdc905f734abf966aed58abb983bc015ff7fe,proceeding::international conference on computational linguistics::2004
+40984c357a708200179933541b5f69a4a1fc709a,proceeding::scandinavian workshop on algorithm theory::2008
+ade0c116120b54b57a91da51235108b75c28375a,proceeding::conference on empirical methods in natural language processing::2016
+12e9d005c77f76e344361f79c4b008034ae547eb,proceeding::conference on empirical methods in natural language processing::2016
+891ce1687e2befddd19f54e4eef1d3f39c8dbaf7,proceeding::aaai conference on artificial intelligence::2015
+11ec56898a9e7f401a2affe776b5297bd4e25025,proceeding::international workshop on semantic evaluation::2014
+1ac30af5522c7a50ec4d1ee43fd2bd8652a9bd52,proceeding::conference on empirical methods in natural language processing::2015
+2f4df08d9072fc2ac181b7fced6a245315ce05c8,proceeding::2014 ieee conference on computer vision and pattern recognition::2013
+1f6ba0782862ec12a5ec6d7fb608523d55b0c6ba,proceeding::conference on empirical methods in natural language processing::2014
+f529dc492b7f3d1b22db64bc7ad36b1f13641a84,proceeding::international workshop on semantic evaluation::2014
+ebec5711797101242992d0568bde1b46853e5eff,proceeding::international symposium on information theory::2019
+b5246fa284f86b544a7c31f050b3bd0defd053fd,proceeding::conference on empirical methods in natural language processing::2018
+6dab1c6491929d396e9e5463bc2e87af88602aa2,proceeding::conference on empirical methods in natural language processing::2015
+1a2a770d23b4a171fa81de62a78a3deb0588f238,proceeding::european conference on computer vision::2013
+13fe71da009484f240c46f14d9330e932f8de210,proceeding::conference on empirical methods in natural language processing::2016
+4177ec52d1b80ed57f2e72b0f9a42365f1a8598d,"proceeding::ieee international conference on acoustics, speech, and signal processing::2013"
+2c8ac3e1f0edeed1fbd76813e61efdc384c319c7,proceeding::international conference on computational linguistics::2002
+7a96765c147c9c814803c8c9de28a1dd069271da,proceeding::international conference on computational logic::2014
+6d31714834449e5bd9f76b0a30a25c38a4a6c92f,proceeding::ieee annual symposium on foundations of computer science::2019
+72e93aa6767ee683de7f001fa72f1314e40a8f35,"proceeding::ieee international conference on acoustics, speech, and signal processing::2011"
+6270baedeba28001cd1b563a199335720d6e0fe0,proceeding::2014 ieee conference on computer vision and pattern recognition workshops::2014
+3276b9487b2336f662488f2a180622f3bcac6e82,proceeding::international workshop on semantic evaluation::2014
+398c296d0cc7f9d180f84969f8937e6d3a413796,proceeding::2012 ieee conference on computer vision and pattern recognition::2012
+6346f4fb03a25ff3a4bd887ba45d627a01983ea4,proceeding::international workshop on semantic evaluation::2015
+71480da09af638260801af1db8eff6acb4e1122f,proceeding::conference on empirical methods in natural language processing::2013
+7c433f15031dc5b156f81ba034e81ada2656b79a,proceeding::annual conference computational learning theory::2019
+cb9cc883bdd08d58feee5c7da01acff6fdb4ad78,proceeding::conference on empirical methods in natural language processing::2008
+a14045a751f5d8ed387c8630a86a3a2861b90643,proceeding::conference on empirical methods in natural language processing::2014
+ce4d33595e192e0894f857db88af2a847a932c97,proceeding::international conference on computational logic::2010
+96526726f87233fb017f6ea9483090f04e0f0530,proceeding::conference on empirical methods in natural language processing::2015
+de2df29b0a0312de7270c3f5a0af6af5645cf91a,proceeding::international conference on computational logic::2003
+95251e6e6a55cff6eddb041b757ac04e2a3d30c7,proceeding::workshop on analytic algorithmics and combinatorics::2017
+6396ab37641d36be4c26420e58adeb8665914c3b,proceeding::conference on empirical methods in natural language processing::2014
+f795853dba1b4dc7ead4c4c5d94d4e1666a5df24,proceeding::international workshop on semantic evaluation::2014
+9f2efadf66817f1b38f58b3f50c7c8f34c69d89a,proceeding::2014 ieee conference on computer vision and pattern recognition::2014
+167ad306d84cca2455bc50eb833454de9f2dcd02,proceeding::conference on empirical methods in natural language processing::2013
+d6f2f611da110b5b5061731be3fc4c7f45d8ee23,proceeding::ieee international conference on computer vision::2015
+b29447ba499507a259ae9d8f685d60cc1597d7d3,proceeding::conference on empirical methods in natural language processing::2013
+c0b624c46b51920dfec5aa02cc86323c0beb0df5,proceeding::international conference on frontiers in handwriting recognition::2013
+e3ce71a26872c7755e6d8b8fc45bf00c8be64193,proceeding::conference on machine translation::2016
+d82b55c35c8673774a708353838918346f6c006f,proceeding::conference on computational natural language learning::2015
+921da70f380e9f9082e5594b128369cfd0fdf120,proceeding::conference on empirical methods in natural language processing::2014
+0d3233d858660aff451a6c2561a05378ed09725a,proceeding::conference on empirical methods in natural language processing::2013
+2cd8e8f510c89c7c18268e8ad51c061e459ad321,proceeding::conference on empirical methods in natural language processing::2016
+bd32ebb9fac53a14202fb1a4f76ef96d1ff68c6c,proceeding::conference on empirical methods in natural language processing::2015
+cff79255a94b9b05a4ce893eb403a522e0923f04,proceeding::conference of the european chapter of the association for computational linguistics::2016
+ded103d0613e1a8f51f586cc1678aee3ff26e811,"proceeding::ieee international conference on acoustics, speech, and signal processing::2012"
+5f176a929d9eaa569b430cb784280802cf8fca79,proceeding::conference on empirical methods in natural language processing::2013
+5a7958b418bceb48a315384568091ab1898b1640,proceeding::conference on empirical methods in natural language processing::2002
+3cd32f1a3d8a090a75658528eeecc38cba8a2bf1,proceeding::international conference on computational semantics::2010
+908091b4a8757c3b2f7d9cfa2c4f616ee12c5157,proceeding::2010 ieee computer society conference on computer vision and pattern recognition::2010
+3f6a4556769e819242d669d073b895f1e45a706f,proceeding::conference on empirical methods in natural language processing::2013
+0db6eb46ca9941660acc775e3ca39bf4434c18be,proceeding::international conference on computational logic::2007
+33261d252218007147a71e40f8367ed152fa2fe0,proceeding::conference on empirical methods in natural language processing::2014
+0ba87571341beaf6a5c9a30e049be7b1fc9a4c60,proceeding::aaai conference on artificial intelligence::2012
+b4bfadfca9742bb3ee98a0cd322d5ce4e59a3ceb,proceeding::conference on machine translation::2018
+bf8fe437f779f2098f9af82b534aa51dc9edb06f,proceeding::conference on machine translation::2018
+99d2dcdcf4cf05facaa101a48c7e31d140b4736d,proceeding::international conference on computational logic::2005
+f21b36a5cfba94bbc6ed5c3642e1e46057deccaf,proceeding::conference on empirical methods in natural language processing::2016
+f53e2ae46470b89cd1ce6e3bf1d60d9c59722ce1,proceeding::conference on empirical methods in natural language processing::2015
+892e53fe5cd39f037cb2a961499f42f3002595dd,proceeding::conference of the european chapter of the association for computational linguistics::2016
+aa9efc8b2737eac0675ba5abb5feab8305482c12,proceeding::conference on computational natural language learning::2009
+c75cdf042e42dae19399d393b5f3d24c10054a10,proceeding::international workshop on semantic evaluation::2015
+51db1f3c8dfc7d4077da39c96bb90a6358128111,proceeding::european conference on computer vision::2016
+ffb949d3493c3b2f3c9acf9c75cb03938933ddf0,proceeding::conference on empirical methods in natural language processing::2017
+46a7afc2b23bb3406fb64c36b6f2696145b54f24,proceeding::conference on computational natural language learning::2017
+4af41f4d838daa7ca6995aeb4918b61989d1ed80,"proceeding::2001 ieee international conference on acoustics, speech, and signal processing. proceedings (cat. no.01ch37221)::2001"
+d1ba322f795adbdc706651dbc76ad53b9c5f9468,proceeding::conference on computational natural language learning::2003
+14d9be7962a4ec5a6e55755f4c7588ea00793652,proceeding::british machine vision conference::2014
+eba36ac75bf22edf9a1bfd33244d459c75b98305,proceeding::aaai conference on artificial intelligence::2015
+a1306ce652f556fbb9e794d91084a29294298e6d,proceeding::2013 ieee conference on computer vision and pattern recognition::2012
+75fa915984f1903cd8d0e1ea54b9d008d5a87fe5,proceeding::conference on empirical methods in natural language processing::2016
+3fc44ff7f37ec5585310666c183c65e0a0bb2446,proceeding::international conference on computational logic::2003
+ac991aa2072cf22fee83db7aa536137e666ed9d1,proceeding::international workshop on semantic evaluation::2014
+5f425b7abf2ed3172ed060df85bb1885860a297e,proceeding::ieee international conference on computer vision::2015
+d53d878cf1a3f0bed5d9c68c925994cb72f47304,proceeding::conference on computational natural language learning::2014
+ddf0f2226cc837750eb1eb57c43d8192ef0fc2b3,proceeding::aaai conference on artificial intelligence::2010
+77f0a39b8e02686fd85b01971f8feb7f60971f80,proceeding::european conference on computer vision::2016
+ecb5336bf7b54a62109f325e7152bb74c4c7f527,proceeding::conference on empirical methods in natural language processing::2015
+665f89a20b05472d82df0a12f2dd63e8fcc4f3ea,proceeding::acm conference on recommender systems::2013
+500d570ce02abf42bc1bc535620741d4c5665e6a,proceeding::conference on computational natural language learning::2014
+1cc405a70b35129ce387ced5144298d09d07c3cf,proceeding::conference on empirical methods in natural language processing::2015
+1c4e9156ca07705531e45960b7a919dc473abb51,proceeding::british machine vision conference::2016
+03c03dec975554cb02aca1e076106178dbe0a8a0,proceeding::conference on computational natural language learning::2003
+12d0353ce8b41b7e5409e5a4a611110aee33c7bc,proceeding::conference on empirical methods in natural language processing::2002
+2a002ce457f7ab3088fbd2691734f1ce79f750c4,proceeding::2014 ieee conference on computer vision and pattern recognition::2013
+4e9c459390caef1eb116c1f2fcbe7e79717f2964,proceeding::aaai conference on artificial intelligence::2011
+0a32b3d027064798fb31ce42894fec31e834f7db,proceeding::international conference on computational logic::2006
+ad1181d188f730b7917a95ae452efb48f830c90a,proceeding::conference on empirical methods in natural language processing::2008
+a7e084fe51a40eeaaf79bf0b78e837d5bc4a8e10,proceeding::applied natural language processing conference::1988
+705dcc8eadba137834e4b0359e2d696d4b209f5b,proceeding::conference of the european chapter of the association for computational linguistics::2016
+5bfd8d40bc071fffaf93685a46974b122ee4239d,proceeding::conference on empirical methods in natural language processing::2009
+37b5dfe87d82ba8f310155165d5bf841dc92dea2,proceeding::ieee workshop/winter conference on applications of computer vision::2015
+d821ce08da6c0084d5eacbdf65e25556bc1b9bc3,proceeding::conference on empirical methods in natural language processing::2016
+5feb2c61b04532869e44d1ca4e48c7108aee5fd3,proceeding::international conference on computational semantics::2009
