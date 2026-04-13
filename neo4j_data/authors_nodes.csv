@@ -205,13 +205,13 @@ authorId,name
 1491631727,Y. Leng
 8259409,Yaping Cheng
 2143717442,Jin Wang
+47170423,Sharon Newman
+83674573,Ashley P. Stephenson
+8810543,Max Willsey
 32697055,Randolph Lopez
 150294933,Siena Dumas Ang
 1721446,K. Makarychev
 150228028,Miklós Z. Rácz
-47170423,Sharon Newman
-83674573,Ashley P. Stephenson
-8810543,Max Willsey
 2144355103,Yang Chen
 144434220,Xiaodong Yang
 2110618928,Jie Gao
@@ -260,11 +260,6 @@ authorId,name
 1831104,Zhenjiang Zhang
 2108926998,Mingzhe Wang
 2112667898,Qiuliang Zhang
-35365766,Shengmei Luo
-8274453,Guangyan Zhang
-1980434,Chengwen Wu
-1740261,S. Khan
-2181606,Keqin Li
 66770881,C. Döpke
 50353334,T. Grothe
 65827603,P. Steblinski
@@ -305,17 +300,17 @@ authorId,name
 39749807,Guojun Wang
 144249201,B. White
 153845825,R. Cottrell
+2148191,Yonggen Gu
+2082467852,Dingding Hou
+50172063,Xiaohong Wu
+145122464,J. Tao
+2108082483,Yanqiong Zhang
 9184276,Jingqiang Liu
 2185909463,Bin Li
 2128705160,Lizhang Chen
 2056835516,Meng Hou
 51219112,Feiran Xiang
 2118952667,Pei Wang
-2148191,Yonggen Gu
-2082467852,Dingding Hou
-50172063,Xiaohong Wu
-145122464,J. Tao
-2108082483,Yanqiong Zhang
 3310262,N. Chervyakov
 24607843,M. Babenko
 1382477905,A. Tchernykh
@@ -352,8 +347,6 @@ authorId,name
 2118263792,Pan Yang
 145826495,N. Xiong
 46606113,Jingli Ren
-65741963,Naresh Vurukonda
-34873810,B. Rao
 2262395240,Weixu Zhang
 2262428111,Yifei Wang
 2780420,Yuanfeng Song
@@ -401,9 +394,6 @@ authorId,name
 49803125,Fatima-Zahra Benjelloun
 1954569,A. A. Lahcen
 48727673,Samir Belfkih
-2840689,A. Callahan
-1403851557,Jose Cruz-Toledo
-1736389,M. Dumontier
 2277396,Tobias Emrich
 1688561,H. Kriegel
 1718168,N. Mamoulis
@@ -465,7 +455,6 @@ authorId,name
 2077061487,Alexander Simpson
 107614699,Austin G Hass
 107837062,Elaine W. Indermaur
-1742249767,Kevin N. Lin
 2115905104,Yiming Dong
 13132066,Zhi Ping
 2400290632,Ouyang Qi
@@ -849,6 +838,11 @@ authorId,name
 6927605,N. Kretschy
 2112015,B. Rohm
 3494688,V. Somoza
+4679615,Christy Agbavwe
+1904680,Changhan Kim
+4250982,DongGee Hong
+1841902,K. Heinrich
+2156633954,Tao Wang
 49480879,Daniel Aird
 123106866,Wei-Sheng Chen
 38731146,Maxwell Danielsson
@@ -910,6 +904,28 @@ authorId,name
 3371112,L. Tierney
 2109754522,J. Y. Yang
 2108239502,Jianhua Zhang
+143935761,A. Fabregat
+1988267,K. Sidiropoulos
+1956799,Phani V. Garapati
+50305260,M. Gillespie
+83328464,Kerstin Hausmann
+2358245,R. Haw
+9257465,B. Jassal
+34432693,S. Jupe
+3375933,Florian Korninger
+35887337,S. McKay
+152588940,L. Matthews
+145248814,Bruce May
+1401575577,Marija Milacic
+49907104,K. Rothfels
+2674400,V. Shamovsky
+47384978,M. Webber
+35700109,Joel Weiser
+2116742828,Mark Williams
+2519682,Guanming Wu
+24917093,L. Stein
+1785886,H. Hermjakob
+1398276274,P. D’Eustachio
 3177317,R. Handsaker
 2809474,Alec Wysoker
 40062005,Jue Ruan
@@ -925,11 +941,12 @@ authorId,name
 2136562,Mohit Iyyer
 40642935,Matt Gardner
 143997772,Christopher Clark
-4679615,Christy Agbavwe
-1904680,Changhan Kim
-4250982,DongGee Hong
-1841902,K. Heinrich
-2156633954,Tao Wang
+5839477,B. Binkowski
+153129185,K. Richmond
+5802465,J. Kaysen
+2147496,M. Sussman
+3581739,P. Belshaw
+1742249767,Kevin N. Lin
 2150986767,Miten Jain
 1695694,S. Koren
 2657340,K. Miga
@@ -958,11 +975,6 @@ authorId,name
 47688065,M. Loose
 2093348519,Jeremy Howard
 2884561,Sebastian Ruder
-5839477,B. Binkowski
-153129185,K. Richmond
-5802465,J. Kaysen
-2147496,M. Sussman
-3581739,P. Belshaw
 2110883817,Kensuke Nakamura
 3117144,T. Oshima
 2723766,T. Morimoto
@@ -995,22 +1007,6 @@ authorId,name
 144783904,Christopher D. Manning
 34699434,A. Ng
 144922861,Christopher Potts
-3995456,S. Hoshika
-48182415,Nicole A. Leal
-2110256906,M. Kim
-16143095,Myong-Sang Kim
-15501140,N. Karalkar
-46696208,Hyo-Joong Kim
-2073350471,Alison M. Bates
-5941742,Norman E. Watkins
-2132700239,Holly A. SantaLucia
-5936994,A. Meyer
-145878441,Saurja DasGupta
-4227243,J. Piccirilli
-3210657,A. Ellington
-32891016,J. SantaLucia
-3772863,M. Georgiadis
-39873024,S. Benner
 3186743,F. Nazarov
 145613463,Y. Peres
 14123214,Frederic Sala
@@ -1020,14 +1016,45 @@ authorId,name
 5707215,Siying Ma
 40508329,Jiayuan Quan
 6069914,Jingdong Tian
+2072400,E. Nuwaysir
+2152492080,Wei Huang
+3257938,T. Albert
+4387477,Jaz Singh
+5214899,Kate Nuwaysir
+96961295,A. Pitas
+2019607,T. Richmond
+93990222,T. Gorski
+143997169,J. P. Berg
+33043391,Jeff D. Ballin
+152335239,M. McCormick
+33964304,J. Norton
+97504631,Tim E Pollock
+5942157,Terry Sumwalt
+39382126,Lawrence L. Butcher
+2082672442,Dean Porter
+145414269,Michael Molla
+2070678569,Christine Hall
+2076681057,F. Blattner
+40605478,Rodney Wallace
+1934199,F. Cerrina
+2072877186,R. Green
 2279890,Jesse Dabney
 87185505,M. Meyer
 40193335,G. Cecchi
 2003079,G. Stolovitzky
 1762169,S. Blackburn
+1718686,Y. Chee
+1832676,Punarbasu Purkayastha
+2047288855,Chengmin Wang
 2082372,Rico Sennrich
 2259100,B. Haddow
 2539211,Alexandra Birch
+6324345,Maulik R. Kamdar
+2080891481,Corina Duenas
+31980306,Cristoffer Sevilla
+35836321,Solomon Shorser
+46735253,Thawfeek M. Varusai
+3526830,Guilherme Viteri
 5159648,Hwangbeom Kim
 50434213,Hyojun Han
 2110978911,J. Ahn
@@ -1134,11 +1161,6 @@ authorId,name
 46445069,G. Decad
 38169182,A. Fabre
 39900773,Aurélie Luis
-4963992,A. Chandrasekaran
-39147428,O. Levchenko
-47908030,Dhruv S. Patel
-26410709,Molly MacIsaac
-39739273,Ken Halvorsen
 143775533,A. Lenz
 1414140481,I. Maarouf
 1666187767,L. Welter
@@ -1150,9 +1172,6 @@ authorId,name
 51204141,M. Du
 143813023,S. Diggavi
 1762299,C. Fragouli
-1686768,Wentu Song
-3680574,K. Cai
-116095429,K. S. Schouhamer Immink
 38766791,Jin Sima
 1694427,Netanel Raviv
 143742406,Jehoshua Bruck
@@ -1168,21 +1187,6 @@ authorId,name
 2282481785,Fei Guo
 32009982,S. Zhu
 145295899,Yue Shen
-13267831,Christopher E. Arcadia
-49735635,E. Kennedy
-143633343,J. Geiser
-80819745,Amanda Dombroski
-114283913,Kady Oakley
-153064600,S. Chen
-145127067,Leonard W. Sprague
-1491365816,Mustafa Ozmen
-6114616,Jason K. Sello
-38708261,P. Weber
-143863049,S. Reda
-2053633885,Christopher Rose
-2117070198,Eunsuk Kim
-38170810,B. Rubenstein
-2318463,J. Rosenstein
 2265875060,S. M. Hossein
 2265911522,S. Kasra
 117654428,W. Hinz
@@ -1279,23 +1283,6 @@ authorId,name
 39353098,Kaiming He
 1771551,X. Zhang
 3080683,Shaoqing Ren
-145950802,D. Wheeler
-37082667,Yufeng Shen
-2146070995,Lei Chen
-2565130,A. McGuire
-40070219,Faheem Niazi
-4860101,C. Turcotte
-2244777840,J. R. Lupski
-7779981,C. Chinault
-40109219,Xing-Zhi Song
-2119034193,Yue Liu
-2112461340,Ye Yuan
-6722187,L. Nazareth
-143720212,X. Qin
-2235321203,D. Muzny
-2237388318,G. Weinstock
-2249960925,Richard A. Gibbs
-2243782670,Jonathan M. Rothberg
 46522098,Xiaodong Liu
 50462546,Pengcheng He
 2109136147,Weizhu Chen
@@ -1311,9 +1298,28 @@ authorId,name
 3335364,Dzmitry Bahdanau
 2076086,Fethi Bougares
 1751762,Yoshua Bengio
-1718686,Y. Chee
-1832676,Punarbasu Purkayastha
-2047288855,Chengmin Wang
+3995456,S. Hoshika
+48182415,Nicole A. Leal
+2110256906,M. Kim
+16143095,Myong-Sang Kim
+15501140,N. Karalkar
+46696208,Hyo-Joong Kim
+2073350471,Alison M. Bates
+5941742,Norman E. Watkins
+2132700239,Holly A. SantaLucia
+5936994,A. Meyer
+145878441,Saurja DasGupta
+4227243,J. Piccirilli
+3210657,A. Ellington
+32891016,J. SantaLucia
+3772863,M. Georgiadis
+39873024,S. Benner
+1686768,Wentu Song
+3680574,K. Cai
+116095429,K. S. Schouhamer Immink
+1746931,S. Bilotta
+1748706,E. Pergola
+1691589,R. Pinzani
 1756685,B. Walenz
 2110132098,Jeffrey Martin
 145602027,Jason T. Howard
@@ -1341,10 +1347,6 @@ authorId,name
 46445014,P. Häberle
 3304700,B. Gharizadeh
 3691346,F. Babrzadeh
-4983187,I. Kozarewa
-34553420,M. Sanders
-1776085,M. Berriman
-32326613,D. Turner
 2256594147,Heng Li
 2252380288,Jue Ruan
 2249788102,Richard Durbin
@@ -1354,33 +1356,20 @@ authorId,name
 51150315,Mandy Guo
 145024664,Llion Jones
 3422908,Robin Jia
-8672550,Pavani Yashodha De Silva
-7372106,G. U. Ganegoda
-2072400,E. Nuwaysir
-2152492080,Wei Huang
-3257938,T. Albert
-4387477,Jaz Singh
-5214899,Kate Nuwaysir
-96961295,A. Pitas
-2019607,T. Richmond
-93990222,T. Gorski
-143997169,J. P. Berg
-33043391,Jeff D. Ballin
-152335239,M. McCormick
-33964304,J. Norton
-97504631,Tim E Pollock
-5942157,Terry Sumwalt
-39382126,Lawrence L. Butcher
-2082672442,Dean Porter
-145414269,Michael Molla
-2070678569,Christine Hall
-2076681057,F. Blattner
-40605478,Rodney Wallace
-1934199,F. Cerrina
-2072877186,R. Green
-1746931,S. Bilotta
-1748706,E. Pergola
-1691589,R. Pinzani
+145644556,Craig Knox
+2409874,V. Law
+3025861,Timothy Jewison
+2112561785,Philip Liu
+2066273922,Son Ly
+40054667,A. Frolkis
+47284990,Allison Pon
+3038677,Kelly Banco
+81626132,Christine Mak
+3261602,V. Neveu
+1871617,Yannick Djoumbou
+3141411,Roman Eisner
+32960372,Anchi Guo
+2066145,D. Wishart
 37448415,M. Fuhrmann
 2071585945,W. Oertel
 50188460,Peter Berthold
@@ -1425,7 +1414,6 @@ authorId,name
 51428394,Alexei Baevski
 2068070,Sergey Edunov
 2325985,Michael Auli
-2890423,Eunsol Choi
 3382568,Adam Trischler
 2116678322,Tong Wang
 2854297,Xingdi Yuan
@@ -1472,16 +1460,12 @@ authorId,name
 1770537,Deva Ramanan
 3127283,Piotr Dollár
 1699161,C. L. Zitnick
-2266821525,Brent Ewing
 3323275,Kishore Papineni
 46924970,Salim Roukos
 144582029,T. Ward
 2587983,Wei-Jing Zhu
 1821711,Thang Luong
 143950636,Hieu Pham
-144422314,Matthew Richardson
-2676309,C. Burges
-1859813,Erin Renshaw
 2154179,V. Levenshtein
 2271847,Carmen Banea
 1748501,Claire Cardie
@@ -1491,20 +1475,34 @@ authorId,name
 1785173,German Rigau
 144120827,Janyce Wiebe
 144069120,Alex Zhai
-39913789,D. Zerbino
-1702103,E. Birney
+145950802,D. Wheeler
+37082667,Yufeng Shen
+2146070995,Lei Chen
+2565130,A. McGuire
+40070219,Faheem Niazi
+4860101,C. Turcotte
+2244777840,J. R. Lupski
+7779981,C. Chinault
+40109219,Xing-Zhi Song
+2119034193,Yue Liu
+2112461340,Ye Yuan
+6722187,L. Nazareth
+143720212,X. Qin
+2235321203,D. Muzny
+2237388318,G. Weinstock
+2249960925,Richard A. Gibbs
+2243782670,Jonathan M. Rothberg
+2266821525,Brent Ewing
 1701451,Ramesh Nallapati
 145218984,Bowen Zhou
 1790831,C. D. Santos
 144028698,Bing Xiang
 1864353,Edward Grefenstette
-1857734,Guokun Lai
-1912046,Qizhe Xie
-2391802,Hanxiao Liu
-35729970,Yiming Yang
-144547315,E. Hovy
 40170001,Ofir Press
 145128145,Lior Wolf
+144422314,Matthew Richardson
+2676309,C. Burges
+1859813,Erin Renshaw
 2354728,A. Karpathy
 48004138,Li Fei-Fei
 40608686,Yangfeng Ji
@@ -1521,10 +1519,17 @@ authorId,name
 2990151,M. Frith
 38550057,Michiaki Hamada
 145592551,P. Horton
+4983187,I. Kozarewa
+34553420,M. Sanders
+1776085,M. Berriman
+32326613,D. Turner
+39913789,D. Zerbino
+1702103,E. Birney
 35188630,George E. Dahl
 144580027,Dong Yu
 144718788,L. Deng
 1723644,A. Acero
+2890423,Eunsol Choi
 2314850892,Olga Russakovsky
 153302678,Jia Deng
 144914140,Hao Su
@@ -1535,6 +1540,11 @@ authorId,name
 2556428,A. Khosla
 145879842,Michael S. Bernstein
 39668247,A. Berg
+1857734,Guokun Lai
+1912046,Qizhe Xie
+2391802,Hanxiao Liu
+35729970,Yiming Yang
+144547315,E. Hovy
 20851195,Kazuma Hashimoto
 2228109,Caiming Xiong
 143946906,Yoshimasa Tsuruoka
@@ -1547,14 +1557,7 @@ authorId,name
 1746662,D. Sontag
 2531268,Alexander M. Rush
 143913305,W. Kent
-48188880,M. Marelli
-2486762,L. Bentivogli
-145283199,Marco Baroni
-145040726,R. Bernardi
-2644577,Stefano Menini
-2713535,Roberto Zamparelli
 38666915,D. Klein
-40756403,Jason Bolton
 152857609,Sébastien Jean
 1710604,R. Memisevic
 1701686,I. Sutskever
@@ -1600,8 +1603,6 @@ authorId,name
 3118681,J. Hockenmaier
 2002316,F. Och
 2241944616,Daniel Marcu
-5030386,A. Bryksin
-13122069,I. Matsumura
 6590224,E. Manrao
 6050710,Mikhail Pavlenok
 4695117,M. Niederweis
@@ -1621,32 +1622,6 @@ authorId,name
 2318591096,Ben Langmead
 2244164,C. Trapnell
 144538650,Mihai Pop
-39894225,G. Sutton
-3110574,L. Feuk
-48190261,A. Halpern
-2071292,Nelson Axelrod
-2144375233,Jiaqi Huang
-3088257,E. Kirkness
-37258931,Gennady Denisov
-2144106942,Yuan Lin
-2392260727,J. MacDonald
-2227382780,Andy Wing
-2362534889,Chunrong Pang
-3521538,M. Shago
-4563844,Alexia Tsiamouri
-7553330,V. Bafna
-35448818,V. Bansal
-33807385,S. Kravitz
-3043602,D. Busam
-48004049,T. McIntosh
-2352689,K. Remington
-1796137,J. F. Abril
-2246434546,J. Gill
-47320247,Jon Borman
-117589306,Y. Rogers
-46615956,M. Frazier
-1818316,S. Scherer
-2520450,J. Craig Venter
 2030753,A. Barski
 5685285,Suresh Cuddapah
 2431752,Kairong Cui
@@ -1687,6 +1662,7 @@ authorId,name
 4577958,Michael D. Rhodes
 82981963,Rajesh Gottimukkala
 49081047,Shan Yang
+7553330,V. Bafna
 144563239,A. Bashir
 48069266,A. MacBride
 2178851,C. Alkan
@@ -1705,9 +1681,32 @@ authorId,name
 2343639834,Brian Kingsbury
 1765329,Taku Kudo
 2113584859,John Richardson
-2884373,J. Elman
-1726415,Alexander Toshev
+1941442,Jianpeng Cheng
+145307652,Li Dong
+1747893,Mirella Lapata
+2546951,L. Vilnis
+2555924,Andrew M. Dai
+1944541,R. Józefowicz
 1751569,Samy Bengio
+1782282,Evan Shelhamer
+3049736,Sergey Karayev
+2117314646,Jonathan Long
+1687120,S. Guadarrama
+40511414,Myle Ott
+144270981,Angela Fan
+39793298,Sam Gross
+144055124,Nathan Ng
+2529182,David Grangier
+2380885,Danilo Giampiccolo
+2238231938,Bernardo Magnini
+48188880,M. Marelli
+2486762,L. Bentivogli
+145283199,Marco Baroni
+145040726,R. Bernardi
+2644577,Stefano Menini
+2713535,Roberto Zamparelli
+1726415,Alexander Toshev
+2884373,J. Elman
 1379953252,Wang Ling
 1690706,A. Black
 1691021,Isabel Trancoso
@@ -1717,24 +1716,30 @@ authorId,name
 2979183,Tiago Luís
 48799969,Matthew D. Zeiler
 2276554,R. Fergus
-1760868,M. Surdeanu
-144661918,John Bauer
-2784228,J. Finkel
-2105138,Steven Bethard
-2240597,David McClosky
-1941442,Jianpeng Cheng
-145307652,Li Dong
-1747893,Mirella Lapata
-2052690705,Peter Young
-2170746,Micah Hodosh
-1753223,Alex Graves
-40360972,Abdel-rahman Mohamed
-1695689,Geoffrey E. Hinton
 2153901204,Xin Li
 144590225,Dan Roth
 2380898326,Varun Manjunatha
 1389036863,J. Boyd-Graber
 1722360,Hal Daumé
+1706809,Marc'Aurelio Ranzato
+3089272,R. Monga
+145139947,M. Devin
+32131713,G. Corrado
+2118440152,Kai Chen
+49959210,J. Dean
+2052690705,Peter Young
+2170746,Micah Hodosh
+40756403,Jason Bolton
+1753223,Alex Graves
+40360972,Abdel-rahman Mohamed
+1695689,Geoffrey E. Hinton
+145938140,Nadir Durrani
+1702066,Kenneth Heafield
+1760868,M. Surdeanu
+144661918,John Bauer
+2784228,J. Finkel
+2105138,Steven Bethard
+2240597,David McClosky
 1762757,Roi Reichart
 2070640,C. Sugnet
 1716986,T. Furey
@@ -1750,16 +1755,31 @@ authorId,name
 2145307359,Xi Chen
 37943598,Adam Freilich
 1739180701,S. Sinha
-1706809,Marc'Aurelio Ranzato
-3089272,R. Monga
-145139947,M. Devin
-32131713,G. Corrado
-2118440152,Kai Chen
-49959210,J. Dean
-1782282,Evan Shelhamer
-3049736,Sergey Karayev
-2117314646,Jonathan Long
-1687120,S. Guadarrama
+39894225,G. Sutton
+3110574,L. Feuk
+48190261,A. Halpern
+2071292,Nelson Axelrod
+2144375233,Jiaqi Huang
+3088257,E. Kirkness
+37258931,Gennady Denisov
+2144106942,Yuan Lin
+2392260727,J. MacDonald
+2227382780,Andy Wing
+2362534889,Chunrong Pang
+3521538,M. Shago
+4563844,Alexia Tsiamouri
+35448818,V. Bansal
+33807385,S. Kravitz
+3043602,D. Busam
+48004049,T. McIntosh
+2352689,K. Remington
+1796137,J. F. Abril
+2246434546,J. Gill
+47320247,Jon Borman
+117589306,Y. Rogers
+46615956,M. Frazier
+1818316,S. Scherer
+2520450,J. Craig Venter
 1700187,Anders Søgaard
 79775260,Yoav Goldberg
 2329288,Piotr Bojanowski
@@ -1769,20 +1789,12 @@ authorId,name
 2622491,Hossein Azizpour
 50626295,Josephine Sullivan
 153120475,S. Carlsson
-2113221447,Hai Wang
-145689002,David A. McAllester
 1689647,Peter D. Turney
 1990190,Patrick Pantel
 50812138,Lifeng Shang
 11955007,Zhengdong Lu
 49404233,Hang Li
-145410481,Sergio Jiménez
-50195537,George Dueñas
-3911267,J. Baquero
-1747784,Alexander Gelbukh
 144096985,G. Miller
-145938140,Nadir Durrani
-1702066,Kenneth Heafield
 1895356,D. Ciresan
 2514691,U. Meier
 145341374,J. Schmidhuber
@@ -1796,28 +1808,26 @@ authorId,name
 2651937,Yinggong Zhao
 2372307,Victoria Fossum
 145287425,David Chiang
-2100019,Rudolf Kadlec
-8649018,Martin Schmid
-3363139,Ondrej Bajgar
-1773749,Jan Kleindienst
+2921469,Yann Dauphin
 51112060,Sami Davies
 11063375,Miklós Z. Rácz
 3125805,Cyrus Rashtchian
-1708114,K. Erk
-1708581,Sebastian Padó
 1760871,Aaron C. Courville
 145467703,P. Vincent
-2790926,Mrinmaya Sachan
-89890133,Kumar Avinava Dubey
-143977260,E. Xing
 2038285,Alessandro Lenci
+1708114,K. Erk
+1708581,Sebastian Padó
 145505048,Georgiana Dinu
 143668305,Miguel Ballesteros
 144365875,Noah A. Smith
-145727038,I. Krasikov
-2951440,Y. Roditty
+145592791,Polina Kuznetsova
+2004053,Vicente Ordonez
+1685538,Tamara L. Berg
+1699545,Yejin Choi
 145322333,H. Ney
 40362488,Lisa Hartung
+2113221447,Hai Wang
+145689002,David A. McAllester
 1750652,Jonathan Berant
 3052879,Vivek Srikumar
 2158502941,Pei-Chun Chen
@@ -1825,10 +1835,6 @@ authorId,name
 144521450,Brittany Harding
 2110381942,B. Huang
 48323507,Peter Clark
-145148360,L. Hirschman
-144267118,M. Light
-1798895,Eric Breck
-5416402,J. Burger
 3035541,Klaus Greff
 2100612,R. Srivastava
 2865775,Jan Koutník
@@ -1836,8 +1842,10 @@ authorId,name
 2130418538,Jiang Zhao
 2142229772,Tiantian Zhu
 143745020,Man Lan
-1836606,T. Landauer
-1728602,S. Dumais
+145410481,Sergio Jiménez
+50195537,George Dueñas
+3911267,J. Baquero
+1747784,Alexander Gelbukh
 2188620,Yaniv Taigman
 41216159,Ming Yang
 1947267,Michel Galley
@@ -1847,87 +1855,61 @@ authorId,name
 145011589,W. Miller
 1816655,D. Lipman
 30345804,J. Senecal
-2059149862,A. Chou
-34765463,Roy Frostig
+2100019,Rudolf Kadlec
+8649018,Martin Schmid
+3363139,Ondrej Bajgar
+1773749,Jan Kleindienst
+8137017,Ramakrishna Vedantam
+153432684,Devi Parikh
 1740765,Y. Singer
 6803671,L. Gambardella
+2386020817,Jiwei Li
+1707242,Minh-Thang Luong
+1746807,Dan Jurafsky
 50506272,V. Pham
 2156685,Christopher Kermorvant
 2373952,J. Louradour
-145592791,Polina Kuznetsova
-2004053,Vicente Ordonez
-1685538,Tamara L. Berg
-1699545,Yejin Choi
-2546951,L. Vilnis
-2555924,Andrew M. Dai
-1944541,R. Józefowicz
-3292652,Rajen Chatterjee
-3359291,C. Federmann
-1839533,Matthias Huck
-2140238,Chris Hokamp
-145089549,V. Logacheva
-1696402,Christof Monz
-2138026,Matteo Negri
-38842528,Matt Post
-2797847,Carolina Scarton
-145862931,Marco Turchi
-2108860856,Xiaodong Liu
-144137069,Xiaodong He
-1800354,Kevin Duh
-30844359,Ye-Yi Wang
-40511414,Myle Ott
-144270981,Angela Fan
-39793298,Sam Gross
-144055124,Nathan Ng
-2529182,David Grangier
-2380885,Danilo Giampiccolo
-2238231938,Bernardo Magnini
-47709773,H. Rubenstein
-1898344,J. Goodenough
-32355580,L. Claudino
 2234342,Lisa Anne Hendricks
 34849128,Marcus Rohrbach
 1811430,Subhashini Venugopalan
 2903226,Kate Saenko
-2860351,Will Y. Zou
+32355580,L. Claudino
+47709773,H. Rubenstein
+1898344,J. Goodenough
 2110909951,Stanley F. Chen
 50126864,Joshua Goodman
-144729897,Ankur P. Parikh
-2556289,Oscar Täckström
-143790066,Dipanjan Das
-39328010,Jakob Uszkoreit
-49336604,Wenhui Wang
-144610884,Nan Yang
-49807919,Furu Wei
-39488576,Baobao Chang
-143849609,M. Zhou
-1830914,Guillaume Lample
-50324141,Sandeep Subramanian
-2189948,Kazuya Kawakami
-2108925678,Rie Johnson
-50728655,Tong Zhang
-2467508,Tal Linzen
-2202008,Emmanuel Dupoux
-38956216,Lili Mou
-1818378366,Hao Peng
-1410115257,Ge Li
-48615144,Yan Xu
-2156144568,Lu Zhang
-1700880,Zhi Jin
-2227827,Tsendsuren Munkhdalai
-145174375,Hong Yu
-24339276,Jon Gauthier
-2188497,Abhinav Rastogi
-47495799,Raghav Gupta
+2059149862,A. Chou
+34765463,Roy Frostig
+2110759501,Ankush Gupta
+1694502,C. V. Jawahar
+2790926,Mrinmaya Sachan
+89890133,Kumar Avinava Dubey
+143977260,E. Xing
+145148360,L. Hirschman
+144267118,M. Light
+1798895,Eric Breck
+5416402,J. Burger
+1836606,T. Landauer
+1728602,S. Dumais
+2860351,Will Y. Zou
+145727038,I. Krasikov
+2951440,Y. Roditty
+2157958,Michael J. Denkowski
+1784914,A. Lavie
+50369944,Desmond Elliott
+143694777,Frank Keller
+2862871,M. Salzmann
+38842528,Matt Post
+49178343,Jie Zhou
+2112866139,Ying Cao
+2108084524,Xuguang Wang
+144326610,Peng Li
+145738410,W. Xu
 2345617,Orhan Firat
 1395619597,Nicolas Boulanger-Lewandowski
 1996134,Razvan Pascanu
-2157958,Michael J. Denkowski
-1784914,A. Lavie
 3017324,Katja Filippova
 1783941,Y. Altun
-8137017,Ramakrishna Vedantam
-153432684,Devi Parikh
 2552871,Elia Bruni
 39903329,N. Tran
 143707112,M. Collins
@@ -1938,95 +1920,116 @@ authorId,name
 40599257,Jianxiong Xiao
 1865091,Krista A. Ehinger
 143868587,A. Oliva
-50369944,Desmond Elliott
-143694777,Frank Keller
-2862871,M. Salzmann
+2113484216,Hao Fang
+144157872,Saurabh Gupta
+3346186,F. Iandola
+144137069,Xiaodong He
+49501003,Margaret Mitchell
+144189092,John C. Platt
 144633696,Austin Matthews
 49610089,Andrei Alexandrescu
 1783839,K. Kirchhoff
-145848824,Karen Spärck Jones
 1762744,A. Stolcke
-2110759501,Ankush Gupta
-1694502,C. V. Jawahar
-2921469,Yann Dauphin
-2064348170,C. Buck
-1725514,Johannes Leveling
-1758528,Pavel Pecina
-1404569159,Herve Saint-Amand
-1737285,Radu Soricut
-2211536,Ales Tamchyna
+38759328,Peter Shaw
+39328010,Jakob Uszkoreit
+3292652,Rajen Chatterjee
+3359291,C. Federmann
+1839533,Matthias Huck
+2140238,Chris Hokamp
+145089549,V. Logacheva
+1696402,Christof Monz
+2138026,Matteo Negri
+2797847,Carolina Scarton
+145862931,Marco Turchi
+2108860856,Xiaodong Liu
+1800354,Kevin Duh
+30844359,Ye-Yi Wang
+144729897,Ankur P. Parikh
+2556289,Oscar Täckström
+143790066,Dipanjan Das
+40044603,M. Safran
+1891597,Irina Dalah
+144500803,J. Alexander
+49766964,Naomi Rosen
+3104600,Tsippi Iny Stein
+49994640,M. Shmoish
+3041706,N. Nativ
+2317797,Iris Bahir
+2714375,T. Doniger
+2617882,H. Krug
+1398779101,Alexandra Sirota-Madi
+2070004,T. Olender
+1403790336,Yaron Guan-Golan
+49078116,Gil Stelzer
+2264716740,Arye Harel
+1911900,D. Lancet
+2110006108,Tiqing Liu
+2721754,Yuhmei Lin
+2069708602,Xin Wen
+2011087,R. Jorissen
+1787654,M. Gilson
 6783896,T. Wicker
 4360610,E. Schlagenhauf
 145452378,A. Graner
 2953477,T. Close
 145096244,B. Keller
 145778478,N. Stein
-1752875,Yelong Shen
+49336604,Wenhui Wang
+144610884,Nan Yang
+49807919,Furu Wei
+39488576,Baobao Chang
+143849609,M. Zhou
 2378954,Xuezhe Ma
+1830914,Guillaume Lample
+50324141,Sandeep Subramanian
+2189948,Kazuya Kawakami
 145755155,Martha Palmer
 2489901,Paul R. Kingsbury
 1793218,D. Gildea
-1565641737,François Chollet
-49178343,Jie Zhou
-2112866139,Ying Cao
-2108084524,Xuguang Wang
-144326610,Peng Li
-145738410,W. Xu
-1749837,Eugene Charniak
-145177220,Mark Johnson
-48872685,Sewon Min
-4418074,Minjoon Seo
-2548384,Hannaneh Hajishirzi
-143983679,Gao Huang
-2109168016,Zhuang Liu
-7446832,Kilian Q. Weinberger
-144861196,Zhao Meng
-2055863231,Rui Yan
-2992833,Shuohang Wang
-144924150,Jing Jiang
-2143684464,Yi Yang
-144105277,Wen-tau Yih
-50004012,Christopher Meek
-2386020817,Jiwei Li
-1707242,Minh-Thang Luong
-1746807,Dan Jurafsky
 2054165706,Sergey Ioffe
 1789737,Jonathon Shlens
 3282833,Z. Wojna
+1749837,Eugene Charniak
+145177220,Mark Johnson
+2108925678,Rie Johnson
+50728655,Tong Zhang
+2467508,Tal Linzen
+2202008,Emmanuel Dupoux
+143983679,Gao Huang
+2109168016,Zhuang Liu
+7446832,Kilian Q. Weinberger
+24339276,Jon Gauthier
+2188497,Abhinav Rastogi
+47495799,Raghav Gupta
+2992833,Shuohang Wang
+144924150,Jing Jiang
 2335225,Lev-Arie Ratinov
 2075292388,P. Liang
 1685978,B. Taskar
-2113484216,Hao Fang
-144157872,Saurabh Gupta
-3346186,F. Iandola
-49501003,Margaret Mitchell
-144189092,John C. Platt
 2070318426,Victor Guimarães
 2052473561,Jason P. C. Chiu
 143662759,Eric Nichols
-1790580,Bharath Hariharan
-1778133,Pablo Arbeláez
-143751119,Jitendra Malik
+48872685,Sewon Min
+4418074,Minjoon Seo
+2548384,Hannaneh Hajishirzi
+38956216,Lili Mou
+1818378366,Hao Peng
+1410115257,Ge Li
+48615144,Yan Xu
+2156144568,Lu Zhang
+1700880,Zhi Jin
 21308992,Steven Bird
-47447639,Rui Men
-2118039966,Yan Xu
+2227827,Tsendsuren Munkhdalai
+145174375,Hong Yu
 3461596,Johan Bos
 1686341,K. Markert
-2064150446,Adam Fisch
-2801949,Aishwarya Agrawal
-8553015,Jiasen Lu
-1963421,Stanislaw Antol
-2067793408,Margaret Mitchell
-1746610,Dhruv Batra
+2143684464,Yi Yang
+144105277,Wen-tau Yih
+50004012,Christopher Meek
 30424564,W. Xu
 1734174,Mitchell P. Marcus
 1744313,L. Ramshaw
 1732071,R. Weischedel
-2117103358,Yu Sun
-3371029,Daniel Sedra
-3319373,Dirk Weissenborn
-39344644,Georg Wiese
-9704479,Laura Seiffe
 34979516,Daniel Hewlett
 8651990,Alexandre Lacoste
 3443442,I. Polosukhin
@@ -2034,21 +2037,7 @@ authorId,name
 2348488953,Jay Han
 2554321,Matthew Kelcey
 39835551,David Berthelot
-8387085,Zichao Yang
-2022168,Diyi Yang
-46234526,Alex Smola
 1782178,S. Buchholz
-2421691,Po-Sen Huang
-3043830,Yiming Cui
-46842323,Z. Chen
-144572674,Si Wei
-2108620507,Shijin Wang
-40282288,Ting Liu
-40936264,Guoping Hu
-34994191,Bhuwan Dhingra
-2109512754,Zhilin Yang
-50056360,William W. Cohen
-2089067,Yoav Goldberg
 1693407,K. Crammer
 1707117,Radu Florian
 1683685,Abraham Ittycheriah
@@ -2061,18 +2050,18 @@ authorId,name
 1687524,A. Vedaldi
 1688869,Andrew Zisserman
 1746841,Nicolas Usunier
-38431523,Siwei Lai
-8540973,Liheng Xu
-2200096,Kang Liu
-1390572170,Jun Zhao
-145045509,David Weiss
-114577307,Chris Alberti
-123052390,Michael Collins
-1754497,Slav Petrov
+8387085,Zichao Yang
+2022168,Diyi Yang
+46234526,Alex Smola
+1781574,Chin-Yew Lin
 1748118,J. Bilmes
-2127604,Soumith Chintala
-1688882,Yann LeCun
-144915758,James Henderson
+145848824,Karen Spärck Jones
+143818235,Andrew Carlson
+31779043,J. Betteridge
+2237644907,B. Kisiel
+1717452,Burr Settles
+2381387562,Estevam R. Hruschka
+2237646190,Tom M. Mitchell
 2244184,Kenneth Ward Church
 145165877,Patrick Hanks
 1727837,Enrique Alfonseca
@@ -2081,40 +2070,56 @@ authorId,name
 1724629,Marius Pasca
 2078619062,Aitor Soroa Etxabe
 1802811,D. Widdows
-83368021,Zheng Ye
+1733593,J. Curran
+2085030,M. Moens
+1685010,J. Gauvain
+5547937,K. Rothenhäusler
+144418438,Hinrich Schütze
+2064348170,C. Buck
+1725514,Johannes Leveling
+1758528,Pavel Pecina
+1404569159,Herve Saint-Amand
+1737285,Radu Soricut
+2211536,Ales Tamchyna
 3336895,Johannes Bjerva
 3449407,Rob van der Goot
 2742475,M. Nissim
-3456592,Sosuke Kobayashi
-2066087250,Ran Tian
-1764004,Naoaki Okazaki
-3040648,Kentaro Inui
+2801949,Aishwarya Agrawal
+8553015,Jiasen Lu
+1963421,Stanislaw Antol
+2067793408,Margaret Mitchell
+1746610,Dhruv Batra
+38431523,Siwei Lai
+8540973,Liheng Xu
+2200096,Kang Liu
+1390572170,Jun Zhao
+144720379,Alexandre Passos
+2112232561,Vineet Kumar
+143753639,A. McCallum
 145095579,L. Yao
 1730844,Atousa Torabi
 2482072,Nicolas Ballas
 1972076,C. Pal
 1777528,H. Larochelle
-144720379,Alexandre Passos
-2112232561,Vineet Kumar
-143753639,A. McCallum
-143818235,Andrew Carlson
-31779043,J. Betteridge
-2237644907,B. Kisiel
-1717452,Burr Settles
-2381387562,Estevam R. Hruschka
-2237646190,Tom M. Mitchell
 39483833,Duyu Tang
 152277111,Bing Qin
+40282288,Ting Liu
+144861196,Zhao Meng
+2055863231,Rui Yan
+1790580,Bharath Hariharan
+1778133,Pablo Arbeláez
+143751119,Jitendra Malik
+47447639,Rui Men
+2118039966,Yan Xu
 35660011,Julian McAuley
 1702139,J. Leskovec
+2032184078,Jian Sun
 1681054,H. Jégou
 1723883,Florent Perronnin
 3271933,Matthijs Douze
 143995443,Jorge Sánchez
 144565371,P. Pérez
 2462253,C. Schmid
-2111892870,Hua He
-145580839,Jimmy J. Lin
 1749194,Collin F. Baker
 2912454,C. Fillmore
 1406118956,John B. Lowe
@@ -2122,31 +2127,34 @@ authorId,name
 2505902,N. Komodakis
 3016273,Jiatao Gu
 2052674293,V. Li
-2129425,Denis Paperno
-3422089,Q. N. Pham
-3422247,Sandro Pezzelle
-1807810,Gemma Boleda
-144151273,R. Fernández
+83368021,Zheng Ye
+1752875,Yelong Shen
+2421691,Po-Sen Huang
+3043830,Yiming Cui
+46842323,Z. Chen
+144572674,Si Wei
+2108620507,Shijin Wang
+40936264,Guoping Hu
 3024630,Hai Leong Chieu
 34789794,H. Ng
 2066721,Shivakumar Vaithyanathan
-1781574,Chin-Yew Lin
+35307070,Markus Freitag
+1700238,Stephan Peitz
+2046393,Joern Wuebker
+3456844,Maria Nadejde
+144034785,Philip Williams
+2244151,T. Herrmann
+4006425,Eunah Cho
+1724972,A. Waibel
+2127604,Soumith Chintala
+1688882,Yann LeCun
 2112400,Jacob Andreas
+144915758,James Henderson
 145920653,Samer Hassan
 2095398,Alexander Budanitsky
 145036961,Graeme Hirst
-1733593,J. Curran
-2085030,M. Moens
-1685010,J. Gauvain
-5547937,K. Rothenhäusler
-144418438,Hinrich Schütze
-39939186,Yue Zhang
-1720988,Joakim Nivre
-38759328,Peter Shaw
+1565641737,François Chollet
 3376845,A. Kuncoro
-1999488,M. Harper
-37157794,Leon Barrett
-3323298,R. Thibaux
 2596816,L. Smith
 47392513,Jonathan Baxter
 143794227,Xing Shi
@@ -2154,3 +2162,153 @@ authorId,name
 152971314,Kevin Knight
 3280967,Carson T. Schütze
 3257930,Bill MacCartney
+1695463,D. Marcu
+144958935,Karthik Narasimhan
+1741283,R. Barzilay
+1971171,Siddhartha Jain
+8661634,Farzad Farnoud
+144251289,Moshe Schwartz
+2064150446,Adam Fisch
+3444222,Nikolay Bogoychev
+3422912,Zihang Dai
+2109512754,Zhilin Yang
+143712374,J. Carbonell
+39861444,Guillaume Klein
+152847918,Yoon Kim
+2505751,Yuntian Deng
+3053934,Jean Senellart
+8905591,Ludovic Denoyer
+2109675545,Melvin Johnson
+2048712,M. Krikun
+48607963,Yonghui Wu
+2545358,Z. Chen
+144203200,Nikhil Thorat
+1765169,F. Viégas
+145233583,M. Wattenberg
+2227182886,Gregory S. Corrado
+48342565,Macduff Hughes
+2056946837,Jeffrey Dean
+2910877,Karl Moritz Hermann
+1807606,Dahua Lin
+144332826,Chen Kong
+2117103358,Yu Sun
+3371029,Daniel Sedra
+38665506,B. Sankaran
+1403907739,Yaser Al-Onaizan
+1398326708,F. Yarman-Vural
+34994191,Bhuwan Dhingra
+50056360,William W. Cohen
+2292403,J. Chorowski
+1862138,Dmitriy Serdyuk
+2616163,Philemon Brakel
+145478807,Mateusz Malinowski
+1739548,Mario Fritz
+2146254443,Zhibiao Wu
+2674440,Cynthia Matuszek
+143883142,Nicholas FitzGerald
+144651486,Liefeng Bo
+145197953,D. Fox
+2111892870,Hua He
+145580839,Jimmy J. Lin
+8270717,Junyoung Chung
+1398996347,M. Costa-jussà
+1779548,José A. R. Fonollosa
+9532787,Daxiang Dong
+40354707,Hua Wu
+48692318,W. He
+3046102,Dianhai Yu
+144270731,Haifeng Wang
+2396669,D. Gillick
+3202382,Clifford Brunk
+1726492,A. Subramanya
+2118914544,Tian Wang
+3319373,Dirk Weissenborn
+39344644,Georg Wiese
+9704479,Laura Seiffe
+122113652,Alexander A. Alemi
+38070424,R. Ando
+3456592,Sosuke Kobayashi
+2066087250,Ran Tian
+1764004,Naoaki Okazaki
+3040648,Kentaro Inui
+46485395,Huijuan Xu
+2089067,Yoav Goldberg
+2150444687,David E. Johnson
+145045509,David Weiss
+114577307,Chris Alberti
+123052390,Michael Collins
+1754497,Slav Petrov
+21169546,Donald Hindle
+2416786,Mats Rooth
+145407095,Jan-Thorsten Peter
+3456682,Farzad Toutounchi
+143619007,Jian-Yun Nie
+2020608,Jiquan Ngiam
+1390603950,Mingyu Kim
+145578392,Juhan Nam
+1697141,Honglak Lee
+1715051,Misha Denil
+1809420,Loris Bazzani
+1737568,Nando de Freitas
+1694621,Michael I. Jordan
+145493610,M. Kay
+2517825,Jayant Krishnamurthy
+2836353,T. Kollar
+15652489,T. Kwiatkowski
+3167681,Yoav Artzi
+2714577,S. D. Pietra
+39944066,V. D. Pietra
+1739581,J. Lafferty
+2060101052,Terry Koo
+1764325,Radford M. Neal
+1999488,M. Harper
+37157794,Leon Barrett
+3323298,R. Thibaux
+1700974,Barak A. Pearlmutter
+2255379291,Huijuan Xu
+2295673408,Jeff Donahue
+2227499084,Raymond J. Mooney
+2265521579,Kate Saenko
+145317727,Yulia Tsvetkov
+7528635,Chu-Cheng Lin
+145247319,S. Vogel
+2324070,Christoph Tillmann
+40483594,Wenpeng Yin
+153642390,David L. Chen
+1797655,R. Mooney
+145775792,Hassan Sajjad
+143620134,Hieu D. Hoang
+2589625,Shiqi Shen
+145161801,Yong Cheng
+37985966,Zhongjun He
+1753344,Maosong Sun
+144090485,Yang Liu
+39973883,Carlos A. Colmenares
+40527594,Lukasz Kaiser
+2070617619,D. Wong
+145757665,Fei Sha
+1855302,Joseph Smarr
+122619312,Huy Nguyen
+143620680,Trevor Cohn
+2129425,Denis Paperno
+3422089,Q. N. Pham
+3422247,Sandro Pezzelle
+1807810,Gemma Boleda
+144151273,R. Fernández
+2756960,Grzegorz Chrupała
+1708655,B. Olshausen
+49649079,D. Field
+50649676,J. Clarke
+2334202925,Tsungnan Lin
+35216199,B. Horne
+4023505,P. Tiňo
+145157784,C. Lee Giles
+3050250,Trond Grenager
+1716902,Marti A. Hearst
+39939186,Yue Zhang
+1720988,Joakim Nivre
+152465203,Mark Johnson
+3194361,S. Geman
+47428006,S. Canon
+3140471,Zhiyi Chi
+3289329,S. Riezler

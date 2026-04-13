@@ -32,7 +32,6 @@ journal::nanoscale,Nanoscale
 journal::information sciences,Information Sciences
 journal::ieee communications letters,IEEE Communications Letters
 journal::computer communications,Computer Communications
-journal::ieee transactions on cloud computing,IEEE Transactions on Cloud Computing
 journal::nanomaterials,Nanomaterials
 journal::ieee transactions on big data,IEEE Transactions on Big Data
 journal::materials today,Materials Today
@@ -47,7 +46,6 @@ journal::ieee transactions on vehicular technology,IEEE Transactions on Vehicula
 journal::semantic web,Semantic Web
 journal::astronomical journal,Astronomical Journal
 journal::journal of king saud university: computer and information sciences,Journal of King Saud University: Computer and Information Sciences
-journal::journal of biomedical semantics,Journal of Biomedical Semantics
 journal::genome biology,Genome Biology
 journal::biodata mining,BioData Mining
 journal::ieee trans. parallel distributed syst.,IEEE Trans. Parallel Distributed Syst.
@@ -67,23 +65,23 @@ journal::biotechniques,BioTechniques
 journal::journal of biological chemistry,Journal of Biological Chemistry
 journal::bmc biotechnology,BMC Biotechnology
 journal::analytical chemistry,Analytical Chemistry
+journal::journal of nanobiotechnology,Journal of Nanobiotechnology
 journal::ieee transactions on molecular biological and multi-scale communications,IEEE Transactions on Molecular Biological and Multi-Scale Communications
 journal::thescientificworldjournal,TheScientificWorldJournal
 journal::annual meeting of the association for computational linguistics,Annual Meeting of the Association for Computational Linguistics
 journal::north american chapter of the association for computational linguistics,North American Chapter of the Association for Computational Linguistics
 journal::computing in science & engineering (print),Computing in science & engineering (Print)
+journal::nucleic acids res.,Nucleic Acids Res.
 journal::bioinform.,Bioinform.
-journal::journal of nanobiotechnology,Journal of Nanobiotechnology
 journal::nature biotechnology,Nature Biotechnology
 journal::transactions of the association for computational linguistics,Transactions of the Association for Computational Linguistics
 journal::blackboxnlp@emnlp,BlackboxNLP@EMNLP
+journal::genome research,Genome Research
 journal::bmc genomics,BMC Genomics
 journal::genes,Genes
 journal::proceedings of the ieee,Proceedings of the IEEE
 journal::gigascience,GigaScience
 journal::computer vision and pattern recognition,Computer Vision and Pattern Recognition
-journal::genome research,Genome Research
-journal::biomed research international,BioMed Research International
 journal::journal of the american chemical society,Journal of the American Chemical Society
 journal::breast cancer research,Breast Cancer Research
 journal::rep4nlp@acl,Rep4NLP@ACL
@@ -96,27 +94,34 @@ journal::international journal of computer vision,International Journal of Compu
 journal::discrete mathematics,Discrete Mathematics
 journal::annales de l institut henri poincare-probabilites et statistiques,Annales De L Institut Henri Poincare-probabilites Et Statistiques
 journal::the annals of applied probability,The Annals of Applied Probability
-journal::plos biology,PLoS Biology
 journal::cell,Cell
 journal::ieee signal processing magazine,IEEE Signal Processing Magazine
-journal::cognitive sciences,Cognitive Sciences
 journal::acm multimedia,ACM Multimedia
+journal::acl-pascal@acl,ACL-PASCAL@ACL
+journal::cognitive sciences,Cognitive Sciences
+journal::wmt@acl,WMT@ACL
+journal::plos biology,PLoS Biology
 journal::journal of artificial intelligence research,Journal of Artificial Intelligence Research
 journal::human language technology - the baltic perspectiv,Human Language Technology - The Baltic Perspectiv
-journal::wmt@acl,WMT@ACL
 journal::ieee transactions on pattern analysis and machine intelligence,IEEE Transactions on Pattern Analysis and Machine Intelligence
 journal::ieee transactions on neural networks and learning systems,IEEE Transactions on Neural Networks and Learning Systems
-journal::scholarpedia,Scholarpedia
 journal::journal of molecular biology,Journal of Molecular Biology
 journal::ieee transactions on neural networks,IEEE Transactions on Neural Networks
 journal::neural computation,Neural Computation
-journal::wmt@emnlp,WMT@EMNLP
-journal::acl-pascal@acl,ACL-PASCAL@ACL
 journal::cacm,CACM
+journal::scholarpedia,Scholarpedia
 journal::vision,Vision
-journal::j. documentation,J. Documentation
+journal::wmt@emnlp,WMT@EMNLP
+journal::database j. biol. databases curation,Database J. Biol. Databases Curation
 journal::news@acl,NEWS@ACL
 journal::conll/lll,CoNLL/LLL
-journal::coco@nips,CoCo@NIPS
 journal::ecml/pkdd,ECML/PKDD
+journal::j. documentation,J. Documentation
 journal::computational linguistics,Computational Linguistics
+journal::coco@nips,CoCo@NIPS
+journal::neural networks,Neural Networks
+journal::machine-mediated learning,Machine-mediated learning
+journal::technometrics,Technometrics
+journal::vestnik komp iuternykh i informatsionnykh tekhnologii,Vestnik komp iuternykh i informatsionnykh tekhnologii
+journal::vision research,Vision Research
+journal::ieee trans. neural networks,IEEE Trans. Neural Networks

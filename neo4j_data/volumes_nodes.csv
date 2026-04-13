@@ -39,14 +39,13 @@ volume::information sciences::2018,2018,2018
 volume::ieee communications letters::2019,2019,2019
 volume::ieee transactions on industrial informatics::2018,2018,2018
 volume::computer communications::2020,2020,2020
-volume::ieee transactions on cloud computing::2020,2020,2020
 volume::nanomaterials::2019,2019,2019
 volume::ieee transactions on big data::2019,2019,2019
 volume::materials today::2018,2018,2018
 volume::biorxiv::2019,2019,2019
 volume::mobile information systems::2018,2018,2018
-volume::nature communications::2018,2018,2018
 volume::scientific reports::2018,2018,2018
+volume::nature communications::2018,2018,2018
 volume::acm computing surveys::2018,2018,2018
 volume::ieee transactions on big data::2018,2018,2018
 volume::inf.::2018,2018,2018
@@ -62,7 +61,6 @@ volume::semantic web::2018,2018,2018
 volume::astronomical journal::2019,2019,2019
 volume::biorxiv::2014,2014,2014
 volume::journal of king saud university: computer and information sciences::2017,2017,2017
-volume::journal of biomedical semantics::2013,2013,2013
 volume::genome biology::2016,2016,2016
 volume::biodata mining::2016,2016,2016
 volume::ieee trans. parallel distributed syst.::2003,2003,2003
@@ -99,6 +97,7 @@ volume::nucleic acids research::2012,2012,2012
 volume::nature::2008,2008,2008
 volume::nature communications::2015,2015,2015
 volume::analytical chemistry::2013,2013,2013
+volume::journal of nanobiotechnology::2011,2011,2011
 volume::genome biology::2011,2011,2011
 volume::ieee transactions on molecular biological and multi-scale communications::2015,2015,2015
 volume::journal of big data::2015,2015,2015
@@ -107,22 +106,24 @@ volume::annual meeting of the association for computational linguistics::2019,20
 volume::north american chapter of the association for computational linguistics::2019,2019,2019
 volume::computing in science & engineering (print)::2011,2011,2011
 volume::genome biology::2004,2004,2004
+volume::nucleic acids res.::2015,2015,2015
 volume::bioinform.::2009,2009,2009
 volume::nucleic acids research::2008,2008,2008
 volume::north american chapter of the association for computational linguistics::2018,2018,2018
-volume::journal of nanobiotechnology::2011,2011,2011
 volume::nature biotechnology::2017,2017,2017
 volume::annual meeting of the association for computational linguistics::2018,2018,2018
 volume::nucleic acids research::2011,2011,2011
 volume::transactions of the association for computational linguistics::2018,2018,2018
 volume::blackboxnlp@emnlp::2018,2018,2018
 volume::north american chapter of the association for computational linguistics::2017,2017,2017
-volume::science::2019,2019,2019
 volume::ieee transactions on information theory::2016,2016,2016
+volume::genome research::2002,2002,2002
 volume::biotechniques::2012,2012,2012
 volume::proceedings of the national academy of sciences of the united states of america::1996,1996,1996
 volume::ieee transactions on information theory::2013,2013,2013
+volume::ieee transactions on information theory::2012,2012,2012
 volume::annual meeting of the association for computational linguistics::2015,2015,2015
+volume::nucleic acids res.::2013,2013,2013
 volume::bmc genomics::2012,2012,2012
 volume::proceedings of the national academy of sciences of the united states of america::1977,1977,1977
 volume::nature::2005,2005,2005
@@ -130,7 +131,6 @@ volume::transactions of the association for computational linguistics::2019,2019
 volume::genes::2020,2020,2020
 volume::proceedings of the ieee::2019,2019,2019
 volume::plos one::2017,2017,2017
-volume::nucleic acids research::2017,2017,2017
 volume::biorxiv::2020,2020,2020
 volume::ieee transactions on information theory::2018,2018,2018
 volume::ieee transactions on information theory::2004,2004,2004
@@ -142,16 +142,14 @@ volume::nature methods::2015,2015,2015
 volume::biorxiv::2015,2015,2015
 volume::nature biotechnology::2008,2008,2008
 volume::computer vision and pattern recognition::2015,2015,2015
+volume::science::2019,2019,2019
 volume::bioinform.::2010,2010,2010
-volume::ieee transactions on information theory::2012,2012,2012
+volume::ieee transactions on information theory::2011,2011,2011
 volume::nature biotechnology::2012,2012,2012
 volume::genome research::1998,1998,1998
 volume::nature biotechnology::2010,2010,2010
-volume::nature methods::2009,2009,2009
 volume::genome research::2008,2008,2008
-volume::biomed research international::2016,2016,2016
-volume::genome research::2002,2002,2002
-volume::ieee transactions on information theory::2011,2011,2011
+volume::nucleic acids res.::2010,2010,2010
 volume::plos one::2009,2009,2009
 volume::genome biology::2007,2007,2007
 volume::journal of the american chemical society::2014,2014,2014
@@ -170,65 +168,86 @@ volume::annual meeting of the association for computational linguistics::2014,20
 volume::ssst@emnlp::2014,2014,2014
 volume::computer vision and pattern recognition::2014,2014,2014
 volume::bmc bioinformatics::2010,2010,2010
+volume::nature methods::2009,2009,2009
 "volume::ieee transactions on audio, speech, and language processing::2012",2012,2012
 volume::international journal of computer vision::2014,2014,2014
 volume::annual meeting of the association for computational linguistics::2003,2003,2003
-volume::annual meeting of the association for computational linguistics::2016,2016,2016
 volume::annual meeting of the association for computational linguistics::2007,2007,2007
 volume::discrete mathematics::1993,1993,1993
 volume::north american chapter of the association for computational linguistics::2003,2003,2003
-volume::biotechniques::2010,2010,2010
 volume::plos one::2011,2011,2011
 volume::nature methods::2010,2010,2010
 volume::annales de l institut henri poincare-probabilites et statistiques::2019,2019,2019
 volume::the annals of applied probability::2018,2018,2018
-volume::plos biology::2007,2007,2007
 volume::cell::2007,2007,2007
 volume::genome research::2009,2009,2009
 volume::ieee signal processing magazine::2012,2012,2012
+volume::acm multimedia::2014,2014,2014
+volume::acl-pascal@acl::2007,2007,2007
 volume::cognitive sciences::1990,1990,1990
 volume::transactions of the association for computational linguistics::2014,2014,2014
+volume::annual meeting of the association for computational linguistics::2016,2016,2016
+volume::wmt@acl::2014,2014,2014
 volume::genome research::2001,2001,2001
 volume::ieee transactions on information theory::2019,2019,2019
-volume::acm multimedia::2014,2014,2014
+volume::plos biology::2007,2007,2007
 volume::transactions of the association for computational linguistics::2016,2016,2016
 volume::journal of artificial intelligence research::2010,2010,2010
 volume::human language technology - the baltic perspectiv::1995,1995,1995
-volume::wmt@acl::2014,2014,2014
 volume::journal of artificial intelligence research::2013,2013,2013
 volume::ieee transactions on pattern analysis and machine intelligence::2012,2012,2012
-volume::journal of combinatorial theory::1997,1997,1997
-volume::annual meeting of the association for computational linguistics::1999,1999,1999
 volume::ieee transactions on neural networks and learning systems::2015,2015,2015
 volume::annual meeting of the association for computational linguistics::2006,2006,2006
-volume::scholarpedia::2008,2008,2008
 volume::journal of molecular biology::1990,1990,1990
 volume::ieee transactions on neural networks::2008,2008,2008
 volume::neural computation::2010,2010,2010
-volume::wmt@emnlp::2015,2015,2015
-volume::north american chapter of the association for computational linguistics::2015,2015,2015
-volume::acl-pascal@acl::2007,2007,2007
 volume::cacm::1965,1965,1965
 volume::annual meeting of the association for computational linguistics::1996,1996,1996
-volume::ieee transactions on pattern analysis and machine intelligence::2014,2014,2014
+volume::annual meeting of the association for computational linguistics::1999,1999,1999
+volume::scholarpedia::2008,2008,2008
+volume::journal of combinatorial theory::1997,1997,1997
 volume::vision::2011,2011,2011
+volume::wmt@emnlp::2015,2015,2015
+volume::ieee transactions on pattern analysis and machine intelligence::2014,2014,2014
 volume::north american chapter of the association for computational linguistics::2006,2006,2006
-volume::j. documentation::2021,2021,2021
 volume::interspeech::2002,2002,2002
+volume::north american chapter of the association for computational linguistics::2015,2015,2015
+volume::database j. biol. databases curation::2010,2010,2010
+volume::nucleic acids res.::2006,2006,2006
 volume::bmc genomics::2006,2006,2006
 volume::computer vision and pattern recognition::2016,2016,2016
-volume::north american chapter of the association for computational linguistics::2014,2014,2014
 volume::news@acl::2015,2015,2015
 volume::transactions of the association for computational linguistics::2015,2015,2015
 volume::human language technology - the baltic perspectiv::2005,2005,2005
-volume::international journal of computer vision::2015,2015,2015
+volume::north american chapter of the association for computational linguistics::2014,2014,2014
 volume::conll/lll::2000,2000,2000
-volume::coco@nips::2016,2016,2016
 volume::annual meeting of the association for computational linguistics::2009,2009,2009
 volume::ecml/pkdd::2014,2014,2014
+volume::j. documentation::2021,2021,2021
 volume::annual meeting of the association for computational linguistics::1989,1989,1989
 volume::north american chapter of the association for computational linguistics::2009,2009,2009
 volume::computational linguistics::2004,2004,2004
 volume::annual meeting of the association for computational linguistics::1998,1998,1998
-volume::journal of artificial intelligence research::2012,2012,2012
+volume::international journal of computer vision::2015,2015,2015
+volume::ieee transactions on pattern analysis and machine intelligence::2015,2015,2015
+volume::coco@nips::2016,2016,2016
 volume::journal of artificial intelligence research::2000,2000,2000
+volume::journal of artificial intelligence research::2006,2006,2006
+volume::annual meeting of the association for computational linguistics::1994,1994,1994
+volume::neural networks::2014,2014,2014
+volume::machine-mediated learning::2011,2011,2011
+volume::journal of artificial intelligence research::2012,2012,2012
+volume::annual meeting of the association for computational linguistics::1991,1991,1991
+volume::annual meeting of the association for computational linguistics::1997,1997,1997
+volume::neural computation::2011,2011,2011
+volume::neural networks::2012,2012,2012
+volume::annual meeting of the association for computational linguistics::1979,1979,1979
+volume::transactions of the association for computational linguistics::2013,2013,2013
+volume::ieee transactions on pattern analysis and machine intelligence::1995,1995,1995
+volume::wmt@emnlp::2014,2014,2014
+volume::technometrics::2006,2006,2006
+volume::vestnik komp iuternykh i informatsionnykh tekhnologii::2016,2016,2016
+volume::neural computation::1994,1994,1994
+volume::vision research::1997,1997,1997
+volume::journal of artificial intelligence research::2008,2008,2008
+volume::ieee trans. neural networks::1996,1996,1996

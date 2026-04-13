@@ -34,8 +34,8 @@ b9b639522465cc606df878eee62e7f9c4bf19e62,volume::nature communications::2019
 3adb779bb37d22e3aa299364c2a337603801ca5c,volume::advances in materials::2020
 a81ba6a07bf7a2ecff871e3362a77404501d0927,volume::nature chemical biology::2020
 8fcbd1cd1ee2211bd183b986900042470ee7f440,volume::mathematical biosciences and engineering : mbe::2019
-c5d3fbc024ad9a0d28669b6030de23fc5c3f7888,volume::nature communications::2019
 df1a2539afbad27c4c80115a6f8f59a089024865,volume::nature communications::2019
+c5d3fbc024ad9a0d28669b6030de23fc5c3f7888,volume::nature communications::2019
 647c4a9331e01e31a4350361d3460f0397fe694f,volume::light: science & applications::2019
 310b3a6902174e8f15e6c4e8511386efe612bc36,volume::journal of big data::2019
 147c868b721c8d29df7c61db7f2360114c760614,volume::nano letters (print)::2019
@@ -45,14 +45,13 @@ aad2d03c17bc7d1e636d0e79944ad4588af989d5,volume::nanoscale::2020
 1986318d8a565fbff8fde545b8d0c2012c6462d8,volume::ieee communications letters::2019
 11c3154d709c74dbbe702e7f7c46a37224f9cc36,volume::ieee transactions on industrial informatics::2018
 8972572efff8926616de5b719bf3cf4e6515a689,volume::computer communications::2020
-9a60d3c9d3a5b7f165325fca45bd418d651682d3,volume::ieee transactions on cloud computing::2020
 4895c430c7810b45840b58cc9182f12143013a43,volume::nanomaterials::2019
 742747c7a453b293352b772d0d99541c96a351c3,volume::ieee transactions on big data::2019
 8ec529b9b6d10c4fcc2ff4c7c8dc67e0713b5c8d,volume::materials today::2018
 399f524be265b524336576658a3cce34324adbd4,volume::biorxiv::2019
 286c7c61fbe92e933cc2711fbb7d17dc297fa2b0,volume::mobile information systems::2018
-ee33bbe1ec73aaf61b0430dc9e30e0acfcce301e,volume::nature communications::2018
 79e32a69edbb6cafe61ed9977aec3a1672fde644,volume::scientific reports::2018
+ee33bbe1ec73aaf61b0430dc9e30e0acfcce301e,volume::nature communications::2018
 ee96d4f9b3f98f7f1df19c7de441b05e0892021e,volume::scientific reports::2018
 9fb20560a81d376b33d425c970a7f87ae2cbcc79,volume::acm computing surveys::2018
 f89b6873e639eb4c316187ffeca8c5094c017eba,volume::ieee transactions on big data::2018
@@ -70,7 +69,6 @@ d9c6b474fb2f303391b50c9fd59a5f2ce4becc0b,volume::semantic web::2018
 2478f43de2f1fcd9301a81e9b42d86b1d46db02d,volume::astronomical journal::2019
 a992c8fd24587f12d41f48df84b29d847634c0e4,volume::biorxiv::2014
 ae27c78d63e56c2b7610bd94fd704fa1b5dcdd29,volume::journal of king saud university: computer and information sciences::2017
-02f7521297669e25517fa210b0c800e5963528d2,volume::journal of biomedical semantics::2013
 0c4070272fb7d6b98971a107b022ff8abf0aa55e,volume::genome biology::2016
 647d0e540627c5a903299a90d20530f8e48c18d9,volume::biodata mining::2016
 a0ee7dabda55a207f6b5ab0ba45da5c236f5248a,volume::ieee trans. parallel distributed syst.::2003
@@ -82,7 +80,6 @@ b8a0a9fd069348261ea4983f9182c90b5340fc95,volume::scientific reports::2015
 a5133ffd70b88f4999335667a3014d88e383353c,volume::nature communications::2020
 b5b9e9706cd582348b6ca39964dea07e9a9c3bf3,volume::nature communications::2020
 f9019ca301dc620a06545431c618f1c26f61eefb,volume::biorxiv::2019
-447990d423df9679b7c8cd30c897388264607228,volume::nature communications::2020
 3404438368f3f1e4b5146d11b853a9896f18cca2,volume::national science review::2020
 1cb5a362b1743f899c9b7cf1efff6a52de31955e,volume::advanced functional materials::2019
 e4338188d4859847ad1c3b162044c435ba0385b4,volume::plos one::2006
@@ -118,6 +115,7 @@ de9e7c7135b10592f434743d3f77f26239c80e59,volume::nucleic acids research::2009
 6dad16a6941b204c2f5f95d9cda6d0124d5a1a7b,volume::nature::2008
 bfdeccae732705ee9c3e1c85b0575d79b89646a4,volume::nature communications::2015
 a8a3229e50f3665e7281db18604f7316c48748b4,volume::analytical chemistry::2013
+ace262d433a742230e592ed33af47304cab4cd1e,volume::journal of nanobiotechnology::2011
 ca864b128cc24be4504e2d4946d783b59a482138,volume::genome biology::2011
 e89abf12acc0a2483f101bb1dd682c6d9ef0d424,volume::ieee transactions on molecular biological and multi-scale communications::2015
 1e4709c0b8fe3bf759cd64dc1ede695d6e5316f0,volume::journal of big data::2015
@@ -126,24 +124,27 @@ e89abf12acc0a2483f101bb1dd682c6d9ef0d424,volume::ieee transactions on molecular 
 df2b0e26d0599ce3e70df8a9da02e51594e0e992,volume::north american chapter of the association for computational linguistics::2019
 cef52bea3f13b20d6a31391034b0fccec71c6781,volume::computing in science & engineering (print)::2011
 fd495d6cf7c3169bc58550fdf32be6e16e2800f8,volume::genome biology::2004
+8aa9e24b68c7288517d55065ae0289f825b56c04,volume::nucleic acids res.::2015
 b4da5cc2676b86904a898490fc1c0a86906983d8,volume::bioinform.::2009
 331d11ea1e7861207411df8810c9d35e6841a1d0,volume::nucleic acids research::2008
 3febb2bed8865945e7fddc99efd791887bb7e14f,volume::north american chapter of the association for computational linguistics::2018
-ace262d433a742230e592ed33af47304cab4cd1e,volume::journal of nanobiotechnology::2011
+ff325866234ac8c37c9daaa4fafaf0801557f567,volume::nucleic acids research::2005
+447990d423df9679b7c8cd30c897388264607228,volume::nature communications::2020
 d636ec287c6c24f56f3274ed6f3c198e7b8579e6,volume::nature biotechnology::2017
 1e077413b25c4d34945cc2707e17e46ed4fe784a,volume::annual meeting of the association for computational linguistics::2018
-ff325866234ac8c37c9daaa4fafaf0801557f567,volume::nucleic acids research::2005
 20890c1de288f645f6b7b3cdee90304b5dce6831,volume::nucleic acids research::2011
 cb0f3ee1e98faf92429d601cdcd76c69c1e484eb,volume::transactions of the association for computational linguistics::2018
 451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c,volume::blackboxnlp@emnlp::2018
 5ded2b8c64491b4a67f6d39ce473d4b9347a672e,volume::north american chapter of the association for computational linguistics::2017
-8a79c3e646ab5e37b0b40a0640791467cd2e1019,volume::science::2019
 63cbef404b6dbfa862163661e0e012b7fc962232,volume::ieee transactions on information theory::2016
 666eda9c9290a9442399d8bb2d43fc997f05c09f,volume::nucleic acids research::2011
+4649182f8ae702cc3bcb9afba9a3c0294f88dfc0,volume::genome research::2002
 6fdf3e503687e0e2ccdd0a133c3e3d927f81375b,volume::biotechniques::2012
 9b8890adca3e74d4da37fa1911cadbebd8aa7162,volume::proceedings of the national academy of sciences of the united states of america::1996
 4421407b92754650e2a385251d5dc54c1b5f40eb,volume::ieee transactions on information theory::2013
+dde2afaae7d08e87ad15d32ed6f7ec939b922751,volume::ieee transactions on information theory::2012
 1518039b5001f1836565215eb047526b3ac7f462,volume::annual meeting of the association for computational linguistics::2015
+d8bd861b292233072aa40ab6bc029ac94d7f30af,volume::nucleic acids res.::2013
 af0863ff543b880dbffc128cd9e904529ab3b99a,volume::nucleic acids research::2012
 20153952172a0233cd9b8e7fbf4c33fc794c8d32,volume::nucleic acids research::2010
 11bc28c49fc164952f587bba71e55d25db0d1757,volume::bmc genomics::2012
@@ -153,19 +154,15 @@ b14dd498c2006660373257796332ee5f03d0272d,volume::nature::2005
 c07b1cf36f0d859b0bfff8fe7d57a16edb59c3be,volume::genes::2020
 54814b0669f20f07ec8d8c7e4fabddfadfe66b1a,volume::proceedings of the ieee::2019
 736e7b56e77d70557ccf9a284fffe35e4505702c,volume::plos one::2017
-668afd8ecc1695cb5f6b3c56223666e631b5bf2b,volume::nucleic acids research::2017
 727b9103f063daa2625a71c3213cd0d161a7b95e,volume::biorxiv::2020
-54560e03e46700840e96cf0712309b9b16977186,volume::ieee transactions on information theory::2018
 78db763de74741a46ea414ae80e5466ab80c93a8,volume::ieee transactions on information theory::2018
 9a3122080bfb0ac1eb41c231aba36c0d553e1496,volume::ieee transactions on information theory::2016
 f9000e8e1e1851a3b95dcc3c3b02cd3b2788ab11,volume::ieee transactions on information theory::2004
 12c9bcf710d30ba991fb765ace07f177f53ecfd9,volume::gigascience::2019
-3200942d80920d1467bc5c6f4114cbd949032601,volume::nature communications::2020
 6f1718221b409cc3d0bd41ea325d123a49597c25,volume::biorxiv::2019
 5bed81a0a09fb293accbdce7d665efa02a3d029e,volume::biorxiv::2019
 9a809a8d2c11047e896ad35051dfa9108d247423,volume::nature::2011
 992952bb900753a0bca51105e2e9e04dd1ae78ea,volume::genome biology::2009
-d39af02b6b7c3a07f052a18ea40ae44c755252e6,volume::biorxiv::2019
 eeabdb4bbc9958153bf863352e3497850e736622,volume::nature biotechnology::2015
 272863dd9a13bfdbf5ac0c41418702959eb654fc,volume::nature methods::2015
 e18b489f02530ff144db28cb44537173e4296616,volume::biorxiv::2015
@@ -175,50 +172,48 @@ abef08fb5692b784abf47008d13b30dc4c07f9d5,volume::nature biotechnology::2008
 7d1a069ed91dc365352638c9666f547bac823819,volume::biorxiv::2014
 855d8da9a8f8972228e637c998b44d89c80728b6,volume::biorxiv::2014
 2c03df8b48bf3fa39054345bafabfeff15bfd11d,volume::computer vision and pattern recognition::2015
-073aeea8c1e5c261d2fc9d6f91fd20bfa3d04013,volume::nature::2008
 658721bc13b0fa97366d38c05a96bf0a9f4bb0ac,volume::annual meeting of the association for computational linguistics::2019
+8a79c3e646ab5e37b0b40a0640791467cd2e1019,volume::science::2019
+54560e03e46700840e96cf0712309b9b16977186,volume::ieee transactions on information theory::2018
 9de11759f7ce89f55fbc51e9d7aa6d7ee755c491,volume::bioinform.::2010
-dde2afaae7d08e87ad15d32ed6f7ec939b922751,volume::ieee transactions on information theory::2012
+92fc71e65fc8b892f5dffd8f8a9faf8c8f7da823,volume::ieee transactions on information theory::2011
 e123f2b9e196e43584e416499b79e8d73114dde2,volume::nature biotechnology::2012
 866b90d114e591b88d042c105d949133241d0e65,volume::genome research::1998
 da873ee0e329dfa054966ba3a7073f2712f74780,volume::nature biotechnology::2010
-98e5b39243f0428fbda31b24e3845dda4000d009,volume::nature methods::2009
 d1999697b7629d9f19e88b284504ff7222297c59,volume::genome research::2008
 4d1c856275744c0284312a3a50efb6ca9dc4cd4c,volume::annual meeting of the association for computational linguistics::2018
-96b76b8dce4fd84160db7ba7c4eb3dcb3243b448,volume::biomed research international::2016
-4649182f8ae702cc3bcb9afba9a3c0294f88dfc0,volume::genome research::2002
-92fc71e65fc8b892f5dffd8f8a9faf8c8f7da823,volume::ieee transactions on information theory::2011
+49a3aff1af750616de71f0d1c1f3eef3d62645f8,volume::nucleic acids res.::2010
 7ccf2e57b79f490cf47e2d6c45757e857afe5fc2,volume::plos one::2009
 ca1368adc3c4ff23fd53f5d1705669c3bb620870,volume::nucleic acids research::2005
-8b2f08869683906e7777c8f52da176980736f0e2,volume::biorxiv::2019
 b1abf125ee210202d05d9e21df121531e0f6b759,volume::genome biology::2007
 0453ad3bd7e6f65f86b38398ba00fa62e1a0e11d,volume::journal of the american chemical society::2014
 a46f13614fab0f7cb0bebeb48ff9b32180f922b5,volume::nature biotechnology::2014
 6600499458f41dd9580b5ec3bd30b91b71149b41,volume::breast cancer research::2005
 668db48c6a79826456341680ee1175dfc4cced71,volume::annual meeting of the association for computational linguistics::2017
 c57298fe3faf87f9f24414821b0df7ebb7634320,volume::annual meeting of the association for computational linguistics::2019
-f010affab57b5fcf1cd6be23df79d8ec98c7289c,volume::annual meeting of the association for computational linguistics::2017
 3eda43078ae1f4741f09be08c4ecab6229046a5c,volume::rep4nlp@acl::2016
 26e743d5bd465f49b9538deaf116c15e61b7951f,volume::north american chapter of the association for computational linguistics::2016
 0bb4cadc80c0afaf29c57518dc9c06f8fcfa5f38,volume::annual meeting of the association for computational linguistics::2017
 5d833331b0e22ff359db05c62a8bca18c4f04b68,volume::interspeech::2013
 bc1022b031dc6c7019696492e8116598097a8c12,volume::journal of machine learning research::2011
 6af58c061f2e4f130c3b795c21ff0c7e3903278f,volume::annual meeting of the association for computational linguistics::2005
-29f765c85dddc5a90ebf52555b44ddf62176ed04,volume::genome research::1998
 d7da009f457917aa381619facfa5ffae9329a6e9,volume::annual meeting of the association for computational linguistics::2002
 167e1359943b96b9e92ee73db1df69a1f65d731d,volume::annual meeting of the association for computational linguistics::2004
 05e91b82f0021e53ce11dbc710d93b107d660f22,volume::journal of combinatorial theory::2001
-cccdadaba3b4b598d0d963b9c9d431cec24c4bd4,volume::genome research::2008
+073aeea8c1e5c261d2fc9d6f91fd20bfa3d04013,volume::nature::2008
+29f765c85dddc5a90ebf52555b44ddf62176ed04,volume::genome research::1998
 27725a2d2a8cee9bf9fffc6c2167017103aba0fa,volume::annual meeting of the association for computational linguistics::2014
 1eb09fecd75eb27825dce4f964b97f4f5cc399d7,volume::ssst@emnlp::2014
 55e022fb7581bb9e1fce678d21fb25ffbb3fbb88,volume::computer vision and pattern recognition::2014
 0894b06cff1cd0903574acaa7fcf071b144ae775,volume::annual meeting of the association for computational linguistics::2014
 4c1ddf5e9a59207251dff749df851cb7fed1857d,volume::bmc bioinformatics::2010
+98e5b39243f0428fbda31b24e3845dda4000d009,volume::nature methods::2009
+cccdadaba3b4b598d0d963b9c9d431cec24c4bd4,volume::genome research::2008
 6658bbf68995731b2083195054ff45b4eca38b3a,"volume::ieee transactions on audio, speech, and language processing::2012"
+f010affab57b5fcf1cd6be23df79d8ec98c7289c,volume::annual meeting of the association for computational linguistics::2017
 e74f9b7f8eec6ba4704c206b93bc8079af3da4bd,volume::international journal of computer vision::2014
 2878976835c73ed0906e17a7336b9bf10d491a1a,volume::genome research::2002
 a600850ac0120cb09a0b7de7da80bb6a7a76de06,volume::annual meeting of the association for computational linguistics::2003
-b1e20420982a4f923c08652941666b189b11b7fe,volume::annual meeting of the association for computational linguistics::2016
 1938624bb9b0f999536dcc8d8f519810bb4e1b3b,volume::annual meeting of the association for computational linguistics::2014
 1956c239b3552e030db1b78951f64781101125ed,volume::annual meeting of the association for computational linguistics::2014
 4ee2eab4c298c1824a9fb8799ad8eed21be38d21,volume::annual meeting of the association for computational linguistics::2007
@@ -227,136 +222,186 @@ e15cf50aa89fee8535703b9f9512fca5bfc43327,volume::computer vision and pattern rec
 d70fb613153c87a4dcc72fa91bf4fa5078736ae7,volume::discrete mathematics::1993
 32de44f01a96d4473d21099d15e25bc2b9f08e2f,volume::annual meeting of the association for computational linguistics::2015
 a4b828609b60b06e61bea7a4029cc9e1cad5df87,volume::north american chapter of the association for computational linguistics::2003
-7f94f1918c26c3451b204a469a076ad3240e38b5,volume::biotechniques::2010
 e859d1ef744b7e0e5116a0b6df865f57120cb102,volume::plos one::2011
 5eb309b5fbdc028abdde9dacd3b417d3e32b0b1a,volume::nature methods::2010
 8e241fd7f60d72dad4038d3b43250a040a6f3c90,volume::annales de l institut henri poincare-probabilites et statistiques::2019
 fa35d59b0013189f8b7bab8dbcdaeb0f067616c8,volume::the annals of applied probability::2018
 ebe875cf08dd398e0ed25f518502301c984a9afe,volume::genome biology::2009
-337cc132771ce4a293f4ff547ef7960a5cea9d5f,volume::plos biology::2007
 4ae155011e8d7ab3da901acbd449510da9a533b1,volume::cell::2007
 20edf77c312af672466fb9f09ce1aba6276a4fe0,volume::genome research::2009
 31868290adf1c000c611dfc966b514d5a34e8d23,volume::ieee signal processing magazine::2012
-668087f0ae7ce1de6e0bd0965dbb480c08103260,volume::cognitive sciences::1990
+6bdb186ec4726e00a8051119636d4df3b94043b5,volume::acm multimedia::2014
+faadd7d081c8d67e8c2567e8a5579e46cd6b2280,volume::north american chapter of the association for computational linguistics::2019
+de794d50713ea5f91a7c9da3d72041e2f5ef8452,volume::acl-pascal@acl::2007
 d4dc1012d780e8e2547237eb5a6dc7b1bf47d2f0,volume::computer vision and pattern recognition::2014
+668087f0ae7ce1de6e0bd0965dbb480c08103260,volume::cognitive sciences::1990
 0ca7d208ff8d81377e0eaa9723820aeae7a7322d,volume::transactions of the association for computational linguistics::2014
-2f5102ec3f70d0dea98c957cc2cab4d15d83a2da,volume::annual meeting of the association for computational linguistics::2014
-44040913380206991b1991daf1192942e038fe31,volume::transactions of the association for computational linguistics::2014
 80a624b9327d9050244dfebac96f7f6cf806880f,volume::annual meeting of the association for computational linguistics::2015
+44040913380206991b1991daf1192942e038fe31,volume::transactions of the association for computational linguistics::2014
+b1e20420982a4f923c08652941666b189b11b7fe,volume::annual meeting of the association for computational linguistics::2016
+97cedf99252026f58e8154bc61d49cf885d42030,volume::wmt@acl::2014
+2f5102ec3f70d0dea98c957cc2cab4d15d83a2da,volume::annual meeting of the association for computational linguistics::2014
 d3fd86b5e929ebd05328e5518ae693bdca153fde,volume::genome research::2001
 4f7d1e04c9d30ce12df3e085d10d70997e6ea1a5,volume::genome research::2002
 cd5852a141e3d138680505adae1813830d8cf189,volume::ieee transactions on information theory::2019
-6bdb186ec4726e00a8051119636d4df3b94043b5,volume::acm multimedia::2014
+337cc132771ce4a293f4ff547ef7960a5cea9d5f,volume::plos biology::2007
 03ad06583c9721855ccd82c3d969a01360218d86,volume::annual meeting of the association for computational linguistics::2016
 e2dba792360873aef125572812f3673b1a85d850,volume::transactions of the association for computational linguistics::2016
-999f0acfac28215db2e4c69ff42711fd4f56511d,volume::annual meeting of the association for computational linguistics::2015
 3a0e788268fafb23ab20da0e98bb578b06830f7d,volume::journal of artificial intelligence research::2010
 ba49d3823d43515e447296ca4e1e55d3f1fd8c4d,volume::annual meeting of the association for computational linguistics::2015
 68c03788224000794d5491ab459be0b2a2c38677,volume::human language technology - the baltic perspectiv::1995
-97cedf99252026f58e8154bc61d49cf885d42030,volume::wmt@acl::2014
 55ba959b0193c418399fdda2a38d913a7f0b6ac4,volume::annual meeting of the association for computational linguistics::2015
 aa5b35dcf8b024f5352db73cc3944e8fad4f3793,volume::annual meeting of the association for computational linguistics::2016
-f2e50e2ee4021f199877c8920f1f984481c723aa,volume::annual meeting of the association for computational linguistics::2016
+29de7c0fb3c09eaf55b20619bceaeafe72fd87a6,volume::annual meeting of the association for computational linguistics::2018
 9814df8bd00ba999c4d1e305a7e9bca579dc7c75,volume::journal of artificial intelligence research::2013
 184ac0766262312ba76bbdece4e7ffad0aa8180b,volume::ieee transactions on pattern analysis and machine intelligence::2012
-f26e088bc4659a9b7fce28b6604d26de779bcf93,volume::annual meeting of the association for computational linguistics::2015
 3cfbb77e5a0e24772cfdb2eb3d4f35dead54b118,volume::annual meeting of the association for computational linguistics::2014
-8f98290fe80549588a55a6d927217f5b96717413,volume::journal of combinatorial theory::1997
-5ddde06f993d633a5f9750bc1c3301eb7f13e82f,volume::annual meeting of the association for computational linguistics::1999
+59927ded86ab4f7253fc32efb351e5a13e746ead,volume::transactions of the association for computational linguistics::2014
+999f0acfac28215db2e4c69ff42711fd4f56511d,volume::annual meeting of the association for computational linguistics::2015
 a7976c2bacfbb194ddbe7fd10c2e50a545cf4081,volume::ieee transactions on neural networks and learning systems::2015
 d4a258df43cc14e46988de9a4a7b2f0ea817529b,volume::annual meeting of the association for computational linguistics::2006
-164125a65d42a791d2c1e108559344caef96d08b,volume::scholarpedia::2008
 a03dc4d8aa1c2ebd5c3a3c1d87d531f52d63c120,volume::journal of molecular biology::1990
 699d5ab38deee78b1fd17cc8ad233c74196d16e9,volume::ieee transactions on neural networks::2008
-f9f91e7bac46b13444eddeb2438b01089e73b786,volume::annual meeting of the association for computational linguistics::2014
+f2e50e2ee4021f199877c8920f1f984481c723aa,volume::annual meeting of the association for computational linguistics::2016
+258986132bf17755fe8263e42429fe73218c1534,volume::computer vision and pattern recognition::2014
 1f12451245667a85d0ee225a80880fc93c71cc8b,volume::annual meeting of the association for computational linguistics::2003
 eb42a490cf4f186d3383c92963817d100afd81e2,volume::north american chapter of the association for computational linguistics::2003
 b98cd08b75ebf2bd1d1ec47c51ef75777a7e64bd,volume::neural computation::2010
-59927ded86ab4f7253fc32efb351e5a13e746ead,volume::transactions of the association for computational linguistics::2014
+b21c78a62fbb945a19ae9a8935933711647e7d70,volume::annual meeting of the association for computational linguistics::2015
+f01fc808592ea7c473a69a6e7484040a435f36d9,volume::computer vision and pattern recognition::2014
+7ef3ac14cdb484aaa2b039850093febd5cf73a21,volume::cacm::1965
+d4e8bed3b50a035e1eabad614fe4218a34b3b178,volume::annual meeting of the association for computational linguistics::1996
+f26e088bc4659a9b7fce28b6604d26de779bcf93,volume::annual meeting of the association for computational linguistics::2015
+5ddde06f993d633a5f9750bc1c3301eb7f13e82f,volume::annual meeting of the association for computational linguistics::1999
+164125a65d42a791d2c1e108559344caef96d08b,volume::scholarpedia::2008
+8f98290fe80549588a55a6d927217f5b96717413,volume::journal of combinatorial theory::1997
+a5e4377d2149a8167d89383d785793967cf74602,volume::wmt@acl::2014
+85cb25e88d3b0548a26e7a70b6953e500d27eb9a,volume::vision::2011
+b60abe57bc195616063be10638c6437358c81d1e,volume::transactions of the association for computational linguistics::2016
+25eb839f39507fe6983ad3e692b2f8d93a5cb0cc,volume::wmt@emnlp::2015
+cbb19236820a96038d000dc629225d36e0b6294a,volume::ieee transactions on pattern analysis and machine intelligence::2014
+83a768a0720d0a1f68792827a422395001291614,volume::journal of artificial intelligence research::2013
+f9f91e7bac46b13444eddeb2438b01089e73b786,volume::annual meeting of the association for computational linguistics::2014
+15f102c3c9f4d4fe6ba105e221df48c6e8902b3b,volume::computer vision and pattern recognition::2014
+b36b7f7c68923d14ba2859b5d28a1124616a8c89,volume::annual meeting of the association for computational linguistics::2015
+a73ae2ce1cfafae61238b3fdb1bbb61093962b4d,volume::north american chapter of the association for computational linguistics::2006
+399da68d3b97218b6c80262df7963baa89dcc71b,volume::interspeech::2002
+52f86811b57034ba5c0478b37cab101d9a84024a,volume::annual meeting of the association for computational linguistics::2014
+c8efcc854d97dfc2a42b83316a2109f9d166e43f,volume::north american chapter of the association for computational linguistics::2018
 feb420a4ac7c5719d51480053cd3e8669d5f2062,volume::wmt@emnlp::2015
 c3b8367a80181e28c95630b9b63060d895de08ff,volume::north american chapter of the association for computational linguistics::2015
-faadd7d081c8d67e8c2567e8a5579e46cd6b2280,volume::north american chapter of the association for computational linguistics::2019
-de794d50713ea5f91a7c9da3d72041e2f5ef8452,volume::acl-pascal@acl::2007
-7ef3ac14cdb484aaa2b039850093febd5cf73a21,volume::cacm::1965
-f01fc808592ea7c473a69a6e7484040a435f36d9,volume::computer vision and pattern recognition::2014
-f3b96ef2dc1fc5e14982f1b963db8db6a54183bb,volume::annual meeting of the association for computational linguistics::2015
-d4e8bed3b50a035e1eabad614fe4218a34b3b178,volume::annual meeting of the association for computational linguistics::1996
 3c78c6df5eb1695b6a399e346dde880af27d1016,volume::annual meeting of the association for computational linguistics::2017
+9685f3a1f5a50e175e2078a45a558265ef66cde3,volume::database j. biol. databases curation::2010
+355f5e57eab748d07ec768e4c07b06dfd66a3ba5,volume::nucleic acids res.::2006
+df6d775c5ebc9a0c9879b8ca6151e09da675262c,volume::bmc genomics::2006
 b798cfd967e1a9ca5e7bc995d33a907bf65d1c7f,volume::annual meeting of the association for computational linguistics::2017
+8dd6aae51e31a72752c4be5cddbdd76dfdc6cda4,volume::annual meeting of the association for computational linguistics::2016
 f5a7da72496e2ca8edcd9f9123773012c010cfc6,volume::north american chapter of the association for computational linguistics::2016
+23ffaa0fe06eae05817f527a47ac3291077f9e58,volume::computer vision and pattern recognition::2015
+78a9513e70f596077179101f6cb6eadc51602039,volume::north american chapter of the association for computational linguistics::2006
 718e1b453fe9dce79458e0db035091db603775fb,volume::annual meeting of the association for computational linguistics::2017
 8a6d2e134b3b2df6291af8e36e126ae55d50649c,volume::annual meeting of the association for computational linguistics::2017
 3aa52436575cf6768a0a1a476601825f6a62e58f,volume::transactions of the association for computational linguistics::2016
+5694e46284460a648fe29117cbc55f6c9be3fa3c,volume::computer vision and pattern recognition::2016
+f3b96ef2dc1fc5e14982f1b963db8db6a54183bb,volume::annual meeting of the association for computational linguistics::2015
 6fc6803df5f9ae505cae5b2f178ade4062c768d0,volume::computer vision and pattern recognition::2014
 36c097a225a95735271960e2b63a2cb9e98bff83,volume::annual meeting of the association for computational linguistics::2016
-25eb839f39507fe6983ad3e692b2f8d93a5cb0cc,volume::wmt@emnlp::2015
-cbb19236820a96038d000dc629225d36e0b6294a,volume::ieee transactions on pattern analysis and machine intelligence::2014
-a5e4377d2149a8167d89383d785793967cf74602,volume::wmt@acl::2014
-258986132bf17755fe8263e42429fe73218c1534,volume::computer vision and pattern recognition::2014
-83a768a0720d0a1f68792827a422395001291614,volume::journal of artificial intelligence research::2013
-85cb25e88d3b0548a26e7a70b6953e500d27eb9a,volume::vision::2011
-b36b7f7c68923d14ba2859b5d28a1124616a8c89,volume::annual meeting of the association for computational linguistics::2015
-a73ae2ce1cfafae61238b3fdb1bbb61093962b4d,volume::north american chapter of the association for computational linguistics::2006
-4f09e6ec1b7d4390d23881852fd7240994abeb58,volume::j. documentation::2021
-399da68d3b97218b6c80262df7963baa89dcc71b,volume::interspeech::2002
-29de7c0fb3c09eaf55b20619bceaeafe72fd87a6,volume::annual meeting of the association for computational linguistics::2018
-5ec85a0d88adcc4344bb5cc81b0d1aef9bcd8dcc,volume::wmt@acl::2014
-df6d775c5ebc9a0c9879b8ca6151e09da675262c,volume::bmc genomics::2006
-8490431f3a76fbd165d108eba938ead212a2a639,volume::annual meeting of the association for computational linguistics::2017
-8dd6aae51e31a72752c4be5cddbdd76dfdc6cda4,volume::annual meeting of the association for computational linguistics::2016
-5b6ec746d309b165f9f9def873a2375b6fb40f3d,volume::computer vision and pattern recognition::2016
-b60abe57bc195616063be10638c6437358c81d1e,volume::transactions of the association for computational linguistics::2016
-78a9513e70f596077179101f6cb6eadc51602039,volume::north american chapter of the association for computational linguistics::2006
-bb1087e8dee2039f773c381a3449a1c382482da6,volume::annual meeting of the association for computational linguistics::2017
-5694e46284460a648fe29117cbc55f6c9be3fa3c,volume::computer vision and pattern recognition::2016
 596c882de006e4bb4a93f1fa08a5dd467bee060a,volume::north american chapter of the association for computational linguistics::2015
-b21c78a62fbb945a19ae9a8935933711647e7d70,volume::annual meeting of the association for computational linguistics::2015
-23ffaa0fe06eae05817f527a47ac3291077f9e58,volume::computer vision and pattern recognition::2015
-fbf417c83ae5b895fc645346e4efbf3a0aabeac9,volume::north american chapter of the association for computational linguistics::2014
 f4f6bfacb4cd508df62540f5aa9ba30cd83dd127,volume::north american chapter of the association for computational linguistics::2006
-15f102c3c9f4d4fe6ba105e221df48c6e8902b3b,volume::computer vision and pattern recognition::2014
 91a93f751f912b2f96d6771018d8f06c41e11152,volume::news@acl::2015
 10a4db59e81d26b2e0e896d3186ef81b4458b93f,volume::transactions of the association for computational linguistics::2015
 c34e41312b47f60986458759d5cc546c2b53f748,volume::annual meeting of the association for computational linguistics::2015
-428db42e86f6d51292e23fa57797e35cecd0e2ee,volume::computer vision and pattern recognition::2014
+bb1087e8dee2039f773c381a3449a1c382482da6,volume::annual meeting of the association for computational linguistics::2017
 6ed9417eaa7ee16f0563599829a061421a3e0563,volume::annual meeting of the association for computational linguistics::2006
-ea407573bfcd39f9a478fe33cf6ce0ee1780a5f0,volume::annual meeting of the association for computational linguistics::2015
 ea2563467c1c472a346d165b7f97c86317d63ca4,volume::human language technology - the baltic perspectiv::2005
-104715e1097b7ebee436058bfd9f45540f269845,volume::annual meeting of the association for computational linguistics::2017
-97ad70a9fa3f99adf18030e5e38ebe3d90daa2db,volume::international journal of computer vision::2015
+fbf417c83ae5b895fc645346e4efbf3a0aabeac9,volume::north american chapter of the association for computational linguistics::2014
 6aed419cb7926218d1ffe378c0fc63b1a82f6302,volume::transactions of the association for computational linguistics::2015
 e54d8b07ef659f9ee2671441c4355e414e408836,volume::north american chapter of the association for computational linguistics::2006
+733b821faeebe49b6efcf5369e3b9902b476529e,volume::annual meeting of the association for computational linguistics::2016
 832fc9327695f7425d8759c6aaeec0fa2d7b0a90,volume::annual meeting of the association for computational linguistics::2016
-455afd748e8834ef521e4b67c7c056d3c33429e2,volume::north american chapter of the association for computational linguistics::2016
 9e85832b04cc3700c2c26d6ba93fdeae39cac04a,volume::conll/lll::2000
-c636a2dd242908fe2e598a1077c0c57bfdea8633,volume::coco@nips::2016
-c6e5df6322659276da6133f9b734a389d7a255e8,volume::annual meeting of the association for computational linguistics::2016
-0f2ea810c16275dc74e880296e20dbd83b1bae1c,volume::annual meeting of the association for computational linguistics::2016
-0183b3e9d84c15c7048e6c2149ed86257ccdc6cb,volume::annual meeting of the association for computational linguistics::2014
 d3b27746f7a53f2dc5d9b8c2f3d343313622ec36,volume::annual meeting of the association for computational linguistics::2005
 b5e12de7d3f2a66bfcf10a510f9ac80afb3541c1,volume::annual meeting of the association for computational linguistics::2009
 a584211768d49f80192f13b8ed2fda9c058dec34,volume::ecml/pkdd::2014
-0fac3a87cf6f214a10f4e39d73e119ea81b52e46,volume::annual meeting of the association for computational linguistics::2015
+455afd748e8834ef521e4b67c7c056d3c33429e2,volume::north american chapter of the association for computational linguistics::2016
+c63bb976dc0d3a897f3b0920170a4c573ef904c6,volume::north american chapter of the association for computational linguistics::2003
 c20b4068be640ebaffbc56382c3e4e0bcf62664e,volume::north american chapter of the association for computational linguistics::2003
-1174297ddcf08937a94d8efe4c1efb65f3b92fd8,volume::annual meeting of the association for computational linguistics::2004
+4f09e6ec1b7d4390d23881852fd7240994abeb58,volume::j. documentation::2021
 9e2caa39ac534744a180972a30a320ad0ae41ea3,volume::annual meeting of the association for computational linguistics::1989
 5079c42cb329f70a4f2b94fd429ea8d35a043f56,volume::north american chapter of the association for computational linguistics::2009
 36eff99a7f23cec395e4efc80ff7f937934c7be6,volume::computational linguistics::2004
-52f86811b57034ba5c0478b37cab101d9a84024a,volume::annual meeting of the association for computational linguistics::2014
+ea419a6e8583d12f6b91be48df41edb7a8b8d6b6,volume::annual meeting of the association for computational linguistics::2002
 fd1901f34cc3673072264104885d70555b1a4cdc,volume::annual meeting of the association for computational linguistics::1998
-c4916a5fb50bcc73213b6f054c42ad10c68c52cd,volume::north american chapter of the association for computational linguistics::2016
+8b395470a57c48d174c4216ea21a7a58bc046917,volume::human language technology - the baltic perspectiv::2005
+74d2ad28be32a5802a1b15d4e9a430db2234a3dd,volume::annual meeting of the association for computational linguistics::2004
+5ec85a0d88adcc4344bb5cc81b0d1aef9bcd8dcc,volume::wmt@acl::2014
+97ad70a9fa3f99adf18030e5e38ebe3d90daa2db,volume::international journal of computer vision::2015
+428db42e86f6d51292e23fa57797e35cecd0e2ee,volume::computer vision and pattern recognition::2014
+ea407573bfcd39f9a478fe33cf6ce0ee1780a5f0,volume::annual meeting of the association for computational linguistics::2015
 7ff5cff8e1c33b30226bf0b2384cbfd7481a4332,volume::annual meeting of the association for computational linguistics::2009
+424561d8585ff8ebce7d5d07de8dbf7aae5e7270,volume::ieee transactions on pattern analysis and machine intelligence::2015
 5183230b706b72f6f6c19415c423d93c79ddde53,volume::ieee transactions on pattern analysis and machine intelligence::2012
 547f23597f9ec8a93f66cedaa6fbfb73960426b1,volume::annual meeting of the association for computational linguistics::1998
 02534853626c18c9a097c2712f1ddf3613257d35,volume::annual meeting of the association for computational linguistics::2016
-5ed791f810da580c78df6a052c6b9f2e258f6b0a,volume::annual meeting of the association for computational linguistics::2016
+c636a2dd242908fe2e598a1077c0c57bfdea8633,volume::coco@nips::2016
+c6e5df6322659276da6133f9b734a389d7a255e8,volume::annual meeting of the association for computational linguistics::2016
 2c1890864c1c2b750f48316dc8b650ba4772adc5,volume::computer vision and pattern recognition::2015
-dbb3b9c94129fe7a29cfdbd97f0ad5b5224ae246,volume::journal of artificial intelligence research::2012
-c63bb976dc0d3a897f3b0920170a4c573ef904c6,volume::north american chapter of the association for computational linguistics::2003
+56fcf886de43d431590c5617546f75c4c16f3ad4,volume::wmt@acl::2014
 98ea4abc9bf0e30eb020db2075c9c8a039a848a3,volume::north american chapter of the association for computational linguistics::2016
-ea419a6e8583d12f6b91be48df41edb7a8b8d6b6,volume::annual meeting of the association for computational linguistics::2002
-8b395470a57c48d174c4216ea21a7a58bc046917,volume::human language technology - the baltic perspectiv::2005
-c8efcc854d97dfc2a42b83316a2109f9d166e43f,volume::north american chapter of the association for computational linguistics::2018
+1174297ddcf08937a94d8efe4c1efb65f3b92fd8,volume::annual meeting of the association for computational linguistics::2004
+8490431f3a76fbd165d108eba938ead212a2a639,volume::annual meeting of the association for computational linguistics::2017
+5b6ec746d309b165f9f9def873a2375b6fb40f3d,volume::computer vision and pattern recognition::2016
 7345843e87c81e24e42264859b214d26042f8d51,volume::north american chapter of the association for computational linguistics::2016
-f52de7242e574b70410ca6fb70b79c811919fc00,volume::annual meeting of the association for computational linguistics::2006
 727e1e16ede6eaad241bad11c525da07b154c688,volume::journal of artificial intelligence research::2000
+47f5682448cdc0b650b54e7f59d22d72f4976c2d,volume::journal of artificial intelligence research::2006
+86c2a7dc48445d75ec9bc71f7d9fdec622687e90,volume::annual meeting of the association for computational linguistics::2015
+104715e1097b7ebee436058bfd9f45540f269845,volume::annual meeting of the association for computational linguistics::2017
+d8c5e6adf7023def3be0bee91799e18607cf588f,volume::wmt@emnlp::2015
+c4744a7c2bb298e4a52289a1e085c71cc3d37bc6,volume::annual meeting of the association for computational linguistics::2019
+aab5002a22b9b4244a8329b140bd0a86021aa2d1,volume::annual meeting of the association for computational linguistics::2017
+a486e2839291111bb44fa1f07731ada123539f75,volume::transactions of the association for computational linguistics::2016
+4b75d707eb3ffe4607c8cdd5436c8d7f8573fed9,volume::annual meeting of the association for computational linguistics::2014
+0f2ea810c16275dc74e880296e20dbd83b1bae1c,volume::annual meeting of the association for computational linguistics::2016
+0e3e3c3d8ae5cb7c4636870d69967c197484d3bb,volume::annual meeting of the association for computational linguistics::1994
+3d1d42c9435b419ac928ebf7bcf4c86a460d6ef4,volume::annual meeting of the association for computational linguistics::2014
+193edd20cae92c6759c18ce93eeea96afd9528eb,volume::neural networks::2014
+ab4850b6151ca9a9337dbba94115bde342876d50,volume::machine-mediated learning::2011
+acec46ffd3f6046af97529127d98f1d623816ea4,volume::annual meeting of the association for computational linguistics::2016
+4d070993cb75407b285e14cb8aac0077624ef4d9,volume::annual meeting of the association for computational linguistics::2016
+83cf4b2f39bcc802b09fd59b69e23068447b26b7,volume::annual meeting of the association for computational linguistics::2015
+4dabd6182ce2681c758f654561d351739e8df7bf,volume::north american chapter of the association for computational linguistics::2015
+722e01d5ba05083f7a091f3188cfdfcf183a325d,volume::annual meeting of the association for computational linguistics::2015
+7a67159fc7bc76d0b37930b55005a69b51241635,volume::north american chapter of the association for computational linguistics::2016
+b4299baa815ca5a815a70fba94a9f6f2b42fff19,volume::annual meeting of the association for computational linguistics::2005
+c4916a5fb50bcc73213b6f054c42ad10c68c52cd,volume::north american chapter of the association for computational linguistics::2016
+0183b3e9d84c15c7048e6c2149ed86257ccdc6cb,volume::annual meeting of the association for computational linguistics::2014
+9e7c7853a16a378cc24a082153b282257a9675b7,volume::annual meeting of the association for computational linguistics::2002
+dbb3b9c94129fe7a29cfdbd97f0ad5b5224ae246,volume::journal of artificial intelligence research::2012
+0fac3a87cf6f214a10f4e39d73e119ea81b52e46,volume::annual meeting of the association for computational linguistics::2015
+bdaf232c561f1f50e88b1d24097e214890b37e8b,volume::annual meeting of the association for computational linguistics::1991
+83d4f8b0606ee17be1aef83063c70d6d67b10a52,volume::wmt@acl::2014
+5247a6e3a60ff0381355e66bfc313bf27512ae0c,volume::north american chapter of the association for computational linguistics::2015
+0ffa423a5283396c88ff3d4033d541796bd039cc,volume::annual meeting of the association for computational linguistics::1997
+72829d537f0ec8b1cc0ced2f278bb56ce89f1b0c,volume::neural computation::2011
+522e90b9fccfd3c1c0603359eb04757d770c1ab5,volume::neural networks::2012
+ce8cca19455e8d3055c57a9bafe882984c95a201,volume::annual meeting of the association for computational linguistics::1979
+c45fd881bcc20bc1a754ee4b446d99aaff1d3dd5,volume::transactions of the association for computational linguistics::2013
+b951b9f78b98a186ba259027996a48e4189d37e5,volume::ieee transactions on pattern analysis and machine intelligence::1995
+1cad303159f86f3f1308d36ad56570111bf028a3,volume::wmt@emnlp::2014
+668b1277fbece28c4841eeab1c97e4ebd0079700,volume::technometrics::2006
+f52de7242e574b70410ca6fb70b79c811919fc00,volume::annual meeting of the association for computational linguistics::2006
+769ef3d5021cd71c37d2c403f231a53d1accf786,volume::vestnik komp iuternykh i informatsionnykh tekhnologii::2016
+c6867b6b564462d6b902f68e0bfa58f4717ca1cc,volume::neural computation::1994
+43795b7bac3d921c4e579964b54187bdbf6c6330,volume::north american chapter of the association for computational linguistics::2014
+1682b8b395c7d7fa30b3cec961ac81fdda53e72d,volume::north american chapter of the association for computational linguistics::2015
+0ecb33ced5b0976accdf13817151f80568b6fdcb,volume::annual meeting of the association for computational linguistics::2005
+9f2a8e923965b23c11066a2ead79658208f1fae1,volume::annual meeting of the association for computational linguistics::2015
+897249c93f55ef1c0d2aa1e799eb67b414c6d4a6,volume::north american chapter of the association for computational linguistics::2003
+5ed791f810da580c78df6a052c6b9f2e258f6b0a,volume::annual meeting of the association for computational linguistics::2016
+3779a1a74e9901db6d99c62fa36ef8475f4a4b35,volume::annual meeting of the association for computational linguistics::2014
+2805537bec87a6177037b18f9a3a9d3f1038867b,volume::vision research::1997
+1ec86811a79fb02a1c551b8f418314a00f5f5a99,volume::journal of artificial intelligence research::2008
+f6e91c9e7e8f8a577a98ecfcfa998212a683195a,volume::ieee trans. neural networks::1996
+4f410ab5c8b12b34b38421241366ee456bbebab9,volume::annual meeting of the association for computational linguistics::2005
+9ed9bff37ec952134564b3b2a022b7aba9479ff2,volume::north american chapter of the association for computational linguistics::2016
+463dbd690d912b23d29b7581fb6b253b36f50394,volume::annual meeting of the association for computational linguistics::1999

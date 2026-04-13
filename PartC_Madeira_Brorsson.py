@@ -41,7 +41,7 @@ def define_database_community(tx):
 def identify_database_venues(tx):
     tx.run("""
         MATCH (c:Community {name: "Database"})
-        CALL (c){
+        CALL (c) {
             WITH c
             MATCH (v)
             WHERE v:Conference OR v:Workshop
@@ -56,7 +56,7 @@ def identify_database_venues(tx):
             RETURN count(*) AS venueAssignments
         }
         WITH c, coalesce(venueAssignments, 0) AS venueAssignments
-        CALL (c){
+        CALL (c) {
             WITH c
             MATCH (j:Journal)-[:HAS_VOLUME]->(vol:Volume)
             MATCH (p:Paper)-[:PUBLISHED_IN]->(vol)

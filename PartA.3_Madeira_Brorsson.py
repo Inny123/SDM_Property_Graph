@@ -3,7 +3,7 @@ import os
 
 URI = "neo4j://127.0.0.1:7687"
 USER = "neo4j"
-PASSWORD = os.environ["NEO4J_PASSWORD"]
+PASSWORD = os.environ.get("NEO4J_PASSWORD")
 
 
 def create_constraints(tx):

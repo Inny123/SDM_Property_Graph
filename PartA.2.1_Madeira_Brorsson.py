@@ -1,5 +1,4 @@
 import os
-
 import requests
 import csv
 import time
@@ -62,7 +61,7 @@ def collect_papers(client, num_papers=500):
     ]
     
     papers = {}
-    papers_per_topic = 100
+    papers_per_topic = 150
     
     for topic in topics:
         print(f"Searching for papers on: {topic}")
@@ -275,7 +274,7 @@ def main():
     
     paper_map = {p['paperId']: p for p in papers if p.get('paperId')}
 
-    for iteration in range(1, 10):
+    for iteration in range(1, 15):
         print(f"\nIteration {iteration}: Fetching top 125 most-referenced papers...")
         new_papers = fetch_top_cited_papers(client, list(paper_map.values()), top_n=125)
 

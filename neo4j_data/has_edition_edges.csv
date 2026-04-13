@@ -20,12 +20,12 @@ workshop::information theory workshop,edition::information theory workshop::2020
 conference::international symposium on information theory,edition::international symposium on information theory::2019
 conference::international symposium on information theory,edition::international symposium on information theory::2019
 conference::international symposium on information theory,edition::international symposium on information theory::2018
-conference::international symposium on information theory,edition::international symposium on information theory::2018
 conference::international symposium on information theory,edition::international symposium on information theory::2017
 conference::international symposium on information theory,edition::international symposium on information theory::2019
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2017
+conference::international symposium on information theory,edition::international symposium on information theory::2018
 workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2017
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
 conference::international symposium on information theory,edition::international symposium on information theory::2019
@@ -41,105 +41,134 @@ conference::conference on computational natural language learning,edition::confe
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::european conference on computer vision,edition::european conference on computer vision::2014
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
 conference::ieee annual symposium on foundations of computer science,edition::ieee annual symposium on foundations of computer science::2017
 conference::conference on computational natural language learning,edition::conference on computational natural language learning::2016
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2017
 conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::2016
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::international conference on computational linguistics,edition::international conference on computational linguistics::2004
 workshop::scandinavian workshop on algorithm theory,edition::scandinavian workshop on algorithm theory::2008
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2017
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
 conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2015
-workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
 conference::2014 ieee conference on computer vision and pattern recognition,edition::2014 ieee conference on computer vision and pattern recognition::2013
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
 workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
 conference::international symposium on information theory,edition::international symposium on information theory::2019
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2018
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
+conference::conference on computational natural language learning,edition::conference on computational natural language learning::2015
+workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
 conference::european conference on computer vision,edition::european conference on computer vision::2013
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
-"conference::ieee international conference on acoustics, speech, and signal processing","edition::ieee international conference on acoustics, speech, and signal processing::2013"
 conference::international conference on computational linguistics,edition::international conference on computational linguistics::2002
+"conference::ieee international conference on acoustics, speech, and signal processing","edition::ieee international conference on acoustics, speech, and signal processing::2011"
+"conference::ieee international conference on acoustics, speech, and signal processing","edition::ieee international conference on acoustics, speech, and signal processing::2013"
 conference::international conference on computational logic,edition::international conference on computational logic::2014
 conference::ieee annual symposium on foundations of computer science,edition::ieee annual symposium on foundations of computer science::2019
-"conference::ieee international conference on acoustics, speech, and signal processing","edition::ieee international conference on acoustics, speech, and signal processing::2011"
 workshop::2014 ieee conference on computer vision and pattern recognition workshops,edition::2014 ieee conference on computer vision and pattern recognition workshops::2014
-workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
 conference::2012 ieee conference on computer vision and pattern recognition,edition::2012 ieee conference on computer vision and pattern recognition::2012
 workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2015
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::annual conference computational learning theory,edition::annual conference computational learning theory::2019
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2008
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
 conference::international conference on computational logic,edition::international conference on computational logic::2010
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2008
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
 conference::international conference on computational logic,edition::international conference on computational logic::2003
-workshop::workshop on analytic algorithmics and combinatorics,edition::workshop on analytic algorithmics and combinatorics::2017
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
+workshop::workshop on analytic algorithmics and combinatorics,edition::workshop on analytic algorithmics and combinatorics::2017
+conference::conference on machine translation,edition::conference on machine translation::2018
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
+workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
 workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
 conference::2014 ieee conference on computer vision and pattern recognition,edition::2014 ieee conference on computer vision and pattern recognition::2014
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::ieee international conference on computer vision,edition::ieee international conference on computer vision::2015
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::international conference on frontiers in handwriting recognition,edition::international conference on frontiers in handwriting recognition::2013
-conference::conference on machine translation,edition::conference on machine translation::2016
-conference::conference on computational natural language learning,edition::conference on computational natural language learning::2015
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
-conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::2016
+conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2012
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
+"conference::2001 ieee international conference on acoustics, speech, and signal processing. proceedings (cat. no.01ch37221)","edition::2001 ieee international conference on acoustics, speech, and signal processing. proceedings (cat. no.01ch37221)::2001"
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
+conference::conference on machine translation,edition::conference on machine translation::2016
+conference::conference on machine translation,edition::conference on machine translation::2018
 "conference::ieee international conference on acoustics, speech, and signal processing","edition::ieee international conference on acoustics, speech, and signal processing::2012"
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2002
 conference::international conference on computational semantics,edition::international conference on computational semantics::2010
 conference::2010 ieee computer society conference on computer vision and pattern recognition,edition::2010 ieee computer society conference on computer vision and pattern recognition::2010
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
 conference::international conference on computational logic,edition::international conference on computational logic::2007
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2014
-conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2012
-conference::conference on machine translation,edition::conference on machine translation::2018
-conference::conference on machine translation,edition::conference on machine translation::2018
-conference::international conference on computational logic,edition::international conference on computational logic::2005
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
+conference::international conference on computational logic,edition::international conference on computational logic::2005
 conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::2016
 conference::conference on computational natural language learning,edition::conference on computational natural language learning::2009
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
+conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::2016
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
 workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2015
-conference::european conference on computer vision,edition::european conference on computer vision::2016
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2017
-conference::conference on computational natural language learning,edition::conference on computational natural language learning::2017
-"conference::2001 ieee international conference on acoustics, speech, and signal processing. proceedings (cat. no.01ch37221)","edition::2001 ieee international conference on acoustics, speech, and signal processing. proceedings (cat. no.01ch37221)::2001"
 conference::conference on computational natural language learning,edition::conference on computational natural language learning::2003
 conference::british machine vision conference,edition::british machine vision conference::2014
-conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2015
-conference::2013 ieee conference on computer vision and pattern recognition,edition::2013 ieee conference on computer vision and pattern recognition::2012
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
-conference::international conference on computational logic,edition::international conference on computational logic::2003
-workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
-conference::ieee international conference on computer vision,edition::ieee international conference on computer vision::2015
-conference::conference on computational natural language learning,edition::conference on computational natural language learning::2014
 conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2010
 conference::european conference on computer vision,edition::european conference on computer vision::2016
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
-conference::acm conference on recommender systems,edition::acm conference on recommender systems::2013
+workshop::international workshop on semantic evaluation,edition::international workshop on semantic evaluation::2014
+conference::international conference on computational logic,edition::international conference on computational logic::2003
+conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2015
 conference::conference on computational natural language learning,edition::conference on computational natural language learning::2014
+conference::ieee international conference on computer vision,edition::ieee international conference on computer vision::2015
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
+conference::acm conference on recommender systems,edition::acm conference on recommender systems::2013
 conference::british machine vision conference,edition::british machine vision conference::2016
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
 conference::conference on computational natural language learning,edition::conference on computational natural language learning::2003
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2002
-conference::2014 ieee conference on computer vision and pattern recognition,edition::2014 ieee conference on computer vision and pattern recognition::2013
+conference::2013 ieee conference on computer vision and pattern recognition,edition::2013 ieee conference on computer vision and pattern recognition::2012
 conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2011
 conference::international conference on computational logic,edition::international conference on computational logic::2006
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2008
 conference::applied natural language processing conference,edition::applied natural language processing conference::1988
 conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::2016
-conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2009
 workshop::ieee workshop/winter conference on applications of computer vision,edition::ieee workshop/winter conference on applications of computer vision::2015
 conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
 conference::international conference on computational semantics,edition::international conference on computational semantics::2009
+conference::international symposium on information theory,edition::international symposium on information theory::2016
+conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::2003
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2018
+conference::2014 ieee conference on computer vision and pattern recognition,edition::2014 ieee conference on computer vision and pattern recognition::2014
+conference::european conference on computer vision,edition::european conference on computer vision::2016
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2016
+"conference::ieee international conference on acoustics, speech, and signal processing","edition::ieee international conference on acoustics, speech, and signal processing::2015"
+conference::ieee international conference on computer vision,edition::ieee international conference on computer vision::2015
+conference::international conference on machine learning,edition::international conference on machine learning::2012
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2017
+conference::conference on computational natural language learning,edition::conference on computational natural language learning::2017
+conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2016
+conference::european conference on computer vision,edition::european conference on computer vision::2015
+conference::conference on computational natural language learning,edition::conference on computational natural language learning::2003
+conference::2014 ieee conference on computer vision and pattern recognition,edition::2014 ieee conference on computer vision and pattern recognition::2013
+conference::international conference on machine learning,edition::international conference on machine learning::2011
+conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::1999
+conference::international conference on computational logic,edition::international conference on computational logic::2011
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2013
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2008
+conference::international conference on computational logic,edition::international conference on computational logic::2000
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2009
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
+conference::international conference on computational linguistics,edition::international conference on computational linguistics::1996
+conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2011
+conference::european conference on machine learning,edition::european conference on machine learning::2001
+conference::conference of the european chapter of the association for computational linguistics,edition::conference of the european chapter of the association for computational linguistics::2014
+conference::conference on computational natural language learning,edition::conference on computational natural language learning::2014
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2015
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2002
+conference::conference on computational natural language learning,edition::conference on computational natural language learning::2003
+conference::international conference on computational linguistics,edition::international conference on computational linguistics::2008
+conference::aaai conference on artificial intelligence,edition::aaai conference on artificial intelligence::2011
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2008
+conference::international conference on computational linguistics,edition::international conference on computational linguistics::1992
+conference::conference on empirical methods in natural language processing,edition::conference on empirical methods in natural language processing::2008

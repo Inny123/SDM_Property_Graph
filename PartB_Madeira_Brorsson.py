@@ -3,9 +3,9 @@ import os
 from neo4j import GraphDatabase
 import json
 
-NEO4J_URI = "neo4j://127.0.0.1:7687"
+NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = os.environ["NEO4J_PASSWORD"]
+NEO4J_PASSWORD = "Fuckth1ssh1t"
 
 class PartBQueries:
     def __init__(self, uri, user, password):
@@ -20,11 +20,10 @@ class PartBQueries:
         MATCH (venue)-[:HAS_EDITION]->(edition:Edition)
         WHERE venue:Conference OR venue:Workshop
         
-        CALL {
-            WITH venue, edition
+        CALL (venue, edition) {
             MATCH (edition)-[:PUBLISHES]->(proceeding:Proceeding)<-[:PUBLISHED_IN]-(p:Paper)
             WITH p, COUNT { (p)<-[:CITES]-() } AS citation_count
-            ORDER BY citation_count DESC
+            ORDER BY citation_count DESC, p.title ASC
             LIMIT 3
             RETURN {
                 title: p.title,
@@ -32,6 +31,7 @@ class PartBQueries:
                 citations: citation_count
             } AS top_paper_data
         }
+        
         RETURN venue.name AS Venue,
                edition.year AS Year,
                edition.city AS City,
@@ -49,8 +49,7 @@ class PartBQueries:
         MATCH (venue)
         WHERE venue:Conference OR venue:Workshop
         
-        CALL {
-            WITH venue
+        CALL (venue) {
             MATCH (venue)-[:HAS_EDITION]->(edition:Edition)-[:PUBLISHES]->(proceeding:Proceeding)<-[:PUBLISHED_IN]-(paper:Paper)<-[:WRITES]-(author:Author)
             WITH author, collect(DISTINCT edition.year) AS years
             WHERE size(years) >= 4
@@ -75,8 +74,7 @@ class PartBQueries:
         query = """
         MATCH (journal:Journal)
         
-        CALL {
-            WITH journal
+        CALL (journal) {
             MATCH (journal)-[:HAS_VOLUME]->(volume:Volume)<-[:PUBLISHED_IN]-(paper:Paper)
             WHERE volume.year IN [2018, 2019]
             
@@ -111,8 +109,7 @@ class PartBQueries:
         query = """
         MATCH (author:Author)
         
-        CALL {
-            WITH author
+        CALL (author) {
             MATCH (author)-[:WRITES]->(paper:Paper)
             WITH author, paper, COUNT { (paper)<-[:CITES]-() } AS citations
             ORDER BY citations DESC

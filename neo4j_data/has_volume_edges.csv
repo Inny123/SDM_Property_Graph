@@ -45,14 +45,13 @@ journal::information sciences,volume::information sciences::2018
 journal::ieee communications letters,volume::ieee communications letters::2019
 journal::ieee transactions on industrial informatics,volume::ieee transactions on industrial informatics::2018
 journal::computer communications,volume::computer communications::2020
-journal::ieee transactions on cloud computing,volume::ieee transactions on cloud computing::2020
 journal::nanomaterials,volume::nanomaterials::2019
 journal::ieee transactions on big data,volume::ieee transactions on big data::2019
 journal::materials today,volume::materials today::2018
 journal::biorxiv,volume::biorxiv::2019
 journal::mobile information systems,volume::mobile information systems::2018
-journal::nature communications,volume::nature communications::2018
 journal::scientific reports,volume::scientific reports::2018
+journal::nature communications,volume::nature communications::2018
 journal::scientific reports,volume::scientific reports::2018
 journal::acm computing surveys,volume::acm computing surveys::2018
 journal::ieee transactions on big data,volume::ieee transactions on big data::2018
@@ -70,7 +69,6 @@ journal::semantic web,volume::semantic web::2018
 journal::astronomical journal,volume::astronomical journal::2019
 journal::biorxiv,volume::biorxiv::2014
 journal::journal of king saud university: computer and information sciences,volume::journal of king saud university: computer and information sciences::2017
-journal::journal of biomedical semantics,volume::journal of biomedical semantics::2013
 journal::genome biology,volume::genome biology::2016
 journal::biodata mining,volume::biodata mining::2016
 journal::ieee trans. parallel distributed syst.,volume::ieee trans. parallel distributed syst.::2003
@@ -82,7 +80,6 @@ journal::nucleic acids research,volume::nucleic acids research::2010
 journal::nature communications,volume::nature communications::2020
 journal::nature communications,volume::nature communications::2020
 journal::biorxiv,volume::biorxiv::2019
-journal::nature communications,volume::nature communications::2020
 journal::national science review,volume::national science review::2020
 journal::advanced functional materials,volume::advanced functional materials::2019
 journal::plos one,volume::plos one::2006
@@ -118,6 +115,7 @@ journal::nucleic acids research,volume::nucleic acids research::2009
 journal::nature,volume::nature::2008
 journal::nature communications,volume::nature communications::2015
 journal::analytical chemistry,volume::analytical chemistry::2013
+journal::journal of nanobiotechnology,volume::journal of nanobiotechnology::2011
 journal::genome biology,volume::genome biology::2011
 journal::ieee transactions on molecular biological and multi-scale communications,volume::ieee transactions on molecular biological and multi-scale communications::2015
 journal::journal of big data,volume::journal of big data::2015
@@ -126,24 +124,27 @@ journal::annual meeting of the association for computational linguistics,volume:
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2019
 journal::computing in science & engineering (print),volume::computing in science & engineering (print)::2011
 journal::genome biology,volume::genome biology::2004
+journal::nucleic acids res.,volume::nucleic acids res.::2015
 journal::bioinform.,volume::bioinform.::2009
 journal::nucleic acids research,volume::nucleic acids research::2008
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2018
-journal::journal of nanobiotechnology,volume::journal of nanobiotechnology::2011
+journal::nucleic acids research,volume::nucleic acids research::2005
+journal::nature communications,volume::nature communications::2020
 journal::nature biotechnology,volume::nature biotechnology::2017
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2018
-journal::nucleic acids research,volume::nucleic acids research::2005
 journal::nucleic acids research,volume::nucleic acids research::2011
 journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2018
 journal::blackboxnlp@emnlp,volume::blackboxnlp@emnlp::2018
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2017
-journal::science,volume::science::2019
 journal::ieee transactions on information theory,volume::ieee transactions on information theory::2016
 journal::nucleic acids research,volume::nucleic acids research::2011
+journal::genome research,volume::genome research::2002
 journal::biotechniques,volume::biotechniques::2012
 journal::proceedings of the national academy of sciences of the united states of america,volume::proceedings of the national academy of sciences of the united states of america::1996
 journal::ieee transactions on information theory,volume::ieee transactions on information theory::2013
+journal::ieee transactions on information theory,volume::ieee transactions on information theory::2012
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::nucleic acids res.,volume::nucleic acids res.::2013
 journal::nucleic acids research,volume::nucleic acids research::2012
 journal::nucleic acids research,volume::nucleic acids research::2010
 journal::bmc genomics,volume::bmc genomics::2012
@@ -153,19 +154,15 @@ journal::transactions of the association for computational linguistics,volume::t
 journal::genes,volume::genes::2020
 journal::proceedings of the ieee,volume::proceedings of the ieee::2019
 journal::plos one,volume::plos one::2017
-journal::nucleic acids research,volume::nucleic acids research::2017
 journal::biorxiv,volume::biorxiv::2020
-journal::ieee transactions on information theory,volume::ieee transactions on information theory::2018
 journal::ieee transactions on information theory,volume::ieee transactions on information theory::2018
 journal::ieee transactions on information theory,volume::ieee transactions on information theory::2016
 journal::ieee transactions on information theory,volume::ieee transactions on information theory::2004
 journal::gigascience,volume::gigascience::2019
-journal::nature communications,volume::nature communications::2020
 journal::biorxiv,volume::biorxiv::2019
 journal::biorxiv,volume::biorxiv::2019
 journal::nature,volume::nature::2011
 journal::genome biology,volume::genome biology::2009
-journal::biorxiv,volume::biorxiv::2019
 journal::nature biotechnology,volume::nature biotechnology::2015
 journal::nature methods,volume::nature methods::2015
 journal::biorxiv,volume::biorxiv::2015
@@ -175,50 +172,48 @@ journal::nature methods,volume::nature methods::2015
 journal::biorxiv,volume::biorxiv::2014
 journal::biorxiv,volume::biorxiv::2014
 journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2015
-journal::nature,volume::nature::2008
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2019
+journal::science,volume::science::2019
+journal::ieee transactions on information theory,volume::ieee transactions on information theory::2018
 journal::bioinform.,volume::bioinform.::2010
-journal::ieee transactions on information theory,volume::ieee transactions on information theory::2012
+journal::ieee transactions on information theory,volume::ieee transactions on information theory::2011
 journal::nature biotechnology,volume::nature biotechnology::2012
 journal::genome research,volume::genome research::1998
 journal::nature biotechnology,volume::nature biotechnology::2010
-journal::nature methods,volume::nature methods::2009
 journal::genome research,volume::genome research::2008
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2018
-journal::biomed research international,volume::biomed research international::2016
-journal::genome research,volume::genome research::2002
-journal::ieee transactions on information theory,volume::ieee transactions on information theory::2011
+journal::nucleic acids res.,volume::nucleic acids res.::2010
 journal::plos one,volume::plos one::2009
 journal::nucleic acids research,volume::nucleic acids research::2005
-journal::biorxiv,volume::biorxiv::2019
 journal::genome biology,volume::genome biology::2007
 journal::journal of the american chemical society,volume::journal of the american chemical society::2014
 journal::nature biotechnology,volume::nature biotechnology::2014
 journal::breast cancer research,volume::breast cancer research::2005
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2019
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
 journal::rep4nlp@acl,volume::rep4nlp@acl::2016
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
 journal::interspeech,volume::interspeech::2013
 journal::journal of machine learning research,volume::journal of machine learning research::2011
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2005
-journal::genome research,volume::genome research::1998
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2002
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2004
 journal::journal of combinatorial theory,volume::journal of combinatorial theory::2001
-journal::genome research,volume::genome research::2008
+journal::nature,volume::nature::2008
+journal::genome research,volume::genome research::1998
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
 journal::ssst@emnlp,volume::ssst@emnlp::2014
 journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
 journal::bmc bioinformatics,volume::bmc bioinformatics::2010
+journal::nature methods,volume::nature methods::2009
+journal::genome research,volume::genome research::2008
 "journal::ieee transactions on audio, speech, and language processing","volume::ieee transactions on audio, speech, and language processing::2012"
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
 journal::international journal of computer vision,volume::international journal of computer vision::2014
 journal::genome research,volume::genome research::2002
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2003
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2007
@@ -227,136 +222,186 @@ journal::computer vision and pattern recognition,volume::computer vision and pat
 journal::discrete mathematics,volume::discrete mathematics::1993
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2003
-journal::biotechniques,volume::biotechniques::2010
 journal::plos one,volume::plos one::2011
 journal::nature methods,volume::nature methods::2010
 journal::annales de l institut henri poincare-probabilites et statistiques,volume::annales de l institut henri poincare-probabilites et statistiques::2019
 journal::the annals of applied probability,volume::the annals of applied probability::2018
 journal::genome biology,volume::genome biology::2009
-journal::plos biology,volume::plos biology::2007
 journal::cell,volume::cell::2007
 journal::genome research,volume::genome research::2009
 journal::ieee signal processing magazine,volume::ieee signal processing magazine::2012
-journal::cognitive sciences,volume::cognitive sciences::1990
+journal::acm multimedia,volume::acm multimedia::2014
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2019
+journal::acl-pascal@acl,volume::acl-pascal@acl::2007
 journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
-journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2014
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::cognitive sciences,volume::cognitive sciences::1990
 journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::wmt@acl,volume::wmt@acl::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
 journal::genome research,volume::genome research::2001
 journal::genome research,volume::genome research::2002
 journal::ieee transactions on information theory,volume::ieee transactions on information theory::2019
-journal::acm multimedia,volume::acm multimedia::2014
+journal::plos biology,volume::plos biology::2007
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
 journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2010
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::human language technology - the baltic perspectiv,volume::human language technology - the baltic perspectiv::1995
-journal::wmt@acl,volume::wmt@acl::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2018
 journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2013
 journal::ieee transactions on pattern analysis and machine intelligence,volume::ieee transactions on pattern analysis and machine intelligence::2012
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
-journal::journal of combinatorial theory,volume::journal of combinatorial theory::1997
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1999
+journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::ieee transactions on neural networks and learning systems,volume::ieee transactions on neural networks and learning systems::2015
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2006
-journal::scholarpedia,volume::scholarpedia::2008
 journal::journal of molecular biology,volume::journal of molecular biology::1990
 journal::ieee transactions on neural networks,volume::ieee transactions on neural networks::2008
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2003
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2003
 journal::neural computation,volume::neural computation::2010
-journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2014
-journal::wmt@emnlp,volume::wmt@emnlp::2015
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2015
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2019
-journal::acl-pascal@acl,volume::acl-pascal@acl::2007
-journal::cacm,volume::cacm::1965
-journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1996
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
-journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2016
 journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::cacm,volume::cacm::1965
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1996
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1999
+journal::scholarpedia,volume::scholarpedia::2008
+journal::journal of combinatorial theory,volume::journal of combinatorial theory::1997
+journal::wmt@acl,volume::wmt@acl::2014
+journal::vision,volume::vision::2011
+journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2016
 journal::wmt@emnlp,volume::wmt@emnlp::2015
 journal::ieee transactions on pattern analysis and machine intelligence,volume::ieee transactions on pattern analysis and machine intelligence::2014
-journal::wmt@acl,volume::wmt@acl::2014
-journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
 journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2013
-journal::vision,volume::vision::2011
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2006
-journal::j. documentation,volume::j. documentation::2021
 journal::interspeech,volume::interspeech::2002
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2018
-journal::wmt@acl,volume::wmt@acl::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2018
+journal::wmt@emnlp,volume::wmt@emnlp::2015
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
+journal::database j. biol. databases curation,volume::database j. biol. databases curation::2010
+journal::nucleic acids res.,volume::nucleic acids res.::2006
 journal::bmc genomics,volume::bmc genomics::2006
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
-journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2016
-journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2016
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
+journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2015
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2006
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
+journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2016
 journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2016
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2015
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
-journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2015
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2014
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2006
 journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2015
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2006
 journal::news@acl,volume::news@acl::2015
 journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2015
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
-journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2006
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
-journal::human language technology - the baltic perspectiv,volume::human language technology - the baltic perspectiv::2005
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
-journal::international journal of computer vision,volume::international journal of computer vision::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2006
+journal::human language technology - the baltic perspectiv,volume::human language technology - the baltic perspectiv::2005
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2014
 journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2015
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2006
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
 journal::conll/lll,volume::conll/lll::2000
-journal::coco@nips,volume::coco@nips::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2005
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2009
 journal::ecml/pkdd,volume::ecml/pkdd::2014
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2003
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2004
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2003
+journal::j. documentation,volume::j. documentation::2021
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1989
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2009
 journal::computational linguistics,volume::computational linguistics::2004
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2002
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1998
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
+journal::human language technology - the baltic perspectiv,volume::human language technology - the baltic perspectiv::2005
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2004
+journal::wmt@acl,volume::wmt@acl::2014
+journal::international journal of computer vision,volume::international journal of computer vision::2015
+journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2009
+journal::ieee transactions on pattern analysis and machine intelligence,volume::ieee transactions on pattern analysis and machine intelligence::2015
 journal::ieee transactions on pattern analysis and machine intelligence,volume::ieee transactions on pattern analysis and machine intelligence::2012
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1998
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::coco@nips,volume::coco@nips::2016
 journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
 journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2015
-journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2012
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2003
+journal::wmt@acl,volume::wmt@acl::2014
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2002
-journal::human language technology - the baltic perspectiv,volume::human language technology - the baltic perspectiv::2005
-journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2018
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2004
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
+journal::computer vision and pattern recognition,volume::computer vision and pattern recognition::2016
 journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
-journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2006
 journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2000
+journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2006
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
+journal::wmt@emnlp,volume::wmt@emnlp::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2019
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2017
+journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1994
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::neural networks,volume::neural networks::2014
+journal::machine-mediated learning,volume::machine-mediated learning::2011
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2005
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2002
+journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2012
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1991
+journal::wmt@acl,volume::wmt@acl::2014
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1997
+journal::neural computation,volume::neural computation::2011
+journal::neural networks,volume::neural networks::2012
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1979
+journal::transactions of the association for computational linguistics,volume::transactions of the association for computational linguistics::2013
+journal::ieee transactions on pattern analysis and machine intelligence,volume::ieee transactions on pattern analysis and machine intelligence::1995
+journal::wmt@emnlp,volume::wmt@emnlp::2014
+journal::technometrics,volume::technometrics::2006
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2006
+journal::vestnik komp iuternykh i informatsionnykh tekhnologii,volume::vestnik komp iuternykh i informatsionnykh tekhnologii::2016
+journal::neural computation,volume::neural computation::1994
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2014
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2015
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2005
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2015
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2003
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2014
+journal::vision research,volume::vision research::1997
+journal::journal of artificial intelligence research,volume::journal of artificial intelligence research::2008
+journal::ieee trans. neural networks,volume::ieee trans. neural networks::1996
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::2005
+journal::north american chapter of the association for computational linguistics,volume::north american chapter of the association for computational linguistics::2016
+journal::annual meeting of the association for computational linguistics,volume::annual meeting of the association for computational linguistics::1999
