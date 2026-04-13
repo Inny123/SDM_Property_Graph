@@ -5,7 +5,7 @@ import json
 
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "Fuckth1ssh1t"
+NEO4J_PASSWORD = os.environ["NEO4J_PASSWORD"]
 
 class PartBQueries:
     def __init__(self, uri, user, password):
