@@ -37,7 +37,7 @@ class GraphAlgorithms:
             result = session.run(query)
             return dict(result.single())
     
-    def run_pagerank(self, limit=20):
+    def run_pagerank(self, limit=10):
         query = """
         CALL gds.pageRank.stream('citation-graph')
         YIELD nodeId, score
@@ -52,7 +52,7 @@ class GraphAlgorithms:
             result = session.run(query, limit=limit)
             return [dict(record) for record in result]
     
-    def run_louvain_syntactic(self, limit=10):
+    def run_louvain_syntactic(self, limit=5):
         """Louvain with syntactic community IDs (arbitrary numbers)"""
         query = """
         CALL gds.louvain.stream('citation-graph')
@@ -73,7 +73,7 @@ class GraphAlgorithms:
             result = session.run(query, limit=limit)
             return [dict(record) for record in result]
     
-    def run_louvain_semantic(self, limit=10):
+    def run_louvain_semantic(self, limit=5):
         """Louvain with semantic labels (most common topic per community)"""
         query = """
         CALL gds.louvain.stream('citation-graph')
@@ -131,19 +131,19 @@ def main():
         print("\n" + "="*60)
         print("PAGERANK ALGORITHM")
         print("="*60)
-        pagerank_results = gds.run_pagerank(limit=20)
+        pagerank_results = gds.run_pagerank()
         print(json.dumps(pagerank_results, indent=2))
         
         print("\n" + "="*60)
         print("LOUVAIN COMMUNITY DETECTION - SYNTACTIC (Community IDs)")
         print("="*60)
-        louvain_syntactic = gds.run_louvain_syntactic(limit=10)
+        louvain_syntactic = gds.run_louvain_syntactic()
         print(json.dumps(louvain_syntactic, indent=2))
         
         print("\n" + "="*60)
         print("LOUVAIN COMMUNITY DETECTION - SEMANTIC (Topic Labels)")
         print("="*60)
-        louvain_semantic = gds.run_louvain_semantic(limit=10)
+        louvain_semantic = gds.run_louvain_semantic()
         print(json.dumps(louvain_semantic, indent=2))
         
         print("\n" + "="*60)
