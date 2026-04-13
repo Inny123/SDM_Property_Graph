@@ -15,6 +15,14 @@ class GraphAlgorithms:
         self.driver.close()
     
     def create_graph_projection(self):
+        # First try to drop if it exists
+        try:
+            with self.driver.session() as session:
+                session.run("CALL gds.graph.drop('citation-graph', false)")
+                print("Dropped existing projection 'citation-graph'")
+        except:
+            pass  # Projection doesn't exist, that's fine
+        
         query = """
         CALL gds.graph.project(
             'citation-graph',
@@ -44,21 +52,62 @@ class GraphAlgorithms:
             result = session.run(query, limit=limit)
             return [dict(record) for record in result]
     
-    def run_louvain(self, limit=10):
+    def run_louvain_syntactic(self, limit=10):
+        """Louvain with syntactic community IDs (arbitrary numbers)"""
         query = """
         CALL gds.louvain.stream('citation-graph')
         YIELD nodeId, communityId
-        WITH communityId, collect(gds.util.asNode(nodeId).title) AS papers
-        RETURN communityId AS CommunityID,
-               size(papers) AS PaperCount,
-               papers[0..5] AS SamplePapers
-        ORDER BY PaperCount DESC
+        WITH communityId, collect(gds.util.asNode(nodeId)) AS nodes
+        WITH communityId, 
+             nodes,
+             size(nodes) AS paperCount,
+             [n IN nodes | n.title][0..5] AS samplePapers
+        ORDER BY paperCount DESC
         LIMIT $limit
+        RETURN 'Community ' + toString(communityId) AS CommunityLabel,
+               paperCount AS PaperCount,
+               samplePapers AS SamplePapers
         """
         
         with self.driver.session() as session:
             result = session.run(query, limit=limit)
             return [dict(record) for record in result]
+    
+    def run_louvain_semantic(self, limit=10):
+        """Louvain with semantic labels (most common topic per community)"""
+        query = """
+        CALL gds.louvain.stream('citation-graph')
+        YIELD nodeId, communityId
+        WITH communityId, gds.util.asNode(nodeId) AS paper
+        // Get all topics for papers in this community
+        OPTIONAL MATCH (paper)-[:ABOUT]->(topic:Topic)
+        // Collect DISTINCT papers first (prevents duplication)
+        WITH communityId, 
+             collect(DISTINCT paper.title) AS paperTitles,
+             collect(topic.name) AS allTopics
+        
+        WITH communityId,
+             paperTitles,
+             size(paperTitles) AS paperCount,
+             allTopics
+        
+        WITH communityId,
+             paperCount,
+             paperTitles,
+             head([t IN allTopics WHERE t IS NOT NULL]) AS dominantTopic
+        
+        ORDER BY paperCount DESC
+        LIMIT $limit
+        
+        RETURN COALESCE(dominantTopic, 'Community ' + toString(communityId)) AS CommunityTopic,
+               paperCount AS PaperCount,
+               paperTitles[0..5] AS SamplePapers
+        """
+        
+        with self.driver.session() as session:
+            result = session.run(query, limit=limit)
+            return [dict(record) for record in result]
+ 
     
     def drop_graph_projection(self):
         query = """
@@ -70,7 +119,7 @@ class GraphAlgorithms:
         with self.driver.session() as session:
             result = session.run(query)
             return dict(result.single())
-
+ 
 def main():
     gds = GraphAlgorithms(NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD)
     
@@ -79,20 +128,32 @@ def main():
         projection_info = gds.create_graph_projection()
         print(json.dumps(projection_info, indent=2))
         
-        print("\nRunning PageRank algorithm...")
+        print("\n" + "="*60)
+        print("PAGERANK ALGORITHM")
+        print("="*60)
         pagerank_results = gds.run_pagerank(limit=20)
         print(json.dumps(pagerank_results, indent=2))
         
-        print("\nRunning Louvain community detection...")
-        louvain_results = gds.run_louvain(limit=10)
-        print(json.dumps(louvain_results, indent=2))
+        print("\n" + "="*60)
+        print("LOUVAIN COMMUNITY DETECTION - SYNTACTIC (Community IDs)")
+        print("="*60)
+        louvain_syntactic = gds.run_louvain_syntactic(limit=10)
+        print(json.dumps(louvain_syntactic, indent=2))
         
-        print("\nDropping graph projection...")
+        print("\n" + "="*60)
+        print("LOUVAIN COMMUNITY DETECTION - SEMANTIC (Topic Labels)")
+        print("="*60)
+        louvain_semantic = gds.run_louvain_semantic(limit=10)
+        print(json.dumps(louvain_semantic, indent=2))
+        
+        print("\n" + "="*60)
+        print("CLEANUP")
+        print("="*60)
         drop_info = gds.drop_graph_projection()
         print(json.dumps(drop_info, indent=2))
         
     finally:
         gds.close()
-
+ 
 if __name__ == "__main__":
     main()
